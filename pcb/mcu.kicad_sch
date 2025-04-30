@@ -7872,7 +7872,7 @@
 			)
 		)
 		(property "MPN" "CL10A106MO8NQNC"
-			(at 168.91 104.14 0)
+			(at 168.148 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9487,7 +9487,7 @@
 			)
 		)
 		(property "LCSC" "C6119849"
-			(at 160.02 104.14 0)
+			(at 152.654 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9495,7 +9495,7 @@
 			)
 		)
 		(property "LCSC_PN" "C6119849"
-			(at 160.02 104.14 0)
+			(at 152.908 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9503,7 +9503,7 @@
 			)
 		)
 		(property "MN" "HRE"
-			(at 160.02 104.14 0)
+			(at 162.56 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9511,7 +9511,7 @@
 			)
 		)
 		(property "MPN" "CGA0603X5R105K160JT"
-			(at 160.02 104.14 0)
+			(at 153.162 100.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
