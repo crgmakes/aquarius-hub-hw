@@ -1127,302 +1127,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "EVQ-Q2B02W_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW"
-				(at -6.3593 5.5931 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "EVQ-Q2B02W"
-				(at -6.604 -7.112 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CRGM Switches:EVQ-Q2B02W"
-				(at 1.016 15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/PANA/PANA-S-A0000770395/PANA-S-A0000770395-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
-				(at 9.652 -14.478 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Tactile Switch; SPST; 6mm Sqr SMD; OF=0.5N; Hgt=2.5mm; White; No Gnd"
-				(at 0.762 -10.414 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Panasonic"
-				(at -7.874 13.208 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MPN" "EVQ-Q2B02W"
-				(at 4.318 13.208 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "SMD, 6MM SQ"
-				(at -2.54 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "LCSC_PN" "C2976606"
-				(at -8.128 11.938 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch, tactile, push button"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "EVQ-Q2B02W_1_0_0"
-				(rectangle
-					(start -6.35 5.08)
-					(end 6.35 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.54) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 1.27)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -1.27)
-					(radius 0.254)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "EVQ-Q2B02W_1_1_0"
-				(pin passive line
-					(at -8.89 2.54 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -8.89 -2.54 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 8.89 2.54 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 8.89 -2.54 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "LED:WS2812B-2020"
 			(pin_names
 				(offset 0.254)
@@ -3007,8 +2711,16 @@
 		(uuid "18167d7c-9d58-4f3f-990f-20a0953873f4")
 	)
 	(no_connect
+		(at 39.37 189.23)
+		(uuid "217b70dc-039d-4ba4-b21e-f010df30d471")
+	)
+	(no_connect
 		(at 114.3 81.28)
 		(uuid "261a7382-c4b1-43e7-961f-bbd2f166daf3")
+	)
+	(no_connect
+		(at 24.13 189.23)
+		(uuid "42d32e7d-3096-4498-b45c-1137efd676c3")
 	)
 	(no_connect
 		(at 250.19 93.98)
@@ -3023,12 +2735,20 @@
 		(uuid "5f1cd5ac-8f6a-4a12-83a5-90f53f31ad31")
 	)
 	(no_connect
+		(at 31.75 189.23)
+		(uuid "77143507-b747-44c3-8dd1-7635ebab87bc")
+	)
+	(no_connect
 		(at 190.5 26.67)
 		(uuid "7f62c8ca-55d9-44b4-b181-5e59f08c7c83")
 	)
 	(no_connect
 		(at 114.3 78.74)
 		(uuid "8817dbb4-6c8f-41cf-82f8-c2415cf782ba")
+	)
+	(no_connect
+		(at 46.99 189.23)
+		(uuid "c79090ca-a1ed-422b-b7f0-e11c407dd5fe")
 	)
 	(no_connect
 		(at 195.58 93.98)
@@ -3437,6 +3157,16 @@
 			(type default)
 		)
 		(uuid "a7e73612-be01-4dad-9d95-019496e48c7b")
+	)
+	(wire
+		(pts
+			(xy 73.66 66.04) (xy 83.82 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8dc0c29-6e76-4194-92f8-d17bce70b91b")
 	)
 	(wire
 		(pts
@@ -6609,6 +6339,27 @@
 			)
 		)
 	)
+	(global_label "SPI_IRQ0"
+		(shape input)
+		(at 73.66 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "14ab3a56-9ef4-4b85-b5d0-f935a27839dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.2081 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "I2C_SDA"
 		(shape input)
 		(at 34.29 48.26 180)
@@ -6798,7 +6549,7 @@
 			)
 		)
 	)
-	(global_label "SPI_CS1"
+	(global_label "SPI_CE0"
 		(shape output)
 		(at 73.66 68.58 180)
 		(fields_autoplaced yes)
@@ -6810,7 +6561,7 @@
 		)
 		(uuid "68d44fb1-680b-47ef-94f4-1ef479b46a54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.9339 68.58 0)
+			(at 62.9944 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6883,7 +6634,7 @@
 		)
 	)
 	(global_label "SPI_MOSI"
-		(shape input)
+		(shape output)
 		(at 73.66 78.74 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7093,7 +6844,7 @@
 		)
 	)
 	(global_label "SPI_MISO"
-		(shape output)
+		(shape input)
 		(at 73.66 73.66 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7743,6 +7494,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C2930027"
@@ -7751,6 +7503,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "JST"
@@ -7759,6 +7512,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
@@ -7767,6 +7521,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "FOJAN"
@@ -7853,6 +7608,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C92487"
@@ -7861,6 +7617,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Samsung"
@@ -7869,6 +7626,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "CL10A106MO8NQNC"
@@ -7877,6 +7635,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Samsung"
@@ -7974,7 +7733,7 @@
 		(at 241.3 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "30bfd005-b426-4b17-baa3-1c8489e5cff9")
@@ -8174,6 +7933,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "XF2M-1415-1A"
@@ -8182,6 +7942,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Omron"
@@ -8199,6 +7960,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "15"
@@ -8262,7 +8024,7 @@
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 24.13 186.69 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -8384,6 +8146,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C2930027"
@@ -8392,6 +8155,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "FOJAN"
@@ -8400,6 +8164,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
@@ -8408,6 +8173,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "FOJAN"
@@ -8693,6 +8459,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C103199"
@@ -8701,6 +8468,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "FOJAN"
@@ -8709,6 +8477,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "RTT031002FTP"
@@ -8717,6 +8486,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Ralec"
@@ -8803,6 +8573,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C92487"
@@ -8811,6 +8582,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Samsung"
@@ -8819,6 +8591,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "CL10A106MO8NQNC"
@@ -8827,6 +8600,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Samsung"
@@ -8858,7 +8632,7 @@
 		(at 40.64 53.34 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae875f1-e95b-41e6-bcb0-79b1f756fd80")
@@ -9019,6 +8793,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Panasonic"
@@ -9027,6 +8802,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "B2"
@@ -9111,6 +8887,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C2976072"
@@ -9119,6 +8896,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "HRE"
@@ -9127,6 +8905,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "WS2812C-2020-V1"
@@ -9135,6 +8914,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "World Semi"
@@ -9237,7 +9017,7 @@
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 31.75 186.69 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -9304,7 +9084,7 @@
 		(at 83.82 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "82e94d8e-dc4a-4a26-b883-0770efca5fc9")
@@ -9492,6 +9272,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C6119849"
@@ -9500,6 +9281,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "HRE"
@@ -9508,6 +9290,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "CGA0603X5R105K160JT"
@@ -9516,6 +9299,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "HRE"
@@ -9612,7 +9396,7 @@
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 39.37 186.69 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -9734,6 +9518,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C66501"
@@ -9742,6 +9527,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Samsung"
@@ -9750,6 +9536,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "CL10B104KO8NNNC"
@@ -9758,6 +9545,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Samsung"
@@ -9852,7 +9640,6 @@
 		)
 	)
 	(symbol
-		(lib_name "EVQ-Q2B02W_1")
 		(lib_id "CRGM Switches:EVQ-Q2B02W")
 		(at 186.69 96.52 0)
 		(unit 1)
@@ -9951,6 +9738,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "FOJAN"
@@ -9959,6 +9747,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A2"
@@ -9987,7 +9776,7 @@
 		(at 49.53 53.34 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a2d1b0e0-c397-4a03-83cf-8713ec8ddb3e")
@@ -10185,7 +9974,7 @@
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 46.99 186.69 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -10307,6 +10096,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C66501"
@@ -10315,6 +10105,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Samsung"
@@ -10323,6 +10114,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "CL10B104KO8NNNC"
@@ -10331,6 +10123,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Samsung"
@@ -10362,7 +10155,7 @@
 		(at 83.82 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "dffedd6e-6be4-492b-943a-b89bb048e48d")
@@ -10485,73 +10278,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 83.82 66.04 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "e6085475-31d3-44ac-99fb-daf8c155051d")
-		(property "Reference" "TP9"
-			(at 75.692 66.04 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "IO8"
-			(at 76.454 64.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 83.82 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 83.82 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0337268c-aca0-440e-9e13-6bcbeffe7ff8")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -10815,6 +10541,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "LCSC_PN" "C2913204"
@@ -10823,6 +10550,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MN" "Espressif Systems"
@@ -10831,6 +10559,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MPN" "ESP32-S3-WROOM-1-N8R2"
@@ -10839,6 +10568,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MF" "Espressif Systems"
@@ -11053,7 +10783,7 @@
 		(at 83.82 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f96a7ef5-48a9-4b32-ad2d-d7242b3f3d20")
