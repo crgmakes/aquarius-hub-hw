@@ -7756,7 +7756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
 			(at 236.22 40.64 0)
 			(effects
 				(font
@@ -8655,7 +8655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
 			(at 35.56 53.34 0)
 			(effects
 				(font
@@ -9107,7 +9107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
 			(at 83.82 58.42 0)
 			(effects
 				(font
@@ -9799,7 +9799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
 			(at 44.45 53.34 0)
 			(effects
 				(font
