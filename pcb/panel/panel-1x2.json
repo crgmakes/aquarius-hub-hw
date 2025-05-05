@@ -1,0 +1,50 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "8mm",
+        "rows": "2"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vcount": "0",
+        "hcount": "2"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "1mm",
+        "offset": "0.2mm",
+        "prolong": "0.5mm"
+    },
+    "framing": {
+        "type": "railslr",
+        "fillet": "1mm"
+    },
+    "tooling": {
+        "type": "3hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "2.5mm",
+        "voffset": "5mm",
+        "coppersize": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "hoffset": "2.5mm",
+        "orientation": "90deg",
+        "text": "Aquarius Node",
+        "anchor": "ml"
+    },
+    "text2": {
+        "type": "simple",
+        "hoffset": "-2.5mm",
+        "orientation": "90deg",
+        "text": "CRG Makes {date}",
+        "anchor": "mr"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
