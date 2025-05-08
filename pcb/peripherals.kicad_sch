@@ -54,7 +54,7 @@
 				)
 			)
 			(property "Description" "5 mm, 3 Vo-p, 75 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer"
-				(at 12.446 -8.128 0)
+				(at 10.414 -6.858 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -64,16 +64,6 @@
 			)
 			(property "Height" "2.5"
 				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "490-CMT-0502-75SMTTR"
-				(at 21.59 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -102,8 +92,27 @@
 					(hide yes)
 				)
 			)
+			(property "Mouser" "490-CMT-0502-75SMTTR"
+				(at 21.59 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "102-CMT-0502-75-SMT-TR-ND"
+				(at 10.668 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "LCSC" "C391030"
-				(at 14.478 -10.414 0)
+				(at 10.668 -10.668 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -958,6 +967,293 @@
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CRGM Passive:PESD3V3S1BL"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -1.524 1.524 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "PESD3V3S1BL"
+				(at -5.08 -3.556 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "CRGM Passive:DFN1006-2"
+				(at 0.254 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+				(at -0.254 -9.652 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+				(at 1.524 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "621-DESD3V3S1BL-7B"
+				(at 1.524 -32.512 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+				(at 0.762 -34.544 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5563754"
+				(at -0.254 -36.576 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PESD3V3S1BL_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3445 -1.6043) (xy -0.3573 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy -0.0101 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy 0.3778 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 0.0101) (xy -0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -0.0101) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -1.27) (xy -0.3445 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 0.0101) (xy 0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 -0.0101) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.3778 1.6835) (xy 0.3981 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at -2.54 0 0)
+					(length 0)
+					(name "K1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 0 180)
+					(length 0)
+					(name "K2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
 							)
 						)
 					)
@@ -2033,10 +2329,22 @@
 		(uuid "5107e69f-50f1-44eb-9063-739dc33b4bda")
 	)
 	(junction
+		(at 67.31 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "529c7853-502a-4430-b126-055ad6e7fde3")
+	)
+	(junction
 		(at 207.01 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75d3eccd-46d6-4176-b038-f1781818256c")
+	)
+	(junction
+		(at 62.23 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d56b4545-acaf-4f41-909d-557c1d752fbf")
 	)
 	(wire
 		(pts
@@ -2057,6 +2365,16 @@
 			(type default)
 		)
 		(uuid "08cf51ed-af86-409c-968b-e36ffa926f4c")
+	)
+	(wire
+		(pts
+			(xy 62.23 24.13) (xy 69.85 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eee24be-9dcd-4ccf-bbc8-5ef66ddc346e")
 	)
 	(wire
 		(pts
@@ -2120,7 +2438,17 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 26.67) (xy 68.58 26.67)
+			(xy 67.31 26.67) (xy 67.31 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a5e53eb-daf5-4cb5-aa40-0306d4a4abb1")
+	)
+	(wire
+		(pts
+			(xy 49.53 26.67) (xy 67.31 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2190,13 +2518,23 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 24.13) (xy 68.58 24.13)
+			(xy 49.53 24.13) (xy 62.23 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "97ddbfb8-9130-4f09-a61e-8c045f8f4663")
+	)
+	(wire
+		(pts
+			(xy 67.31 26.67) (xy 69.85 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9908a65f-abab-4c41-b33b-3905877d2314")
 	)
 	(wire
 		(pts
@@ -2227,6 +2565,16 @@
 			(type default)
 		)
 		(uuid "bb2c565f-bbf4-403a-8678-e0e3b6c4f078")
+	)
+	(wire
+		(pts
+			(xy 62.23 24.13) (xy 62.23 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2a97cf4-6b29-4861-a40d-11c2ce40cafb")
 	)
 	(wire
 		(pts
@@ -2310,7 +2658,7 @@
 	)
 	(global_label "I2C_SDA"
 		(shape input)
-		(at 68.58 26.67 0)
+		(at 69.85 26.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2320,7 +2668,7 @@
 		)
 		(uuid "1fba0454-3548-4c47-90a7-10a6c08246e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.1852 26.67 0)
+			(at 80.4552 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2373,7 +2721,7 @@
 	)
 	(global_label "I2C_SCL"
 		(shape input)
-		(at 68.58 24.13 0)
+		(at 69.85 24.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2383,7 +2731,7 @@
 		)
 		(uuid "5a38fe4f-4da3-4128-b272-586c618d1518")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.1247 24.13 0)
+			(at 80.3947 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2736,6 +3084,71 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 62.23 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1aa104a2-88f1-4a13-a59c-4bb7804c61ec")
+		(property "Reference" "#PWR071"
+			(at 62.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.23 36.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df514765-7301-42bd-8279-5ad49889ba35")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 110.49 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2803,7 +3216,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 31.75 90)
+		(at 49.53 31.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2812,7 +3225,7 @@
 		(fields_autoplaced yes)
 		(uuid "28199f59-b35a-43f1-98f6-dbcf2bf871bb")
 		(property "Reference" "#PWR076"
-			(at 60.96 31.75 0)
+			(at 55.88 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2821,7 +3234,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.42 31.7499 90)
+			(at 53.34 31.7499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2830,7 +3243,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 31.75 0)
+			(at 49.53 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2839,7 +3252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 31.75 0)
+			(at 49.53 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2848,7 +3261,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 31.75 0)
+			(at 49.53 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3131,6 +3544,140 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Passive:PESD3V3S1BL")
+		(at 62.23 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "49ec4c26-3bf9-4401-bcfd-6c23e1584060")
+		(property "Reference" "D21"
+			(at 59.69 28.956 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PESD3V3S1BL"
+			(at 60.96 10.16 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+					(thickness 0.3023)
+					(bold yes)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Passive:DFN1006-2"
+			(at 65.278 30.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+			(at 75.184 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_PN" "C5563754"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5563754"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "FUXINSEMI"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LESD8D3.3CAT5G"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "FUXINSEMI"
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "621-DESD3V3S1BL-7B"
+			(at 94.742 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+			(at 96.774 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0028f1c4-6fda-40d6-9435-e50dad9f85f6")
+		)
+		(pin "2"
+			(uuid "dbfe4349-2d67-4b53-b9a2-5cec0d5b9241")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -3899,6 +4446,205 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 67.31 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c17202d-2fd3-40d3-8de7-5ec1fff8c02a")
+		(property "Reference" "#PWR080"
+			(at 67.31 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 67.31 36.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 67.31 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 67.31 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ccae1ad7-425e-4a60-8680-ec2913828c72")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
+					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Passive:PESD3V3S1BL")
+		(at 67.31 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a990d9db-5492-4828-a240-47e59ad1413e")
+		(property "Reference" "D22"
+			(at 64.77 28.956 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PESD3V3S1BL"
+			(at 66.04 10.16 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+					(thickness 0.3023)
+					(bold yes)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Passive:DFN1006-2"
+			(at 70.358 30.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+			(at 80.264 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC_PN" "C5563754"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5563754"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "FUXINSEMI"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LESD8D3.3CAT5G"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "FUXINSEMI"
+			(at 67.31 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "621-DESD3V3S1BL-7B"
+			(at 99.822 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+			(at 101.854 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3ea6a90-fc06-402a-a1bb-c27817460788")
+		)
+		(pin "2"
+			(uuid "4f17611a-e6a9-4aab-b9ea-cd2dd66005f7")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
+					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Connector:JST-SH-8")
 		(at 107.95 81.28 0)
 		(mirror y)
@@ -4122,7 +4868,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 54.61 29.21 270)
+		(at 49.53 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4131,7 +4877,7 @@
 		(fields_autoplaced yes)
 		(uuid "bfcd3878-83b5-45ad-8fc3-63bea48fc224")
 		(property "Reference" "#PWR075"
-			(at 50.8 29.21 0)
+			(at 45.72 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4140,7 +4886,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 58.42 29.2099 90)
+			(at 53.34 29.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4149,7 +4895,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 29.21 0)
+			(at 49.53 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4158,7 +4904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 29.21 0)
+			(at 49.53 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4167,7 +4913,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 54.61 29.21 0)
+			(at 49.53 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4189,7 +4935,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:QWIIC")
-		(at 41.91 21.59 0)
+		(at 36.83 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4197,7 +4943,7 @@
 		(dnp no)
 		(uuid "c2966a8d-f94c-4447-aaa6-d430be802a7d")
 		(property "Reference" "J8"
-			(at 46.482 17.78 0)
+			(at 41.402 17.78 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4207,7 +4953,7 @@
 			)
 		)
 		(property "Value" "QWIIC1"
-			(at 46.355 20.32 0)
+			(at 41.275 20.32 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4217,7 +4963,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,7 +4972,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/partdetail/Hdgc-1_0K_BH4PB/C2919601"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4235,7 +4981,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 4 Position"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4244,7 +4990,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4253,7 +4999,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +5008,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4271,7 +5017,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4280,7 +5026,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4289,7 +5035,7 @@
 			)
 		)
 		(property "LCSC_PN" "C2919601"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4298,7 +5044,7 @@
 			)
 		)
 		(property "MF" "JST"
-			(at 41.91 21.59 0)
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)

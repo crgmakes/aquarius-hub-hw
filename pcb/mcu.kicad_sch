@@ -19,9 +19,8 @@
 				(at -5.2334 18.5166 0)
 				(effects
 					(font
-						(size 1.778 1.5113)
-						(thickness 0.3023)
-						(bold yes)
+						(size 1 1)
+						(thickness 0.125)
 					)
 					(justify left bottom)
 				)
@@ -37,7 +36,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CRGM_Connector_v181:XF2C_1415-1A"
+			(property "Footprint" "CRGM Connector:XF2C_1415-1A"
 				(at 0 -22.352 0)
 				(effects
 					(font
@@ -46,8 +45,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401301156_Omron-Electronics-XF2M-1415-1A_C397114.pdf"
+				(at 0 -37.084 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -55,8 +54,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Description" "14P Dual-sided 0.5mm SMD Right Angle FFC, FPC"
+				(at 0 -24.638 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -64,12 +63,49 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
+			(property "MN" "Omron"
+				(at 0 -26.67 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "XF2M-1415-1A"
+				(at 0 -28.448 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "653-XF2M-1415-1A"
+				(at 0 -30.734 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "OR755TR-ND"
+				(at 0 -33.02 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C397114"
+				(at 0 -35.052 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
 				)
 			)
 			(symbol "XF2M-1415-1A_1_0"
@@ -1390,7 +1426,7 @@
 				(offset 1.016)
 				(hide yes)
 			)
-			(exclude_from_sim yes)
+			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
 			(property "Reference" "H"
@@ -7961,6 +7997,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "MN" "Omron"
+			(at 182.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser" "653-XF2M-1415-1A"
+			(at 182.88 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey" "OR755TR-ND"
+			(at 182.88 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "15"

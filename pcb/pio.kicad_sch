@@ -259,7 +259,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
+			(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
 				(at 1.524 9.652 0)
 				(effects
 					(font
@@ -268,8 +268,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 4.826 -25.146 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -277,8 +277,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Description" "6 position, 1mm pitch"
+				(at 2.032 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -286,12 +286,49 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
+			(property "MN" "JST"
+				(at 4.064 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+				(at 4.064 -18.034 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "306-BM06BSRSSTBTLFSN"
+				(at 3.81 -19.812 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+				(at 4.064 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2845374"
+				(at 4.572 -23.368 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
 				)
 			)
 			(symbol "JST-SH-6_1_0"
@@ -459,29 +496,28 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "D"
-				(at -4.318 2.286 0)
+				(at -1.524 1.524 0)
 				(effects
 					(font
-						(size 1.778 1.5113)
-						(thickness 0.3023)
-						(bold yes)
+						(size 1 1)
+						(thickness 0.125)
 					)
 					(justify left bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "PESD3V3S1BL"
 				(at -5.08 -3.556 0)
 				(effects
 					(font
-						(size 1.778 1.5113)
-						(thickness 0.3023)
-						(bold yes)
+						(size 1 1)
+						(thickness 0.125)
 					)
 					(justify left bottom)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Passive:DFN1006-2"
-				(at 0.254 -3.048 0)
+				(at 0.254 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -489,8 +525,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+				(at -0.254 -9.652 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -499,7 +535,7 @@
 				)
 			)
 			(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
-				(at 1.27 -12.954 0)
+				(at 1.524 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -507,8 +543,26 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC_PN" "C5563754"
-				(at 0 -22.098 0)
+			(property "Mouser" "621-DESD3V3S1BL-7B"
+				(at 1.524 -32.512 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
+				(at 0.762 -34.544 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5563754"
+				(at -0.254 -36.576 0)
 				(effects
 					(font
 						(size 1.27 1.27)

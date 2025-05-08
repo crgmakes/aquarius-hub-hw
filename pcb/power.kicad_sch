@@ -46,8 +46,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 2.032 -23.368 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -55,7 +55,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "JST SH 1.0mm 4 Position"
+			(property "Description" "4 Position, 1mm pitch"
 				(at 3.81 6.604 0)
 				(effects
 					(font
@@ -65,7 +65,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 0 0 0)
+				(at 3.302 -11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -73,8 +73,8 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "SM04B-SRSS-TB"
-				(at 0 0 0)
+			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+				(at 4.064 -14.478 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -82,8 +82,8 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser" ""
-				(at 0 0 0)
+			(property "Mouser" "306-BM04BSRSSTBTLFSN"
+				(at 3.81 -17.018 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -91,8 +91,8 @@
 					(hide yes)
 				)
 			)
-			(property "Digikey" ""
-				(at 0 0 0)
+			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+				(at 3.81 -19.304 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -101,7 +101,7 @@
 				)
 			)
 			(property "LCSC" "C2763614"
-				(at 0 0 0)
+				(at 3.302 -21.336 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -908,6 +908,311 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CRGM Passive:PESD5V5C1BLYL"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -1.524 1.524 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "PESD5V5C1BL"
+				(at -5.08 -3.556 0)
+				(effects
+					(font
+						(size 1 1)
+						(thickness 0.125)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "CRGM Passive:DFN1006-2"
+				(at 1.524 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
+				(at 5.842 -16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2827636"
+				(at 0 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "771-PESD5V5C1BLYL"
+				(at 0 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
+				(at 0 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MN" "Nexperia"
+				(at 0 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "PESD5V5C1BLYL"
+				(at 0 -9.144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PESD5V5C1BLYL_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3445 -1.6043) (xy -0.3573 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy -0.0101 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 1.2955) (xy 0.3778 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 0.0101) (xy -0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -0.0101) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.0101 -1.27) (xy -0.3445 -1.6043)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 0.0101) (xy 0.0101 -0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.0101 -0.0101) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.3778 1.6835) (xy 0.3981 1.6835)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 0.0101 0.0101)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin bidirectional line
+					(at -2.54 0 0)
+					(length 0)
+					(name "K1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 2.54 0 180)
+					(length 0)
+					(name "K2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "CRGM Power:LM66200DRLR"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1578,144 +1883,6 @@
 					(at 0 -3.81 90)
 					(length 1.27)
 					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Diode:SMF6V5A"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SMF6V5A"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SMF"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.vishay.com/doc?85881"
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 6.5Vrwm, SMF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode TVS voltage suppressor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "D*SMF*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SMF6V5A_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SMF6V5A_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2996,6 +3163,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 121.92) (xy 90.17 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a08152a-8035-4768-9fc0-79742bb667e6")
+	)
+	(wire
+		(pts
 			(xy 137.16 38.1) (xy 148.59 38.1)
 		)
 		(stroke
@@ -3266,7 +3443,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 57.15) (xy 116.84 38.1)
+			(xy 116.84 38.1) (xy 116.84 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3333,6 +3510,16 @@
 			(type default)
 		)
 		(uuid "ad355eeb-73fb-46f1-9583-f25d4b9ef43a")
+	)
+	(wire
+		(pts
+			(xy 90.17 114.3) (xy 90.17 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b437de8e-f4b0-4514-8510-7659d2020c70")
 	)
 	(wire
 		(pts
@@ -3483,6 +3670,16 @@
 			(type default)
 		)
 		(uuid "f73e481d-a441-43bb-91c7-51a4b5538283")
+	)
+	(wire
+		(pts
+			(xy 116.84 63.5) (xy 116.84 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9cd219a-b77d-4973-8a44-834b9a034ec3")
 	)
 	(wire
 		(pts
@@ -3758,6 +3955,124 @@
 		)
 	)
 	(symbol
+		(lib_id "CRGM Passive:PESD5V5C1BLYL")
+		(at 116.84 60.96 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "038ee050-840f-427c-a834-223182a66cba")
+		(property "Reference" "D3"
+			(at 120.142 61.976 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PESD5V5C1BL"
+			(at 120.396 66.04 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+					(thickness 0.3023)
+					(bold yes)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Passive:DFN1006-2"
+			(at 135.636 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
+			(at 133.604 55.118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
+			(at 121.92 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2827636"
+			(at 131.572 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "771-PESD5V5C1BLYL"
+			(at 128.016 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
+			(at 129.794 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "Nexperia"
+			(at 123.698 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PESD5V5C1BLYL"
+			(at 125.984 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a53a7675-d107-452d-9594-e2febe9117cc")
+		)
+		(pin "2"
+			(uuid "06e99098-f1cf-43ea-9a2f-d6ed93c0121e")
+		)
+		(instances
+			(project ""
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 100.33 111.76 270)
 		(unit 1)
@@ -4005,6 +4320,124 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Passive:PESD5V5C1BLYL")
+		(at 90.17 119.38 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "16556ce7-a99b-49fb-b2b1-6ea02c5781b3")
+		(property "Reference" "D20"
+			(at 93.472 120.904 0)
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.125)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PESD5V5C1BL"
+			(at 93.726 124.46 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+					(thickness 0.3023)
+					(bold yes)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Passive:DFN1006-2"
+			(at 108.966 117.856 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
+			(at 106.934 113.538 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
+			(at 95.25 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2827636"
+			(at 104.902 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "771-PESD5V5C1BLYL"
+			(at 101.346 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
+			(at 103.124 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "Nexperia"
+			(at 97.028 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PESD5V5C1BLYL"
+			(at 99.314 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbc9c8eb-b021-43ed-a60a-f31cb40cc135")
+		)
+		(pin "2"
+			(uuid "6f59cd8c-0d3d-42e8-8c67-9231a4369d5b")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -4497,6 +4930,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 90.17 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "47aac824-5dab-42ab-8778-2748ea14978c")
+		(property "Reference" "#PWR044"
+			(at 90.17 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 125.984 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8dccd253-7b63-4673-bbe7-2b1f7182d47f")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 90.17 110.49 0)
 		(unit 1)
@@ -4622,156 +5121,6 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "#PWR087")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SMF6V5A")
-		(at 116.84 60.96 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "59fea3c6-d859-41a6-b1e7-abfc14e0a26c")
-		(property "Reference" "D3"
-			(at 119.38 59.6899 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF6V5A"
-			(at 119.38 61.214 90)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CRGM Passive:D_SOD-123F"
-			(at 111.76 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590221699737153536"
-			(at 116.84 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 6.5Vrwm, SMF"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" "F5750TR-ND"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" "C2943842"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590221699737153536"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" "576-SMF6.5A"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2943842"
-			(at 116.84 60.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC_PN" "C2943842"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "SMF6.5A"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "Goodwork"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Goodwork"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3cf5bbd6-cca3-468a-bde0-88486d28c71e")
-		)
-		(pin "2"
-			(uuid "975a4513-ca45-4496-83b8-58e43f8d0e43")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
-					(reference "D3")
 					(unit 1)
 				)
 			)
