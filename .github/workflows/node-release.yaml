@@ -5,7 +5,7 @@
 # @date 6/1/25
 # @author cyberreefguru
 # (c) CRG Makes 2025
-name: Aquarius-Power-Module-Release
+name: Aquarius-Node-Release
 on:
   release:
     types: [published]
@@ -27,7 +27,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
       with:
-        path: working/module-power
+        path: working/aquarius-hw
 
     - name: Checkout Extras
       uses: actions/checkout@v4
@@ -62,30 +62,30 @@ jobs:
     # Update PCB with hash of current check in
     - name: Update the PCB with git hash
       run: |
-        cd working/module-power
+        cd working/aquarius-hw
         export COMMIT=$(git rev-parse --short HEAD)
         echo "COMMIT = ${COMMIT}"    
         echo "ref: '${{ github.ref }}'"
         echo "tag: '${{ github.event.release.tag_name }}'"
         echo "default: '${{ env.default }}'"
         cd pcb
-        sed -i "s!<<hash>>!${COMMIT}!" power-module.kicad_pcb
+        sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_pcb
 
     # Remove tag from PCB since this is not a release
     - name: Update the PCB build with git hash
       if: github.event_name != 'release'
       run: |
-        cd working/module-power/pcb
-        sed -i "s!<<tag>>! !" power-module.kicad_pcb
+        cd working/aquarius-hw/pcb
+        sed -i "s!<<tag>>! !" Node.kicad_pcb
 
     # Update PCB with release tag
     - name: Update the PCB release with git hash and version tag
       if: github.event_name == 'release'
       run: |
-        cd working/module-power/pcb
+        cd working/aquarius-hw/pcb
         echo "tag: ${{ github.ref_name }}"
         echo "release tag: ${{ github.event.release.tag_name }}"
-        sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" power-module.kicad_pcb
+        sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_pcb
 
     # generates fab files for the single PCB, includes gerber, drill, ibom, schematic, and images
     # NOTE: only run if this is not a release (e.g., run manually)
@@ -93,11 +93,11 @@ jobs:
       if: github.event_name != 'release'
       run: |
         echo "Working Directory: ${GITHUB_WORKSPACE}"
-        cd working/module-power/
-        kibot -c ../kicad-extras/kibot/crgm.kibot.yaml -e pcb/power-module.kicad_sch -b pcb/power-module.kicad_pcb -d production create_pcb_archive_4layer
-        # production now contains power-module.zip
-        mv production/power-module.zip ../..
-        # power-module.zip now in home directory
+        cd working/aquarius-hw/
+        kibot -c ../kicad-extras/kibot/crgm.kibot.yaml -e pcb/Node.kicad_sch -b pcb/Node.kicad_pcb -d production create_pcb_archive_4layer
+        # production now contains Node.zip
+        mv production/Node.zip ../../node.zip
+        # node.zip now in home directory
 
     # generates fab files for the single PCB, includes gerber, drill, ibom, schematic, images, 3d model, and renders
     # NOTE: only run if this is a release
@@ -105,32 +105,32 @@ jobs:
       if: github.event_name == 'release'
       run: |
         echo "Working Directory: ${GITHUB_WORKSPACE}"
-        cd working/module-power/
-        kibot -c ../kicad-extras/kibot/crgm.kibot.yaml -e pcb/power-module.kicad_sch -b pcb/power-module.kicad_pcb -d production create_release_archive_4layer
-        # production now contains power-module-release.zip
-        mv production/power-module-release.zip ../../power-module-release-${{ github.event.release.tag_name }}.zip
-        # power-module-release-<<tag>>.zip now in home directory
+        cd working/aquarius-hw/
+        kibot -c ../kicad-extras/kibot/crgm.kibot.yaml -e pcb/Node.kicad_sch -b pcb/Node.kicad_pcb -d production create_release_archive_4layer
+        # production now contains Node-release.zip
+        mv production/Node-release.zip ../../node-release-${{ github.event.release.tag_name }}.zip
+        # node-release-<<tag>>.zip now in home directory
 
     # only generate panel during a release
     # generates fab files for the panel PCB, includes gerber, drill, images - does NOT include ibom, 3d model, schematic, or renders
     - name: Generate PCB Panel for Release
       if: github.event_name == 'release'
       run: |
-        cd working/module-power/pcb/panel
+        cd working/aquarius-hw/pcb/panel
         rm -rf production
         # create the panelized PCB
-        kibot -c ../../../kicad-extras/kibot/crgm.kibot.yaml -e ../power-module.kicad_sch -b ../power-module.kicad_pcb -d pcb create_panel
-        # working/module-power/pcb/panel/pcb now contains power-module-panel.kicad_pcb
+        kibot -c ../../../kicad-extras/kibot/crgm.kibot.yaml -e ../Node.kicad_sch -b ../Node.kicad_pcb -d pcb create_panel
+        # working/aquarius-hw/pcb/panel/pcb now contains Node-panel.kicad_pcb
         # create fab files for panel; does not include renders and 3d model
-        kibot -c ../../../kicad-extras/kibot/crgm.kibot.yaml -e ../power-module.kicad_sch -b pcb/power-module-panel.kicad_pcb -d production create_panel_archive_4layer
-        # production now contains power-module-panel.zip
-        mv production/power-module-panel.zip .
+        kibot -c ../../../kicad-extras/kibot/crgm.kibot.yaml -e ../Node.kicad_sch -b pcb/Node-panel.kicad_pcb -d production create_panel_archive_4layer
+        # production now contains Node-panel.zip
+        mv production/Node-panel.zip ./node-panel.zip
         # add panelized PCB to archive
-        zip -u power-module-panel.zip pcb/**
-        mv power-module-panel.zip ../../../../power-module-panel-release-${{ github.event.release.tag_name }}.zip
+        zip -u node-panel.zip pcb/**
+        mv node-panel.zip ../../../../node-panel-release-${{ github.event.release.tag_name }}.zip
         # ls -AlF ${GITHUB_WORKSPACE}
         # ls -AlF ${GITHUB_WORKSPACE}/working
-        # home now contains power-module-panel-release-${{ github.event.release.tag_name }}.zip
+        # home now contains node-panel-release-${{ github.event.release.tag_name }}.zip
 
     # only runs if NOT a release
     # Upload fab artifacts to workflow
@@ -138,9 +138,9 @@ jobs:
       if: github.event_name != 'release'
       uses: actions/upload-artifact@v4
       with:
-        name: aquarius-power-module
+        name: aquarius-Node
         path: |
-          power-module.zip
+          node.zip
         if-no-files-found: warn
         retention-days: 30
 
@@ -150,10 +150,10 @@ jobs:
       if: github.event_name == 'release'
       uses: actions/upload-artifact@v4
       with:
-        name: aquarius-power-module-${{ github.event.release.tag_name }}
+        name: aquarius-node-${{ github.event.release.tag_name }}
         path: |
-          power-module-release-${{ github.event.release.tag_name }}.zip
-          power-module-panel-release-${{ github.event.release.tag_name }}.zip
+          node-release-${{ github.event.release.tag_name }}.zip
+          node-panel-release-${{ github.event.release.tag_name }}.zip
         if-no-files-found: warn
         retention-days: 30
 
@@ -163,7 +163,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       if: github.event_name == 'release'
       with:
-        name: aquarius-power-module-${{ github.event.release.tag_name }}
+        name: aquarius-Node-${{ github.event.release.tag_name }}
         files: |
-          power-module-release-${{ github.event.release.tag_name }}.zip
-          power-module-panel-release-${{ github.event.release.tag_name }}.zip
+          node-release-${{ github.event.release.tag_name }}.zip
+          node-panel-release-${{ github.event.release.tag_name }}.zip
