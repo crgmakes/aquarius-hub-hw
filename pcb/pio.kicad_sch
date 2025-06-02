@@ -3653,6 +3653,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -3661,6 +3662,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -3669,6 +3671,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -3677,6 +3680,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 191.77 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 191.77 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3933,6 +3955,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -3941,6 +3964,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -3949,6 +3973,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -3957,6 +3982,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 54.61 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 54.61 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4129,6 +4173,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 162.814 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4136,6 +4181,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -4216,6 +4262,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -4224,6 +4271,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -4232,6 +4280,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -4240,6 +4289,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 163.83 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 163.83 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4564,6 +4632,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -4572,6 +4641,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -4580,6 +4650,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -4588,6 +4659,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 87.63 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 87.63 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "10"
@@ -4708,6 +4798,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 151.384 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4715,6 +4806,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -4795,6 +4887,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -4803,6 +4896,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -4811,6 +4905,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -4819,6 +4914,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 152.4 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 152.4 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4924,6 +5038,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 147.574 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -4931,6 +5046,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -5011,6 +5127,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -5019,6 +5136,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -5027,6 +5145,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -5035,6 +5154,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 148.59 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 148.59 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5229,6 +5367,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -5237,6 +5376,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -5245,6 +5385,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -5253,6 +5394,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "JST"
+			(at 220.98 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -5646,6 +5797,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -5654,6 +5806,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -5662,6 +5815,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -5670,6 +5824,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 81.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 81.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5858,6 +6031,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -5866,6 +6040,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -5874,6 +6049,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -5882,6 +6058,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 180.34 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 180.34 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -5984,7 +6179,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB "
+		(property "MPN" "BM06B-SRSS-TB"
 			(at 220.98 118.11 0)
 			(effects
 				(font
@@ -6026,6 +6221,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -6034,6 +6230,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -6042,6 +6239,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -6050,6 +6248,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -6317,6 +6516,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -6325,6 +6525,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -6333,6 +6534,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -6341,6 +6543,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -6644,6 +6865,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 166.624 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6651,6 +6873,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -6731,6 +6954,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -6739,6 +6963,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -6747,6 +6972,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -6755,6 +6981,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 167.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6794,6 +7039,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 139.954 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6801,6 +7047,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -6881,6 +7128,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -6889,6 +7137,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -6897,6 +7146,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -6905,6 +7155,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 140.97 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 140.97 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6944,6 +7213,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 155.194 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6951,6 +7221,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -7031,6 +7302,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -7039,6 +7311,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -7047,6 +7320,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -7055,6 +7329,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 156.21 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 156.21 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7160,6 +7453,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 178.054 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7167,6 +7461,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -7247,6 +7542,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -7255,6 +7551,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -7263,6 +7560,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -7271,6 +7569,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7509,6 +7826,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 170.434 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7516,6 +7834,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -7596,6 +7915,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -7604,6 +7924,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -7612,6 +7933,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -7620,6 +7942,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 171.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 171.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7742,6 +8083,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -7750,6 +8092,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -7758,6 +8101,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -7766,6 +8110,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 46.99 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 46.99 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8264,7 +8627,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB "
+		(property "MPN" "BM06B-SRSS-TB"
 			(at 220.98 41.91 0)
 			(effects
 				(font
@@ -8288,6 +8651,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -8296,6 +8660,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -8304,6 +8669,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -8312,6 +8678,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 220.98 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 220.98 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -8578,6 +8963,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -8586,6 +8972,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -8594,6 +8981,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -8602,6 +8990,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 185.42 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 185.42 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8641,6 +9048,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 174.244 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8648,6 +9056,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -8728,6 +9137,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -8736,6 +9146,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -8744,6 +9155,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -8752,6 +9164,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 175.26 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 175.26 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8791,6 +9222,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 120.65 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8798,6 +9230,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -8878,6 +9311,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -8886,6 +9320,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -8894,6 +9329,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -8902,6 +9338,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Digikey" ""
@@ -8959,6 +9396,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 132.334 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8966,6 +9404,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -9046,6 +9485,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -9054,6 +9494,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -9062,6 +9503,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -9070,6 +9512,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 133.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 133.35 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9308,6 +9769,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 124.714 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9315,6 +9777,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -9395,6 +9858,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -9403,6 +9867,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -9411,6 +9876,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -9419,6 +9885,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 125.73 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9547,6 +10032,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -9555,6 +10041,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -9563,6 +10050,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -9571,6 +10059,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "JST"
+			(at 220.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -9679,7 +10177,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB "
+		(property "MPN" "BM06B-SRSS-TB"
 			(at 220.98 63.5 0)
 			(effects
 				(font
@@ -9703,6 +10201,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -9711,6 +10210,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -9719,6 +10219,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -9727,6 +10228,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 220.98 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 220.98 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -9778,6 +10298,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 159.004 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -9785,6 +10306,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -9865,6 +10387,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -9873,6 +10396,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -9881,6 +10405,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -9889,6 +10414,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 160.02 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 160.02 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10060,6 +10604,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 143.764 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10067,6 +10612,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -10147,6 +10693,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -10155,6 +10702,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -10163,6 +10711,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -10171,6 +10720,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 144.78 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 144.78 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10276,6 +10844,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 128.524 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10283,6 +10852,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -10363,6 +10933,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -10371,6 +10942,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -10379,6 +10951,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -10387,6 +10960,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 129.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 129.54 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10509,6 +11101,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -10517,6 +11110,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -10525,6 +11119,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -10533,6 +11128,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 45.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 45.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -10639,6 +11253,7 @@
 		)
 		(property "Value" "PESD3V3S1BL"
 			(at 136.144 116.84 0)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10646,6 +11261,7 @@
 					(bold yes)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
@@ -10726,6 +11342,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -10734,6 +11351,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -10742,6 +11360,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -10750,6 +11369,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 137.16 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 137.16 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10872,6 +11510,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -10880,6 +11519,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -10888,6 +11528,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -10896,6 +11537,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 91.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 91.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10985,7 +11645,7 @@
 				(hide yes)
 			)
 		)
-		(property "MN" "Ralec"
+		(property "MN" "FOJAN"
 			(at 62.23 109.22 0)
 			(effects
 				(font
@@ -11018,6 +11678,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB" ""
@@ -11026,6 +11687,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "JLCPCB Datasheet" ""
@@ -11034,6 +11696,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Mouser PN" ""
@@ -11042,6 +11705,25 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 62.23 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 62.23 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
