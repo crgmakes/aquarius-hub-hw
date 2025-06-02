@@ -2,7 +2,8 @@
     "layout": {
         "hspace": "2mm",
         "vspace": "8mm",
-        "rows": "1"
+        "rows": "1",
+        "cols": "1"
     },
     "tabs": {
         "type": "fixed",
@@ -10,10 +11,10 @@
         "hcount": "2"
     },
     "cuts": {
-        "type": "mousebites",
-        "spacing": "1mm",
-        "offset": "0.2mm",
-        "prolong": "0.5mm"
+        "type": "vcuts",
+        "offset": "-0.1mm",
+        "linewidth": "0.1mm",
+        "layer": "User.1"
     },
     "framing": {
         "type": "railslr",
