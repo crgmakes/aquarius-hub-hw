@@ -3761,16 +3761,6 @@
 		)
 		(uuid "618b8b5d-dfdc-42df-9e87-13ff13ab2d9f")
 	)
-	(text "ESD"
-		(exclude_from_sim no)
-		(at 116.84 72.39 0)
-		(effects
-			(font
-				(size 1 1)
-			)
-		)
-		(uuid "6316017b-9527-44ed-9b2b-d7e1c00abb2f")
-	)
 	(text "Filter"
 		(exclude_from_sim no)
 		(at 107.696 72.39 0)
@@ -3806,7 +3796,7 @@
 	)
 	(text "ESD"
 		(exclude_from_sim no)
-		(at 137.414 72.39 0)
+		(at 128.524 72.39 0)
 		(effects
 			(font
 				(size 1 1)
@@ -3903,13 +3893,7 @@
 		(uuid "7f61fb17-fc67-46eb-8121-55dc0abbcffd")
 	)
 	(junction
-		(at 116.84 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "80b1fe86-14ba-4d5f-9734-96e8fa420cce")
-	)
-	(junction
-		(at 137.16 38.1)
+		(at 128.27 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ffe71dc-e5b4-4325-9ea0-3d774221e2b2")
@@ -4032,7 +4016,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 38.1) (xy 148.59 38.1)
+			(xy 128.27 38.1) (xy 139.7 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4042,7 +4026,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 64.77) (xy 137.16 58.42)
+			(xy 128.27 64.77) (xy 128.27 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4100,16 +4084,6 @@
 		)
 		(uuid "2e5c4146-a2f8-40a7-bf88-1b4a1fc1a8d6")
 	)
-	(wire
-		(pts
-			(xy 116.84 38.1) (xy 137.16 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fcf86e8-e83e-4611-bbd5-e60b67795f0b")
-	)
 	(polyline
 		(pts
 			(xy 137.16 167.64) (xy 137.16 193.04)
@@ -4132,7 +4106,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 53.34) (xy 144.78 53.34)
+			(xy 133.35 53.34) (xy 135.89 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4212,7 +4186,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 34.29) (xy 148.59 38.1)
+			(xy 139.7 34.29) (xy 139.7 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4272,7 +4246,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 50.8) (xy 144.78 50.8)
+			(xy 133.35 50.8) (xy 135.89 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4392,23 +4366,13 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 38.1) (xy 137.16 45.72)
+			(xy 128.27 38.1) (xy 128.27 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8e502b6b-0480-4c4d-a483-07f0b52cd090")
-	)
-	(wire
-		(pts
-			(xy 116.84 38.1) (xy 116.84 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ff7dcd3-92e3-468d-b13f-0771b08b9f96")
 	)
 	(wire
 		(pts
@@ -4422,7 +4386,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 38.1) (xy 116.84 38.1)
+			(xy 107.95 38.1) (xy 128.27 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4522,7 +4486,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 53.34) (xy 132.08 53.34)
+			(xy 120.65 53.34) (xy 123.19 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4622,7 +4586,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 50.8) (xy 132.08 50.8)
+			(xy 120.65 50.8) (xy 123.19 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4652,7 +4616,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 35.56) (xy 137.16 38.1)
+			(xy 128.27 35.56) (xy 128.27 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4842,16 +4806,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 63.5) (xy 116.84 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9cd219a-b77d-4973-8a44-834b9a034ec3")
-	)
-	(wire
-		(pts
 			(xy 72.39 151.13) (xy 72.39 148.59)
 		)
 		(stroke
@@ -4932,7 +4886,7 @@
 	)
 	(global_label "USB_D_P"
 		(shape input)
-		(at 129.54 53.34 180)
+		(at 120.65 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4942,7 +4896,7 @@
 		)
 		(uuid "0f195089-e18a-4c59-a73e-3a79236bb814")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.2696 53.34 0)
+			(at 109.3796 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4974,7 +4928,7 @@
 	)
 	(global_label "D_N"
 		(shape input)
-		(at 144.78 50.8 0)
+		(at 135.89 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4984,7 +4938,7 @@
 		)
 		(uuid "488a9e54-6742-4c6b-be62-a6bacfd48259")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 151.3333 50.8 0)
+			(at 142.4433 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5037,7 +4991,7 @@
 	)
 	(global_label "D_P"
 		(shape input)
-		(at 144.78 53.34 0)
+		(at 135.89 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5047,7 +5001,7 @@
 		)
 		(uuid "cd2aa13a-195f-4b58-9c2c-045b41a2c1c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 151.2728 53.34 0)
+			(at 142.3828 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5058,7 +5012,7 @@
 	)
 	(global_label "USB_D_N"
 		(shape input)
-		(at 129.54 50.8 180)
+		(at 120.65 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5068,7 +5022,7 @@
 		)
 		(uuid "df64c930-d07c-45c8-aa12-11c96adbd917")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.2091 50.8 0)
+			(at 109.3191 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5095,169 +5049,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CRGM Passive:PESD5V5C1BLYL")
-		(at 116.84 60.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "038ee050-840f-427c-a834-223182a66cba")
-		(property "Reference" "D3"
-			(at 120.142 61.976 0)
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.125)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "PESD5V5C1BL"
-			(at 120.396 66.04 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-					(thickness 0.3023)
-					(bold yes)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Passive:DFN1006-2"
-			(at 135.636 59.436 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
-			(at 133.604 55.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
-			(at 121.92 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2827636"
-			(at 131.572 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "771-PESD5V5C1BLYL"
-			(at 128.016 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
-			(at 129.794 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "Nexperia"
-			(at 123.698 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "PESD5V5C1BLYL"
-			(at 125.984 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Nexperia"
-			(at 116.84 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a53a7675-d107-452d-9594-e2febe9117cc")
-		)
-		(pin "2"
-			(uuid "06e99098-f1cf-43ea-9a2f-d6ed93c0121e")
-		)
-		(instances
-			(project ""
-				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
-					(reference "D3")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5745,7 +5536,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 143.7386 177.673 0)
 			(effects
 				(font
@@ -5774,7 +5565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5% Commercial Use"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 142.24 176.53 0)
 			(effects
 				(font
@@ -6010,71 +5801,6 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "TP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 116.84 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "22adeb9d-7a56-4e07-8d3c-6a09ade83d91")
-		(property "Reference" "#PWR021"
-			(at 116.84 71.12 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 116.84 68.326 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "54451c00-f75c-4c88-950d-f417ccd70e26")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6499,7 +6225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907150506553344"
 			(at 56.642 115.824 0)
 			(effects
 				(font
@@ -6508,7 +6234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+		(property "Description" "TVS DIODE Vrwm=3.3v Vcl=6.5v Ippm=10A DFN10062"
 			(at 66.04 114.046 0)
 			(effects
 				(font
@@ -6842,7 +6568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 16V X5R 0603"
+		(property "Description" "CAP CER 10uF 16V X5R 0603"
 			(at 101.6 111.76 0)
 			(effects
 				(font
@@ -7749,7 +7475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X5R 0603"
 			(at 107.95 60.96 0)
 			(effects
 				(font
@@ -8017,7 +7743,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 64.77 0)
+		(at 128.27 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8025,7 +7751,7 @@
 		(dnp no)
 		(uuid "6d8d08c1-079d-4ce8-b714-e1143d0ea6f4")
 		(property "Reference" "#PWR022"
-			(at 137.16 71.12 0)
+			(at 128.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8034,7 +7760,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 68.326 0)
+			(at 128.27 68.326 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8042,7 +7768,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 64.77 0)
+			(at 128.27 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8051,7 +7777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 64.77 0)
+			(at 128.27 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8060,7 +7786,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 64.77 0)
+			(at 128.27 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8219,7 +7945,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 148.59 34.29 0)
+		(at 139.7 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8227,7 +7953,7 @@
 		(dnp no)
 		(uuid "7dbde22c-95a8-4570-8227-139e8702c124")
 		(property "Reference" "#PWR081"
-			(at 148.59 38.1 0)
+			(at 139.7 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8236,7 +7962,7 @@
 			)
 		)
 		(property "Value" "USB_5V"
-			(at 148.59 31.242 0)
+			(at 139.7 31.242 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8245,7 +7971,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 34.29 0)
+			(at 139.7 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8254,7 +7980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 34.29 0)
+			(at 139.7 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8263,7 +7989,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 148.59 34.29 0)
+			(at 139.7 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8558,7 +8284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 99.06 60.96 0)
 			(effects
 				(font
@@ -9000,7 +8726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4 Position, 1mm pitch"
+		(property "Description" "JST SH 1.0mm 4 Position"
 			(at 58.928 118.872 0)
 			(effects
 				(font
@@ -9128,7 +8854,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2P6")
-		(at 137.16 50.8 0)
+		(at 128.27 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9136,7 +8862,7 @@
 		(dnp no)
 		(uuid "aa9e9219-537d-4b32-8adc-e4c2c427a6ba")
 		(property "Reference" "U3"
-			(at 138.684 44.958 0)
+			(at 129.794 44.958 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9145,7 +8871,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2P6"
-			(at 138.684 46.736 0)
+			(at 129.794 46.736 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9154,7 +8880,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
-			(at 138.176 57.531 0)
+			(at 129.286 57.531 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9165,7 +8891,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 138.176 59.436 0)
+			(at 129.286 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9174,8 +8900,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-666"
-			(at 137.16 50.8 0)
+		(property "Description" "TVS DIODE ARRAY Vrwm=5v Vcl=14v Ippm=5.5A SOT-666-6"
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9184,7 +8910,7 @@
 			)
 		)
 		(property "LCSC" "C2827693"
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9193,7 +8919,7 @@
 			)
 		)
 		(property "LCSC_PN" "C2827693"
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9202,7 +8928,7 @@
 			)
 		)
 		(property "MN" "TECH PUBLIC"
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9211,7 +8937,7 @@
 			)
 		)
 		(property "MPN" "USBLC6-2P6"
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9220,7 +8946,7 @@
 			)
 		)
 		(property "MF" "TECH PUBLIC"
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9229,7 +8955,7 @@
 			)
 		)
 		(property "Digikey PN" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9238,7 +8964,7 @@
 			)
 		)
 		(property "JLCPCB" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9247,7 +8973,7 @@
 			)
 		)
 		(property "JLCPCB Datasheet" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9256,7 +8982,7 @@
 			)
 		)
 		(property "Mouser PN" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,7 +8991,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9274,7 +9000,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 137.16 50.8 0)
+			(at 128.27 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9354,7 +9080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5A 12V Fixed LDO Linear Regulator, 1.5V, TO-220/TO-252/TO-263"
+		(property "Description" "5A 12V Fixed LDO"
 			(at 93.472 125.476 0)
 			(effects
 				(font
@@ -9479,7 +9205,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 137.16 35.56 0)
+		(at 128.27 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9487,7 +9213,7 @@
 		(dnp no)
 		(uuid "aeb9036b-c502-4372-a26b-3ddd721a46fa")
 		(property "Reference" "TP4"
-			(at 138.176 32.0039 0)
+			(at 129.286 32.0039 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9496,7 +9222,7 @@
 			)
 		)
 		(property "Value" "USB_5V"
-			(at 138.176 33.528 0)
+			(at 129.286 33.528 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9506,7 +9232,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 142.24 35.56 0)
+			(at 133.35 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9515,7 +9241,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 35.56 0)
+			(at 133.35 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9524,7 +9250,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 137.16 35.56 0)
+			(at 128.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9533,7 +9259,7 @@
 			)
 		)
 		(property "Digikey PN" ""
-			(at 137.16 35.56 0)
+			(at 128.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9541,7 +9267,7 @@
 			)
 		)
 		(property "JLCPCB" ""
-			(at 137.16 35.56 0)
+			(at 128.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9549,7 +9275,7 @@
 			)
 		)
 		(property "JLCPCB Datasheet" ""
-			(at 137.16 35.56 0)
+			(at 128.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9557,7 +9283,7 @@
 			)
 		)
 		(property "Mouser PN" ""
-			(at 137.16 35.56 0)
+			(at 128.27 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10028,7 +9754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10UF 16V X5R 0603"
+		(property "Description" "CAP CER 10uF 16V X5R 0603"
 			(at 109.22 111.76 0)
 			(effects
 				(font
@@ -10202,7 +9928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1.6-V to 5.5-V, 40-m, 2.5-A, low-IQ, dual ideal diode"
+		(property "Description" "2.5-A Dual Ideal Diode With Automatic Switchover"
 			(at 112.268 161.29 0)
 			(effects
 				(font
@@ -10374,7 +10100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1K"
 			(at 160.2486 177.673 0)
 			(effects
 				(font
@@ -10403,7 +10129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10watt 1.0Kohms 1%"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 1Kohms 5%"
 			(at 158.75 176.53 0)
 			(effects
 				(font
@@ -10700,7 +10426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1.6-V to 5.5-V, 40-m, 2.5-A, low-IQ, dual ideal diode"
+		(property "Description" "2.5-A Dual Ideal Diode With Automatic Switchover"
 			(at 58.928 161.29 0)
 			(effects
 				(font
@@ -11043,7 +10769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 5.1Kohms 5%"
 			(at 91.44 60.96 0)
 			(effects
 				(font

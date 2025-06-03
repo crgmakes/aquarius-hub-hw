@@ -3387,7 +3387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 193.04 55.88 0)
 			(effects
 				(font
@@ -3396,7 +3396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 1Kohms 5%"
 			(at 193.04 55.88 0)
 			(effects
 				(font
@@ -3702,7 +3702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907150506553344"
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -3711,7 +3711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+		(property "Description" "TVS DIODE Vrwm=3.3v Vcl=6.5v Ippm=10A DFN10062"
 			(at 75.184 29.21 0)
 			(effects
 				(font
@@ -4662,7 +4662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 1uF 16V X5R 0603"
 			(at 238.76 34.29 0)
 			(effects
 				(font
@@ -4890,7 +4890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.nexperia.com/product/PESD3V3S1BL"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907150506553344"
 			(at 67.31 30.48 0)
 			(effects
 				(font
@@ -4899,7 +4899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "PESD3V3S1BL - Low capacitance bidirectional ESD protection diode\nVrwm=3.3v\nSource: https://assets.nexperia.com/documents/data-sheet/PESD3V3S1BL.pdf  Datasheet\nJLCPCB - C552521  Alternate https://jlcpcb.com/partdetail/DiodesIncorporated-DESD3V3S1BL7B/C500765 DESD3V3S1BL\nJLCPCB - C500765\nhttps://jlcpcb.com/partdetail/Fuxinsemi-LESD8D33CAT5G/C5563754 LESD8D3.3CAT5G\nJLCPCB - C5563754"
+		(property "Description" "TVS DIODE Vrwm=3.3v Vcl=6.5v Ippm=10A DFN10062"
 			(at 80.264 29.21 0)
 			(effects
 				(font
@@ -5072,7 +5072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "8 position, 1mm connector"
+		(property "Description" "JST SH 1.0mm 8 Position"
 			(at 107.95 81.28 0)
 			(effects
 				(font
@@ -5568,7 +5568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5 mm, 3 Vo-p, 75 dB, Surface Mount (SMT), Magnetic Audio Transducer Buzzer"
+		(property "Description" "5 mm, 3 Vo-p, 75 dB, Magnetic Audio Transducer Buzzer"
 			(at 223.266 38.608 0)
 			(effects
 				(font
