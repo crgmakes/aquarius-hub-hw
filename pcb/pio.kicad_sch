@@ -3611,15 +3611,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 191.77 46.99 0)
 			(effects
@@ -3638,7 +3629,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 191.77 46.99 0)
 			(effects
 				(font
@@ -3647,52 +3638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 191.77 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 191.77 46.99 0)
 			(effects
 				(font
@@ -3913,15 +3859,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 54.61 109.22 0)
 			(effects
@@ -3940,7 +3877,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 54.61 109.22 0)
 			(effects
 				(font
@@ -3949,52 +3886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 54.61 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 54.61 109.22 0)
 			(effects
 				(font
@@ -4211,15 +4103,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 163.83 137.16 0)
 			(effects
@@ -4247,7 +4130,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 163.83 137.16 0)
 			(effects
 				(font
@@ -4256,52 +4139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 163.83 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 163.83 137.16 0)
 			(effects
 				(font
@@ -4543,7 +4381,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP23017_ML"
+		(property "Value" "MCP23017T-E/ML"
 			(at 89.8241 50.8 0)
 			(effects
 				(font
@@ -4590,15 +4428,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C629439"
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "Microchip Tech"
 			(at 87.63 76.2 0)
 			(effects
@@ -4617,7 +4446,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Microchip Tech"
+		(property "Digikey" "MCP23017-E/ML-ND"
 			(at 87.63 76.2 0)
 			(effects
 				(font
@@ -4626,52 +4455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 87.63 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "579-MCP23017-E/ML"
 			(at 87.63 76.2 0)
 			(effects
 				(font
@@ -4836,15 +4620,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 152.4 137.16 0)
 			(effects
@@ -4872,7 +4647,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 152.4 137.16 0)
 			(effects
 				(font
@@ -4881,52 +4656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 152.4 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 152.4 137.16 0)
 			(effects
 				(font
@@ -5076,15 +4806,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 148.59 137.16 0)
 			(effects
@@ -5112,7 +4833,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 148.59 137.16 0)
 			(effects
 				(font
@@ -5121,52 +4842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 148.59 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 148.59 137.16 0)
 			(effects
 				(font
@@ -5354,51 +5030,6 @@
 		)
 		(property "LCSC" "C2763614"
 			(at 224.028 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 220.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 220.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 220.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 220.98 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "JST"
-			(at 220.98 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5755,15 +5386,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C6119849"
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "HRE"
 			(at 81.28 121.92 0)
 			(effects
@@ -5782,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "HRE"
+		(property "Digikey" "1276-1019-2-ND"
 			(at 81.28 121.92 0)
 			(effects
 				(font
@@ -5791,52 +5413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 81.28 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B105KO8NNNC"
 			(at 81.28 121.92 0)
 			(effects
 				(font
@@ -5989,15 +5566,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 179.07 46.99 0)
 			(effects
@@ -6016,7 +5584,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 179.07 46.99 0)
 			(effects
 				(font
@@ -6025,52 +5593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 179.07 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 179.07 46.99 0)
 			(effects
 				(font
@@ -6161,15 +5684,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2845374"
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "JST"
 			(at 220.98 118.11 0)
 			(effects
@@ -6188,7 +5702,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "JST"
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 220.98 118.11 0)
 			(effects
 				(font
@@ -6197,52 +5711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" ""
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 220.98 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 220.98 118.11 0)
 			(effects
 				(font
@@ -6474,15 +5943,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 172.72 46.99 0)
 			(effects
@@ -6501,7 +5961,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 172.72 46.99 0)
 			(effects
 				(font
@@ -6510,52 +5970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 172.72 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 172.72 46.99 0)
 			(effects
 				(font
@@ -6903,15 +6318,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 167.64 137.16 0)
 			(effects
@@ -6939,7 +6345,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -6948,52 +6354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 167.64 137.16 0)
 			(effects
 				(font
@@ -7077,15 +6438,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 140.97 137.16 0)
 			(effects
@@ -7113,7 +6465,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 140.97 137.16 0)
 			(effects
 				(font
@@ -7122,52 +6474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 140.97 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 140.97 137.16 0)
 			(effects
 				(font
@@ -7251,15 +6558,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 156.21 137.16 0)
 			(effects
@@ -7287,7 +6585,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 156.21 137.16 0)
 			(effects
 				(font
@@ -7296,52 +6594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 156.21 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 156.21 137.16 0)
 			(effects
 				(font
@@ -7491,15 +6744,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 179.07 137.16 0)
 			(effects
@@ -7527,7 +6771,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 179.07 137.16 0)
 			(effects
 				(font
@@ -7536,52 +6780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 179.07 137.16 0)
 			(effects
 				(font
@@ -7864,15 +7063,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 171.45 137.16 0)
 			(effects
@@ -7900,7 +7090,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 171.45 137.16 0)
 			(effects
 				(font
@@ -7909,52 +7099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 171.45 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 171.45 137.16 0)
 			(effects
 				(font
@@ -8041,15 +7186,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 46.99 109.22 0)
 			(effects
@@ -8068,7 +7204,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 46.99 109.22 0)
 			(effects
 				(font
@@ -8077,52 +7213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 46.99 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 46.99 109.22 0)
 			(effects
 				(font
@@ -8609,15 +7700,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2845374"
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "JST"
 			(at 220.98 41.91 0)
 			(effects
@@ -8636,7 +7718,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "JST"
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 220.98 41.91 0)
 			(effects
 				(font
@@ -8645,52 +7727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 220.98 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 220.98 41.91 0)
 			(effects
 				(font
@@ -8921,15 +7958,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 185.42 46.99 0)
 			(effects
@@ -8948,7 +7976,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 185.42 46.99 0)
 			(effects
 				(font
@@ -8957,52 +7985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 185.42 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 185.42 46.99 0)
 			(effects
 				(font
@@ -9086,15 +8069,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 175.26 137.16 0)
 			(effects
@@ -9122,7 +8096,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 175.26 137.16 0)
 			(effects
 				(font
@@ -9131,52 +8105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 175.26 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 175.26 137.16 0)
 			(effects
 				(font
@@ -9260,15 +8189,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 121.92 137.16 0)
 			(effects
@@ -9296,7 +8216,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 121.92 137.16 0)
 			(effects
 				(font
@@ -9305,52 +8225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 121.92 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 121.92 137.16 0)
 			(effects
 				(font
@@ -9434,15 +8309,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 133.35 137.16 0)
 			(effects
@@ -9470,7 +8336,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 133.35 137.16 0)
 			(effects
 				(font
@@ -9479,52 +8345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 133.35 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 133.35 137.16 0)
 			(effects
 				(font
@@ -9807,15 +8628,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 125.73 137.16 0)
 			(effects
@@ -9843,7 +8655,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -9852,52 +8664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 125.73 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 125.73 137.16 0)
 			(effects
 				(font
@@ -10026,51 +8793,6 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "JST"
-			(at 220.98 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "4"
 			(uuid "2e479eb5-436f-4989-8bbf-9d51bf467b58")
 		)
@@ -10159,15 +8881,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2845374"
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "JST"
 			(at 220.98 63.5 0)
 			(effects
@@ -10186,7 +8899,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "JST"
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 220.98 63.5 0)
 			(effects
 				(font
@@ -10195,52 +8908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 220.98 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 220.98 63.5 0)
 			(effects
 				(font
@@ -10336,15 +9004,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 160.02 137.16 0)
 			(effects
@@ -10372,7 +9031,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 160.02 137.16 0)
 			(effects
 				(font
@@ -10381,52 +9040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 160.02 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 160.02 137.16 0)
 			(effects
 				(font
@@ -10642,15 +9256,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 144.78 137.16 0)
 			(effects
@@ -10678,7 +9283,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 144.78 137.16 0)
 			(effects
 				(font
@@ -10687,52 +9292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 144.78 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 144.78 137.16 0)
 			(effects
 				(font
@@ -10882,15 +9442,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 129.54 137.16 0)
 			(effects
@@ -10918,7 +9469,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 129.54 137.16 0)
 			(effects
 				(font
@@ -10927,52 +9478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 129.54 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 129.54 137.16 0)
 			(effects
 				(font
@@ -11059,15 +9565,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 45.72 72.39 0)
 			(effects
@@ -11086,7 +9583,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 45.72 72.39 0)
 			(effects
 				(font
@@ -11095,52 +9592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 45.72 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 45.72 72.39 0)
 			(effects
 				(font
@@ -11291,15 +9743,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C5563754"
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C5563754"
 			(at 137.16 137.16 0)
 			(effects
@@ -11327,7 +9770,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FUXINSEMI"
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 137.16 137.16 0)
 			(effects
 				(font
@@ -11336,52 +9779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 137.16 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 137.16 137.16 0)
 			(effects
 				(font
@@ -11468,15 +9866,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C66501"
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "Samsung"
 			(at 91.44 121.92 0)
 			(effects
@@ -11495,7 +9884,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Samsung"
+		(property "Digikey" "1276-1005-2-ND"
 			(at 91.44 121.92 0)
 			(effects
 				(font
@@ -11504,52 +9893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 91.44 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 91.44 121.92 0)
 			(effects
 				(font
@@ -11636,15 +9980,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC_PN" "C2930027"
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MN" "FOJAN"
 			(at 62.23 109.22 0)
 			(effects
@@ -11663,7 +9998,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "FOJAN"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 62.23 109.22 0)
 			(effects
 				(font
@@ -11672,52 +10007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 62.23 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 62.23 109.22 0)
 			(effects
 				(font

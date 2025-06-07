@@ -886,59 +886,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "189e7164-cbd2-44ac-95d9-de2c7639a7c5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "642bfc25-2a0e-4fe7-8ab8-7c7c49e3bc98")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "64b06b06-ba1b-4551-8a8b-1954ac4898b5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d89e4f7-f9c6-42c1-b686-dd624b135296")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "P12931STR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -951,7 +899,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "667-EVQ-Q2B02W"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1278,58 +1226,6 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "513e3dc5-4c44-47a4-a92a-4e850ddf66f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fe00d25a-9144-4fa8-afc9-270079eedd21")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7283c896-d8b8-4b6e-b1a4-acdec1d97fc8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "245c699e-4a7d-4a24-8c7a-bca0c34b0c46")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MF" "FUXINSEMI"
 			(at 0 0 270)
 			(unlocked yes)
@@ -1349,6 +1245,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "770f67d1-7870-41c7-a702-e8fb75cada50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LESD8D3.3CAT5G"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4830a193-e6fe-41fd-a8ea-6191ab810176")
 			(effects
 				(font
 					(size 1 1)
@@ -1585,59 +1494,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4cacd27b-6b97-4b94-bbce-4e11d2d0adea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "56457090-728b-4629-bec2-fd06e121d9df")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a28d1337-8993-4441-ad36-a46df1ef46a1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "81aecbe7-d57a-488c-a347-0e1725b06e23")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "497-5026-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1650,7 +1507,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "511-USBLC6-2P6"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2002,59 +1859,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ccc8fce5-b61c-4ae6-9e2a-26211a94e6e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "53b36f0f-0e93-44a9-a3a2-d09eac69b29d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f0055ec-7873-4392-af28-a08bc0c5cd6e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b98c57e7-a832-450c-b2be-011c561bdc94")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2067,7 +1872,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2348,59 +2153,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "29884504-66c5-49c9-aaba-e221fe3d00f2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b39678af-b705-484b-bd5c-347d4c62b222")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "823fc97d-36e2-44a0-a316-ddd9fac022f0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2fb4ae77-553e-493e-910f-4cd6779fe8fd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1005-2-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2413,7 +2166,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2694,59 +2447,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b3c61d14-d824-491d-bd00-e76d7a5bbca3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d090affa-ade3-4688-8920-58a440c55c7c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "db1f683c-0074-465e-8b1d-92df076a53cf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a571b8c3-75f1-43bb-abb9-0ab02190311d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2759,7 +2460,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3041,59 +2742,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5da9216c-66f0-4b0c-b579-d2195cbbc822")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "87789774-79b3-47d7-b452-44fa9b730c35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9fcf8608-976b-4bee-897a-9ed584a9dde2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f5846807-131a-4fc1-96ce-9c999cbfae70")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3106,7 +2755,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4697,59 +4346,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8bcc47ff-894c-4f63-8829-69febd0b770e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "52e3a610-9da7-4668-a363-6fbadd7c7329")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cdf8094d-85ce-492c-af56-c0bd9a7b958c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0021260f-4688-4639-ac98-defda299d3f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1005-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4762,7 +4359,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5043,12 +4640,12 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
+		(property "Digikey" "CR0603-FX-1002ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ddcde35-854b-4ac8-a347-7a8114e81486")
+			(uuid "eb213869-c307-439b-a01c-e10035b72f17")
 			(effects
 				(font
 					(size 1 1)
@@ -5056,38 +4653,12 @@
 				)
 			)
 		)
-		(property "JLCPCB" ""
+		(property "Mouser" "652-CR0603FX-1002ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48ca4843-e858-4b27-9a4f-583dfb5ae210")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c10b73e3-0f4c-4bd5-b9e8-fd7ddba78db4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ee489a99-1334-48d9-8100-d671af5a1395")
+			(uuid "e5c2d840-e891-489e-be30-0c1c359db2ca")
 			(effects
 				(font
 					(size 1 1)
@@ -5363,59 +4934,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "22d0b207-dad0-48c5-89c8-d293a2cd6fcf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ae920771-12bc-4523-a9e3-ac685e953b88")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dca8c3b7-6f5e-4987-827f-685af5f52772")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1d1e633d-5c16-42bc-902d-2b7297d8d108")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1005-2-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5428,7 +4947,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5710,59 +5229,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "12ec752d-e857-4aae-aa24-14fb8d26b8cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9ff95e80-262e-4342-88f1-413b588b06ac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2ec2f008-498e-44c2-8a2d-034bf06122f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "07c403a6-e58c-45f6-8495-46ea48e26c59")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5775,7 +5242,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6036,7 +5503,7 @@
 				)
 			)
 		)
-		(property "MN" "Vishay"
+		(property "MN" "FOJAN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6049,7 +5516,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW06031K00FKEA"
+		(property "MPN" "FRC0603J102 TS"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6062,7 +5529,7 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW0603-1.0K-E3"
+		(property "Mouser" "652-CR0603-JW-102ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6075,7 +5542,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-1.00KHTR-ND"
+		(property "Digikey" "CR0603-JW-102ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6094,58 +5561,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c11f2e75-923e-4e72-aca5-210db1324c14")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0b49ab3-c48a-4f11-8f93-7a833966da65")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b6872df1-779f-4838-b5a7-4819a7eede33")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cbe1f7c8-d686-4378-a121-70d95b9232e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9e473672-37a5-4754-9d46-e774d726677e")
 			(effects
 				(font
 					(size 1 1)
@@ -7264,59 +6679,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3bb0698f-db52-4df9-9f5e-15c81968b4fa")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "48497922-8405-416c-b3c7-1f09370d3c54")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6cf441d2-7c76-48e7-ad5d-c43fdaaaaab5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1b405298-9a63-4232-8eb0-65241ddc3bbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7329,7 +6692,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-3BSRSSTBTLP"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7981,59 +7344,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "51f3d8f1-b72f-4989-b74a-816b35040a49")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "03daf74e-351d-49a9-90b3-6b323af036b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8cbb6da7-4841-4f8c-bbc7-982df89b33f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0f898d4f-1562-4f05-b4f6-85f35de4336b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8046,7 +7357,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8761,59 +8072,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "77274086-7e3d-41dd-8458-196b4efa91d3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "abfbfb5b-ed71-4817-8323-cda901b1321a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "61144b24-dbdc-449d-b210-536838a846b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "72621c46-cbf3-43dc-bbb9-4718916eeb75")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1019-2-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8826,7 +8085,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B105KO8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9904,7 +9163,7 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9917,64 +9176,12 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "59411b49-034b-4fd3-9ecd-85f2c1f575bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "acb05c06-16bd-42d4-a4da-c33bc49cfcac")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b8cace62-b42e-4089-adf8-e468fc500ebe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a48b4375-1f56-4f95-8284-cab90bcef39e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f086d644-b6b0-403a-b737-6465fe69d061")
 			(effects
 				(font
 					(size 1 1)
@@ -10606,59 +9813,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c26c3f87-018d-40d6-8a31-ba1ec0396ce4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6fd6e368-d57f-412f-893d-33fcd872867d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b2f7788-ef34-4642-aeb2-f0417c41ca17")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "98836db7-626a-4981-be3a-b320259f01be")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10671,7 +9826,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11209,59 +10364,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9c791aa1-915c-4c34-b2f6-137334695455")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "56943b89-676c-466e-be62-e827d08e67f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6cbe9bcf-d2ce-4f4e-815a-b7097bef90a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2abf1503-17f9-49e8-8fa8-10829c6392da")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11274,7 +10377,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11517,59 +10620,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "15e7c165-a696-423d-a60d-02724c56c51a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b934efce-61e0-4804-9a97-c9e0652757dd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "99418ffd-de3d-4707-9429-80682fae864a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2000116b-f3a8-458a-be0d-b043caafc551")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11582,7 +10633,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13108,59 +12159,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b2c697e5-31bf-476f-bbdc-a92701a8001f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c3a5fcd-f7d1-42e8-970b-9ebbdfb65016")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7d570fb8-6264-4e2a-8832-329601607918")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "37353b6b-239c-41a2-b0fb-b42bc9e04732")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13173,7 +12172,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13389,19 +12388,6 @@
 				)
 			)
 		)
-		(property "LCSC_PN" "C2907114"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7e80c7d7-81d3-40ef-92af-4cb94897874a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MF" "FOJAN"
 			(at 0 0 0)
 			(unlocked yes)
@@ -13454,59 +12440,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d77cc3c6-6bde-4cb1-b1cc-1b71c71b5694")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8172744c-ba15-4739-8f17-ac8f1da47d31")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f24a9251-8c92-4473-a45a-4c717d8101ad")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "db9fde30-4626-4ae4-a946-f21e98b9a642")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13519,7 +12453,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-512ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14602,32 +13536,6 @@
 				)
 			)
 		)
-		(property "LCSC_PN" "C2976072"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "18959cfd-ff38-42ed-a4ba-7cf8204448a9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" "HRE"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3d5b2ac9-c48f-4952-97b0-24b9946368b7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MPN" "WS2812C-2020-V1"
 			(at 0 0 0)
 			(unlocked yes)
@@ -14641,7 +13549,7 @@
 				)
 			)
 		)
-		(property "MN" "HRE"
+		(property "MN" "World Semi"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14660,58 +13568,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f3a9c138-ca83-4451-a2d0-939ce09b9ca4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b8f4be85-c77e-4f18-8a9c-93a6e42d659c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed0f959e-a41e-436a-b794-d845e117f96b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bdd460b5-1483-444a-935f-6b7fb14d3ce5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9f93688e-99f1-456e-abce-c037b2f0ad11")
 			(effects
 				(font
 					(size 1 1)
@@ -15027,38 +13883,12 @@
 				)
 			)
 		)
-		(property "LCSC" "C2913204"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f332dd58-e45b-4eb0-a2d2-65cef4df685b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC_PN" "C2913204"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "25030215-ea6f-4fa6-bed2-0c37bcd88ad8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MN" "Espressif Systems"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0b9370c8-07aa-4528-b000-0f96958c01bc")
+			(uuid "ddb27bff-89cf-4e2d-816e-6a160332613b")
 			(effects
 				(font
 					(size 1 1)
@@ -15071,7 +13901,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7083039-1300-4294-a4b5-d382f7b01cb3")
+			(uuid "f1415a80-0e24-49ae-b2c7-e3697302d1e2")
 			(effects
 				(font
 					(size 1 1)
@@ -15079,12 +13909,12 @@
 				)
 			)
 		)
-		(property "MF" "Espressif Systems"
+		(property "Mouser" "356-ESP32-S3WRM1N8R2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52989c9a-6787-40b6-8485-03eb069c9cc4")
+			(uuid "c6361a95-10e7-42b5-82f4-fd06231ca28b")
 			(effects
 				(font
 					(size 1 1)
@@ -15092,12 +13922,12 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "5407-ESP32-S3-WROOM-1-N8R2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8294daea-d4b0-4379-9c91-7f93cf3293e7")
+			(uuid "d7016f27-deee-497c-b9a2-4c0b5def15c7")
 			(effects
 				(font
 					(size 1 1)
@@ -15105,64 +13935,12 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "LCSC" "C2913204"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3965dbbe-8c84-4cd1-9f36-8a3dddd44598")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "80b123de-4fe3-4fd7-b380-112264c16585")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6ba4212a-8abe-4803-a9d5-04956a61b0eb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4ebc37a4-6ab1-4b49-8f4e-33aaed062a7f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8a3bbc25-a6e8-4b98-aee3-10c2c018682b")
+			(uuid "5ebb7fe8-dad2-45b5-9df4-089d7d608bad")
 			(effects
 				(font
 					(size 1 1)
@@ -15183,7 +13961,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "803ac0ad-8dfc-4255-a16d-fd01bc62f24b")
+			(uuid "4c7d2f6d-8481-450a-aeac-29f4d6f8da81")
 		)
 		(fp_line
 			(start -9 -6.3405)
@@ -15193,7 +13971,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c5401ea8-19e5-406a-9695-c494529ff967")
+			(uuid "a4390dcd-5ecc-43f6-878c-505d53bd0c43")
 		)
 		(fp_line
 			(start -9 12.02)
@@ -15203,7 +13981,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cda7716f-e003-4ff9-9b1a-3d5d817369a3")
+			(uuid "53b4fd18-87ae-401b-a904-0a12bc66f790")
 		)
 		(fp_line
 			(start -9 12.75)
@@ -15213,7 +13991,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "67b80837-f36d-4dfd-849f-dc9ff61652ea")
+			(uuid "623fef37-c90d-4386-8e2a-834ddc7f7eff")
 		)
 		(fp_line
 			(start 9 -6.3405)
@@ -15223,7 +14001,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cf16e97e-f448-4809-af24-95ef530c27e8")
+			(uuid "62aebdb3-793e-4426-a3c3-7af8a75015f0")
 		)
 		(fp_line
 			(start 9 12.02)
@@ -15233,7 +14011,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "524a205d-f256-4553-9e7c-b67253c46cc8")
+			(uuid "d0e58c02-61dd-4b39-aaf1-c10aa2718a47")
 		)
 		(fp_line
 			(start 9 12.75)
@@ -15243,7 +14021,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "23c345da-6528-4063-a167-909be4e15af5")
+			(uuid "076579c2-3538-4b31-bf4e-1146db9a30b8")
 		)
 		(fp_circle
 			(center -9.438 -6.2)
@@ -15254,7 +14032,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "d9253764-6545-4a87-8698-26de7612e125")
+			(uuid "e9b1c2bd-3334-46e5-82a9-eb249daa746c")
 		)
 		(fp_line
 			(start -9.75 -13)
@@ -15264,7 +14042,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "15895020-6172-43eb-99ed-4fe30df596b9")
+			(uuid "9c699317-3321-4ecf-b9f8-179e77e01041")
 		)
 		(fp_line
 			(start -9.75 13.5)
@@ -15274,7 +14052,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "712ff555-9e0a-4a42-8c2b-0846b696bdaa")
+			(uuid "87d82c64-3bc1-4541-8c4b-3afb8d99e04a")
 		)
 		(fp_line
 			(start -9.75 13.5)
@@ -15284,7 +14062,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2de29c22-a06a-4ba6-b706-045565d455c6")
+			(uuid "ea735bee-04c1-426c-8206-c2b601fa3d27")
 		)
 		(fp_line
 			(start 9.75 -13)
@@ -15294,7 +14072,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "96e6075a-143d-4ab6-92cd-1318902f4280")
+			(uuid "66c9d4df-22e7-450c-84d0-f514daa27ab8")
 		)
 		(fp_line
 			(start -9 -12.75)
@@ -15304,7 +14082,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7badab2c-1e8c-4a93-ba32-fc04c8640dbd")
+			(uuid "0e70d4d2-5704-444b-92cf-1f8b316e3eac")
 		)
 		(fp_line
 			(start -9 -6.75)
@@ -15314,7 +14092,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "95319eec-d023-498f-bb35-7466ea8b5dc5")
+			(uuid "c08d6aba-90fa-43dc-a690-6a2bde5c2c18")
 		)
 		(fp_line
 			(start -9 -6.75)
@@ -15324,7 +14102,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e60ed150-d4fc-4d8e-81ac-d578863f68a9")
+			(uuid "e4f8d17d-70c1-4852-9ea1-9d8db60b9583")
 		)
 		(fp_line
 			(start -9 12.75)
@@ -15334,7 +14112,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a4c1e68a-2412-4414-8997-e6b7928986ac")
+			(uuid "3d6ca043-670a-4b9e-b839-6021ac522cb2")
 		)
 		(fp_line
 			(start 9 -12.75)
@@ -15344,7 +14122,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "eb49d139-e923-4b9e-9ce1-1ab7dd8d56df")
+			(uuid "8ff4b0fe-afcd-43e0-9f89-45f5c463f077")
 		)
 		(fp_line
 			(start 9 -6.75)
@@ -15354,7 +14132,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dc637b3b-43a8-46d2-909f-f2526bf2d957")
+			(uuid "c481abdf-8b29-4a1d-bdbd-19d3651c0b2b")
 		)
 		(fp_line
 			(start 9 12.75)
@@ -15364,7 +14142,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c19508ce-3eaf-4b3a-8038-034da8fc93d5")
+			(uuid "f97ab252-dac7-4686-9fba-130ff0e8a958")
 		)
 		(fp_circle
 			(center -9.438 -6.2)
@@ -15375,7 +14153,7 @@
 			)
 			(fill yes)
 			(layer "F.Fab")
-			(uuid "ae520cec-5ee4-4463-ab7b-4fd5b5513ab4")
+			(uuid "ca9a2088-7398-441d-8051-13db1eda0692")
 		)
 		(fp_text user "ANTENNA"
 			(at -3.992 -9.246 0)
@@ -15852,7 +14630,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "44f351aa-dc93-4b87-93d5-c33269ccf0c9")
+			(uuid "29bcd0c1-dcf3-451e-bec7-c501a61ec8e7")
 		)
 		(pad "41" smd rect
 			(at -2.9 2.46)
@@ -15863,7 +14641,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "a4294488-4235-4a65-88c1-cdff2a2af849")
+			(uuid "e57feec6-0d89-44bc-afb6-3134e7752c9b")
 		)
 		(pad "41" thru_hole circle
 			(at -2.9 3.16)
@@ -15876,7 +14654,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "032aeb78-bcda-4029-9a0c-f78e506f8b5d")
+			(uuid "50692cbd-3edc-43db-9427-ed5f7e38ba14")
 		)
 		(pad "41" smd rect
 			(at -2.9 3.86)
@@ -15887,7 +14665,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "802e70d5-cd7b-4a34-ba67-ae0ad1ad7dfa")
+			(uuid "de2252bf-bf6b-4bdc-902a-606921d4b966")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 1.06)
@@ -15900,7 +14678,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "699a7c5f-5395-4541-ada4-a464f9396e8c")
+			(uuid "b273e5d8-ebe4-4d5c-aaa3-aac176fc65bd")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 2.46)
@@ -15913,7 +14691,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "45649794-48b5-4386-ac99-a87226d162ea")
+			(uuid "de8986b0-d068-4967-95df-e539074639d7")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 3.86)
@@ -15926,7 +14704,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "c850d1c1-e39d-4bed-aa7e-deae696a25c5")
+			(uuid "39da3430-da72-49f5-8999-73104f045fe6")
 		)
 		(pad "41" smd rect
 			(at -1.5 1.06)
@@ -15937,7 +14715,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "2507ebef-21a1-4858-b603-cc0c8c3434ca")
+			(uuid "fda4a9f8-4801-4e28-9f81-56fcc46183e0")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 1.76)
@@ -15950,7 +14728,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "1ae7b6b4-688a-419f-b8a7-4cfb25ef5c82")
+			(uuid "f74a19b0-c5d6-4800-817f-ce72272424fb")
 		)
 		(pad "41" smd rect
 			(at -1.5 2.46)
@@ -15961,7 +14739,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9330fe7b-3fe5-479f-a3a7-6ef61b611d0a")
+			(uuid "45f09ed7-46b0-4aea-a25c-e807ce2c55d1")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 3.16)
@@ -15974,7 +14752,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "53ef0e07-ca20-4172-ae84-64226d5aeba8")
+			(uuid "16561c7e-9dc8-4cdf-bd1a-9a4d4404d807")
 		)
 		(pad "41" smd rect
 			(at -1.5 3.86)
@@ -15985,7 +14763,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "97623df8-3acb-45d5-8809-87ef087a2c4d")
+			(uuid "6b5305a2-7152-4646-a1cb-acb2310086d8")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 1.06)
@@ -15998,7 +14776,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "667258b3-54c5-4bb0-a466-70a6744669e6")
+			(uuid "2c12baf0-0937-4c4d-b3a8-b77e9f7479b0")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 2.46)
@@ -16011,7 +14789,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "5059007c-dd38-4a5a-9210-e579632a57b5")
+			(uuid "8249cd47-4b91-4a33-9de3-e6c834f12ba9")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 3.86)
@@ -16024,7 +14802,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9efd5395-025b-46f4-bf7c-834a89a2f138")
+			(uuid "cf09fed4-548b-44ac-a9c9-f3a7af113932")
 		)
 		(pad "41" smd rect
 			(at -0.1 1.06)
@@ -16035,7 +14813,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "b39dee62-8c21-4938-9f75-2e652a58cca6")
+			(uuid "68adc057-e8fe-4cfd-9d77-f5f33118179c")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 1.76)
@@ -16048,7 +14826,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c1baa74-c2a9-4796-8035-456a6169e05a")
+			(uuid "acce0400-b4fb-46f1-9ec5-c1f3bdaf106b")
 		)
 		(pad "41" smd rect
 			(at -0.1 2.46)
@@ -16059,7 +14837,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "eadd51fb-1f85-4b77-a5a8-902c9b36a975")
+			(uuid "96705fbf-979e-44be-8470-d3c00f855e84")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 3.16)
@@ -16072,7 +14850,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "345238cb-516e-457a-89b5-c9083c95437d")
+			(uuid "d5b8ddea-3a46-4ebe-94bc-c6e5633396f9")
 		)
 		(pad "41" smd rect
 			(at -0.1 3.86)
@@ -16083,13 +14861,13 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "26be5bfb-af0c-4c1a-b767-cf3f70790225")
+			(uuid "f3d44b49-5e55-4c9f-b358-7679527a4687")
 		)
 		(zone
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "8e74e85e-3af4-421c-b553-443dfeeaf1ff")
+			(uuid "d8545245-4483-4fc3-8903-08394270111c")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -16121,7 +14899,7 @@
 			(net 0)
 			(net_name "")
 			(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
-			(uuid "ccb26ebf-a76f-424c-881d-d9e8b5f045ae")
+			(uuid "1999b573-de4e-41d9-bbc0-10aabb901437")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -16153,7 +14931,7 @@
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "dc9e04bb-f970-4ced-b734-9cce0da740db")
+			(uuid "cef4263a-db55-4705-8604-91ed8a1e0286")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
@@ -16316,59 +15094,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9c1ac23c-a76c-41c1-a991-c4cc26e1a659")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "64731577-7258-49cf-ac58-29f0a61cd14f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0cf61f0a-d7ba-4955-9647-15aa5755b0cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c2d9b100-3f1d-4f04-b6c0-3227eddddb2a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16381,7 +15107,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16520,7 +15246,7 @@
 				)
 			)
 		)
-		(property "Value" "CMT-0502-75-SMT-TR"
+		(property "Value" "FUET-5025"
 			(at -0.35 -0.025 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16594,7 +15320,7 @@
 				)
 			)
 		)
-		(property "MN" "Same Sky"
+		(property "MN" "Fuet"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16607,64 +15333,12 @@
 				)
 			)
 		)
-		(property "MPN" "CMT-0502-75-SMT-TR"
+		(property "MPN" "FUET-5025"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96e6b35f-22ad-4089-af44-f785d20f85d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "af13a212-d5d8-4cf0-bc74-fc5e7f1beff8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "68d20bae-c636-42fd-a97b-2ca955f369fe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "56ad02a9-63d7-47ef-b164-9d8155f397da")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a525fe29-6029-45f3-96f1-ee05bdb37c01")
 			(effects
 				(font
 					(size 1 1)
@@ -16685,7 +15359,7 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "102-CMT-0502-75-SMT-TR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17185,59 +15859,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "21247b1c-fb45-4d4e-916b-0bae435e4f4a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "546ba67e-1e9d-4b42-b9f1-8716c6999f80")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "13d597d3-ffa0-4cc9-8c31-d515647e5983")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9b98cce7-3783-4b05-850b-ea0956e0aabb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17250,7 +15872,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17529,7 +16151,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17542,64 +16164,12 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42a74a34-edef-4b2a-b078-f6082fe8dd36")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49465c2e-d0be-4c37-a7cd-dddb9acc8bea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2ac5c756-cb22-4fba-9f68-3bfe07676f9c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0ed0bfed-2923-459a-bbdb-f0ca1fe968e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8665b338-903a-4801-b935-e09c4c488315")
 			(effects
 				(font
 					(size 1 1)
@@ -18702,59 +17272,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "08330202-ac86-46bf-936e-29125c909780")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10dfbc77-9dff-4c1e-8ff3-ffc8ff968f8c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "adfb9997-7cf3-46c0-9385-9e494e2146d7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "945a1c56-3d59-487c-b9f9-52342b034464")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18767,7 +17285,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19008,59 +17526,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cfba0578-929a-4fec-aa0b-600bcee3f147")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6afe0f26-5073-4afd-8fdf-bb7dedc306b5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e358446b-c1c9-4352-8ccf-c0d068a39b88")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2a1c00bf-c442-40c5-8e80-f2b43632237d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19073,7 +17539,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19791,59 +18257,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "46c1fe6b-53fe-462c-9413-de64f757b094")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10193d63-f349-4db7-9b23-42168905bb55")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8ca36ad0-9290-46d2-820e-7dda42704526")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "98635516-d39f-4bff-8cff-81eea9dc0fc3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1870-2-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19856,7 +18270,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10A106MO8NQNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20566,59 +18980,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4d8d4c0e-661a-4c3b-9c03-f865326a1b31")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9e3cbf81-acd6-464f-8e9d-f3014f176836")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c8e9d42b-9971-442d-8d14-02bdf8f1d523")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d5adaede-0cd8-4b26-9d09-77372f4a5763")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20631,7 +18993,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20987,7 +19349,7 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "MMBT2222AT-FDITR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21006,58 +19368,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e4ebc84-466e-4cc2-b8ac-d6ea174992b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e16a71d5-4c21-4e3c-ad58-ae1fbc981db6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b561fcce-a5ab-4cc5-8529-072c0e502833")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f506462b-bc36-4c30-8b85-309b08a2c39d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f8e9f3aa-b735-4fdd-9270-d749756416e7")
 			(effects
 				(font
 					(size 1 1)
@@ -21639,59 +19949,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "332f1b9e-779d-4552-bdfb-46997066e562")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f4ebd9bb-ed38-45dd-9122-07829b103fb8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b54f223b-ed82-479b-b45c-567e989f7109")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8aaa5c68-2ced-44a5-8ed0-11deff012e45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21704,7 +19962,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22077,32 +20335,6 @@
 				)
 			)
 		)
-		(property "LCSC_PN" "C6119849"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b2a1dfd0-811d-4922-9f43-68d0706f5e65")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" "HRE"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d23ebd27-9f7e-45d8-9577-958234dea39f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MPN" "CGA0603X5R105K160JT"
 			(at 0 0 180)
 			(unlocked yes)
@@ -22142,59 +20374,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ab12e315-2610-4c2e-aa77-fec78b5a8957")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f7ab2d46-8691-4923-b581-745aeb94b65d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "917acd1c-7356-41cb-bff3-f561f6ec9053")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "339bac66-60aa-4da2-82a3-521b35019e01")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1019-2-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22207,12 +20387,51 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B105KO8NNNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7b133db3-6fc6-4c0a-94d8-f604b24d2cbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "WVDC" "16V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4327672f-dfbf-4ca9-b41b-879e737e3e37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2e6607b-13f6-4213-a745-798971837f8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Dielectric" "X5R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "887b0460-6211-42fa-b1d4-a82065d1fcdf")
 			(effects
 				(font
 					(size 1 1)
@@ -22798,59 +21017,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aed628e6-d04f-4562-9656-798d150081b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "05c6cdcb-713b-4efc-bf77-23c69ace6a6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "895b4880-b367-415e-9943-308b91cbc2a0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "431ae24f-9009-47c9-a06e-db7d2cb32753")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22863,7 +21030,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-3BSRSSTBTLP"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23645,59 +21812,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7db47920-86dd-4feb-8df0-2efff761ffea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e7a61b89-64f6-4533-8d41-81e38c05c308")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83e142b2-9df2-4c2e-a3fb-1dde2a889ca7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "03d98f82-114f-4db5-8fc2-9ee7a4fcd6ec")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23710,7 +21825,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24429,7 +22544,7 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1005-2-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24442,64 +22557,12 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bdfd45db-b363-4f84-88e1-1b9511312f4a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ec778894-408f-4606-b509-879ab008e534")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f482e5cd-390e-4f03-bfa1-58ecd0129f4b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1109c369-938f-4060-91cb-e850dd4f2c1c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f42b389d-3527-4ad7-8b24-27346b3ed5b4")
 			(effects
 				(font
 					(size 1 1)
@@ -24776,59 +22839,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "336b89f0-eaaf-46b4-ac01-38f50a3f54dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "936f5711-e8ee-4734-a859-c885c156d3fe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "72856617-8b33-4b73-867b-f08667cd70f1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e35d3454-e22e-45d6-a62b-8088c72c9053")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24841,7 +22852,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25736,59 +23747,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b82538b4-dee1-4ef3-8416-048c245618ed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d154c53b-72bb-4586-a6d4-d2feb1d6e696")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0a439e9e-e364-4956-bbf8-b84cda91a3a5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "225049c4-65b5-4ba6-8d13-924db1c345a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25801,7 +23760,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26716,19 +24675,6 @@
 				)
 			)
 		)
-		(property "LCSC_PN" "C2907114"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "93e20c60-1d99-4297-878f-7bc837037129")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "MF" "FOJAN"
 			(at 0 0 0)
 			(unlocked yes)
@@ -26781,59 +24727,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "433fa4a7-89c5-475c-ae50-619bb0134d35")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "585efac4-caec-4c7b-9191-8fc70621e6d7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "05b079b7-3ffd-4453-95e7-c78713819ce8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a1c3da20-f3af-4397-a4ca-30dc7e61ea82")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "118-CR0603-JW-512ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26846,7 +24740,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603JW-512ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28082,59 +25976,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f60449d-0c48-4fbf-8ec8-a2c1ac065def")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "014f3622-3c3f-4aeb-a375-2639439416b2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "32b007b2-e06d-493b-a4e0-acd3c4d6cb5f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "783009e4-2309-4045-96f0-1627ece4891e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28147,7 +25989,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28389,59 +26231,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10a75020-5338-4a6b-b252-6ad83186368e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d242ce93-11d4-46d9-9f06-9fa657a0667d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c823cef1-fe17-4958-a8c1-9d9730e42e8b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3021b7c8-2489-4ae5-937c-c5a101d3066a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1019-2-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28454,7 +26244,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B105KO8NNNC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29002,7 +26792,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29015,64 +26805,12 @@
 				)
 			)
 		)
-		(property "Digikey" ""
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d0d4be5d-ad9d-4955-b840-46187b78aca6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e89e4c46-0d42-42a1-b561-3d51cf572339")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "339ef730-4a03-4eea-ae25-241250656634")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3fe83c53-7e9e-4437-8842-06fc45a4ae3a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6b84dd30-8fac-494b-b539-14c74a2d3be3")
 			(effects
 				(font
 					(size 1 1)
@@ -29644,59 +27382,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "394d82a2-bc62-446b-8fe9-4c75001d5f07")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c6543ea5-2b6c-4417-af53-b052990115f5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8b8920b7-62d7-499d-9d92-01c62ec1908b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "735ac23c-d4b9-4b78-9bce-33fefa4e5983")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29709,7 +27395,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29848,7 +27534,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP23017_ML"
+		(property "Value" "MCP23017T-E/ML"
 			(at 0 4.31 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29949,59 +27635,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f234a587-cf2f-4c69-8c61-7891c536c82e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "38516a37-8972-4c52-97e0-a3e11038a790")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f347892-e9bb-4112-8ae0-4e2d18ce9c3c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9902186f-d9d2-4dfc-bb44-c75b0153ee9d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "MCP23017-E/ML-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30014,7 +27648,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "579-MCP23017-E/ML"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30819,59 +28453,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6a3ec1fb-d35b-453c-8bec-bf8aa796f868")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4b1e0db5-acda-4384-ba3e-97e5b24ca24f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "83758134-d649-4c22-8389-d13a7ad4169d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ac368be1-b751-4cb3-b9d7-b72a4cf2d0fc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "P12931STR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30884,7 +28466,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "667-EVQ-Q2B02W"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31155,59 +28737,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0682508-da4f-43f1-a485-addc2931038d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dbd12081-2fad-46b0-88f5-f68db483964d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fce479f0-b0db-4012-8f68-9b852646d9d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1fff0ca0-591a-4241-80b7-2c6d3db494de")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31220,7 +28750,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31502,59 +29032,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ee3b2afc-8130-4cd2-981c-0d26e8ea7abe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c329e65-39a6-41ea-8f46-d0abe7632490")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b422beac-5150-486a-877d-685c2b232f69")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "95163a49-65ec-4514-92a8-82d2f406298b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31567,7 +29045,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33073,59 +30551,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "47f5ee69-3923-49a2-8694-5c22b31e633e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a8069af0-8e68-4752-88cd-19ef755458ca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "faf75049-4ec6-43e4-ab7e-f2496f7d4b17")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "65dc860f-16c6-4862-b891-d8ecdf1ce722")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33138,7 +30564,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34000,7 +31426,7 @@
 				)
 			)
 		)
-		(property "Mouser" "71-CRCW06034K70JNEAC"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34013,7 +31439,7 @@
 				)
 			)
 		)
-		(property "Digikey" "541-3993-2-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34032,58 +31458,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "963e72b7-678c-4a70-9c4a-26d727ed2b5f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "482714bc-a5e0-4c83-9955-51dc61126173")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "38f45c16-97e3-4ab4-aa48-5a196e956b8f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "04af6518-a343-4a72-b452-79eecb4caf72")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd8222ff-49c0-4d24-b97b-e53d494c43f0")
 			(effects
 				(font
 					(size 1 1)
@@ -34503,7 +31877,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34528,7 +31902,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10uF 16V X5R 0603"
+		(property "Description" "CAP CER 100nF 16V X5R 0603"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34541,33 +31915,7 @@
 				)
 			)
 		)
-		(property "LCSC_PN" "C92487"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c4680352-88ea-4265-8d98-9932aad7763a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MF" "Samsung"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c0789a03-b064-4011-834d-bccdad59dd7c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "CL10A106MO8NQNC"
+		(property "MPN" "CL10B104KO8NNNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34593,7 +31941,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C92487"
+		(property "LCSC" "C66501"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34606,59 +31954,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5440b7b9-60d9-4fed-9ca7-48c9f6edcebe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5fd0ce04-1e54-4c43-b401-a17da2325a05")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a9451b5a-fec9-4fb5-953e-a85211fad738")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "afb57a38-7027-45c5-8ccd-6bb32500c6e0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1276-1005-2-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34671,7 +31967,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "187-CL10B104KO8NNNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34949,59 +32245,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c4343dc5-8c2f-489d-af9c-899acd83c170")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4cd8969b-cc11-4d50-b8cc-78f8f766b524")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0869565f-4860-42d4-86af-aeb9a22ddaf8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0c4df3b3-bc51-4c63-a760-71bb7c1612b4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35014,7 +32258,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36271,59 +33515,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "72077c9b-70d1-44e2-8d3c-8c5817ab5fe2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5d15975e-7fa7-4072-bd65-57cc4cd8c98a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f8c4179-acab-4319-beb7-a5aa851d2a51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "46be4516-1b9a-4a37-afeb-03f1652f8bd0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36336,7 +33528,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36580,59 +33772,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0f5664cd-ac49-47f1-86fa-b584337fc3bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0c9a6f06-1885-43a2-96ad-40086d45c2ea")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c0936554-be68-4b1e-b79a-69dcbdd1b07a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "602fa561-4a87-4d60-a414-7d2dd8339940")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36645,7 +33785,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37432,59 +34572,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5277d17a-de7b-4bf3-84b6-de0388ded076")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "604b0d9f-bdce-4e5f-8fde-a668357f9bbf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6005e70b-88b6-4da0-a7a5-71c3ccb81ed7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3a849f78-5cee-48f1-85e8-b2f7d7cd79de")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-102ELFTR-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37497,7 +34585,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-102ELF"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37778,59 +34866,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ccc86f57-e327-47c6-84d7-ea7db8e11197")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "645d6d9c-95fd-4429-bff9-0805ba1fa34e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9456530e-a83d-438c-bcb3-dee993d2c55d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b351e736-cf73-4444-be83-87d6ac9f8718")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37843,7 +34879,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38125,59 +35161,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63f7ade7-24f4-4867-bfbd-2df6cbd061cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f18fb06-0cf6-4514-95cc-ed4d3c0c5b6a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c3d20749-f492-4a0f-9ef8-2ba0cd59b883")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "04fccd62-5e0b-403c-bfdb-1281e865998b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38190,7 +35174,7 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38393,59 +35377,7 @@
 				)
 			)
 		)
-		(property "Digikey PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "92dd33ff-0f6f-441d-9216-36f672fc7fb9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6bb7aa96-7291-44d2-9993-03b6ea35e090")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPCB Datasheet" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4ff0e2f5-6383-4a92-b7a7-db3f7a1fef6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "299ec2cd-32af-4c34-8111-283f8f8c9a41")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Digikey" ""
+		(property "Digikey" "1727-5834-2-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38458,12 +35390,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "771-PMEG3010EB115"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf5e8c2d-305b-4c8c-82bb-e12b73bead01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MN" "Shikues"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bc86357-1b46-4b55-a4a0-67eb5348dc4d")
 			(effects
 				(font
 					(size 1 1)
