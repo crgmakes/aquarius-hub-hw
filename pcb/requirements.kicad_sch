@@ -1690,7 +1690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "Logo_Open_Hardware_Small"
+		(property "Value" "~"
 			(at 215.9 178.435 0)
 			(effects
 				(font
@@ -1767,7 +1767,7 @@
 		(at 184.15 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1858,7 +1858,7 @@
 		(at 204.47 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1922,7 +1922,7 @@
 		(at 194.31 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

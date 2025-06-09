@@ -7799,7 +7799,7 @@
 		(at 241.3 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "30bfd005-b426-4b17-baa3-1c8489e5cff9")
@@ -7813,13 +7813,12 @@
 			)
 		)
 		(property "Value" "OBLO"
-			(at 243.84 45.2119 0)
+			(at 238.76 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
@@ -7850,6 +7849,33 @@
 			)
 		)
 		(property "MN" ""
+			(at 241.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 241.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 241.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 241.3 40.64 0)
 			(effects
 				(font
@@ -8707,7 +8733,7 @@
 		(at 88.9 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae875f1-e95b-41e6-bcb0-79b1f756fd80")
@@ -9158,7 +9184,7 @@
 		(at 58.42 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "82e94d8e-dc4a-4a26-b883-0770efca5fc9")
@@ -9876,7 +9902,7 @@
 		(at 97.79 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a2d1b0e0-c397-4a03-83cf-8713ec8ddb3e")
@@ -10255,7 +10281,7 @@
 		(at 58.42 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "dffedd6e-6be4-492b-943a-b89bb048e48d")
@@ -10268,8 +10294,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
-			(at 51.054 41.402 0)
+		(property "Value" "IO1"
+			(at 46.736 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10910,7 +10936,7 @@
 		(at 58.42 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f96a7ef5-48a9-4b32-ad2d-d7242b3f3d20")
@@ -10923,8 +10949,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
-			(at 51.054 43.942 0)
+		(property "Value" "IO2"
+			(at 46.736 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -10065,7 +10065,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "IO2"
 			(at 0 1.55 0)
 			(layer "F.Fab")
 			(uuid "e554d6b7-8b52-438d-9b3b-3efd439abf89")
@@ -10197,7 +10197,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/f96a7ef5-48a9-4b32-ad2d-d7242b3f3d20")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -10904,7 +10904,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/82e94d8e-dc4a-4a26-b883-0770efca5fc9")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -20102,7 +20102,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "IO1"
 			(at 0 1.55 0)
 			(layer "F.Fab")
 			(uuid "04fcf304-62d6-4306-9aff-d470ffd69dc1")
@@ -20234,7 +20234,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/dffedd6e-6be4-492b-943a-b89bb048e48d")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -29278,6 +29278,7 @@
 		(path "/2e166321-b713-45e0-87cf-342f1811c390/9e9b60fc-982c-4de8-b869-a68d79e29e07")
 		(sheetname "/Requirements/")
 		(sheetfile "requirements.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.345175 -4.472569) (xy -0.343829 -4.472496) (xy -0.342484 -4.472358) (xy -0.341144 -4.472154)
@@ -36392,6 +36393,7 @@
 		(path "/2e166321-b713-45e0-87cf-342f1811c390/9b9a771f-c759-460d-a185-4cbf1cecfd7e")
 		(sheetname "/Requirements/")
 		(sheetfile "requirements.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.059908 5.546537) (xy -1.02641 5.543119) (xy -0.99177 5.537986) (xy -0.956384 5.53125) (xy -0.920646 5.523027)
@@ -37327,7 +37329,7 @@
 		(path "/769d4e06-da53-4a14-8173-369f034a88df/1f721f73-af11-4787-ac67-b086b3818de9")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -37492,7 +37494,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/a2d1b0e0-c397-4a03-83cf-8713ec8ddb3e")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -37699,6 +37701,7 @@
 		(path "/2e166321-b713-45e0-87cf-342f1811c390/b0dc98bc-3440-4d3a-b10d-88a3d1a1dcfd")
 		(sheetname "/Requirements/")
 		(sheetfile "requirements.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.192804 8.675715) (xy -1.190111 8.675568) (xy -1.187422 8.675292) (xy -1.184742 8.674884)
@@ -38726,7 +38729,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/7ae875f1-e95b-41e6-bcb0-79b1f756fd80")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -39445,7 +39448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Logo_Open_Hardware_Small"
+		(property "Value" "~"
 			(at 0.75 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40342,12 +40345,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey PN" ""
+		(property "LCSC" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "61a7ce63-b095-4f4f-a99f-879c572aa87a")
+			(uuid "51ca5054-7ca3-483f-ab61-054a24508fa2")
 			(effects
 				(font
 					(size 1 1)
@@ -40356,12 +40359,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7c276c8c-21c9-4ef1-90a6-dd7cad3b311a")
+			(uuid "8759d4be-98f1-40e3-a424-55f6143508f3")
 			(effects
 				(font
 					(size 1 1)
@@ -40370,26 +40373,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB Datasheet" ""
+		(property "Mouser" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d6485046-e044-4470-a580-9d547818c16c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "92da3682-3131-40f2-9c22-32f70fdf450d")
+			(uuid "35ad16fa-16ea-42b3-88c6-c1dca6724616")
 			(effects
 				(font
 					(size 1 1)
@@ -40402,7 +40391,7 @@
 		(path "/2500e019-c938-4e9e-9faa-9174484e036e/30bfd005-b426-4b17-baa3-1c8489e5cff9")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -40507,12 +40496,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey PN" ""
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "159d7c47-ae71-4336-822e-55bdd1411985")
+			(uuid "af218cf2-3dfd-42e4-9ffd-3b335375c141")
 			(effects
 				(font
 					(size 1 1)
@@ -40521,12 +40510,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ef5e2c62-93b9-40a1-8ee7-01ab15e315ec")
+			(uuid "892d72e9-8062-42ae-bf70-21831cb6bc40")
 			(effects
 				(font
 					(size 1 1)
@@ -40535,26 +40524,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB Datasheet" ""
+		(property "Mouser" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3393e862-c445-4262-9815-bd43581de910")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Mouser PN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "8abd37dc-c934-47b4-a046-fc87bdd2ae08")
+			(uuid "201fc296-fdf3-4fb1-9746-58e34a1a2f9d")
 			(effects
 				(font
 					(size 1 1)
@@ -40567,7 +40542,7 @@
 		(path "/769d4e06-da53-4a14-8173-369f034a88df/aeb9036b-c502-4372-a26b-3ddd721a46fa")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
@@ -40987,7 +40962,7 @@
 		(path "/769d4e06-da53-4a14-8173-369f034a88df/508e2f7d-483a-4a56-a38f-15a98bccb72d")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0.65 0)
