@@ -4067,7 +4067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position"
+		(property "Description" "JST SH 1.0mm 4 Position Vertical"
 			(at 41.91 49.53 0)
 			(effects
 				(font
@@ -4257,7 +4257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 3 Position"
+		(property "Description" "JST SH 1.0mm 3 Position Vertical"
 			(at 112.268 19.05 0)
 			(effects
 				(font
@@ -4676,7 +4676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 8 Position"
+		(property "Description" "JST SH 1.0mm 8 Position Vertical"
 			(at 107.95 81.28 0)
 			(effects
 				(font
@@ -4944,7 +4944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position"
+		(property "Description" "JST SH 1.0mm 4 Position Vertical"
 			(at 36.83 21.59 0)
 			(effects
 				(font
@@ -5198,7 +5198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 3 Position"
+		(property "Description" "JST SH 1.0mm 3 Position Vertical"
 			(at 112.268 45.72 0)
 			(effects
 				(font

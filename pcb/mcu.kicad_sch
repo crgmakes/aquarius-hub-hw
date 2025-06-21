@@ -7478,7 +7478,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4.7K"
 			(at 89.916 105.41 0)
 			(effects
 				(font
@@ -7523,7 +7523,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FRC0603J103TS"
+		(property "MPN" "FRC0603J472 TS"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -7532,7 +7532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "652-CR0603-JW-103ELF"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -7541,7 +7541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CR0603-JW-103ELFTR-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2930027"
+		(property "LCSC" "C2907166"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -8190,7 +8190,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4.7K"
 			(at 98.806 105.41 0)
 			(effects
 				(font
@@ -8235,7 +8235,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FRC0603J103TS"
+		(property "MPN" "FRC0603J472 TS"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -8244,7 +8244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "652-CR0603-JW-103ELF"
+		(property "Mouser" "652-CR0603-JW-472ELF"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -8253,7 +8253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CR0603-JW-103ELFTR-ND"
+		(property "Digikey" "CR0603-JW-472ELFTR-ND"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -8262,7 +8262,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2930027"
+		(property "LCSC" "C2907166"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -8503,7 +8503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K (1%)"
+		(property "Value" "10K"
 			(at 162.56 87.6299 0)
 			(effects
 				(font
@@ -8548,7 +8548,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RTT031002FTP"
+		(property "MPN" "FRC0603J103TS"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -8557,7 +8557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "652-CR0603FX-1002ELF"
+		(property "Mouser" "652-CR0603-JW-103ELF"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -8566,7 +8566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "CR0603-FX-1002ELFTR-ND"
+		(property "Digikey" "CR0603-JW-103ELFTR-ND"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -8575,7 +8575,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C103199"
+		(property "LCSC" "C2930027"
 			(at 160.02 86.36 0)
 			(effects
 				(font

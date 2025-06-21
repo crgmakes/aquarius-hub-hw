@@ -4983,7 +4983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position"
+		(property "Description" "JST SH 1.0mm 4 Position Vertical"
 			(at 224.028 93.218 0)
 			(effects
 				(font
@@ -5028,7 +5028,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2919601"
 			(at 224.028 83.82 0)
 			(effects
 				(font
@@ -5666,7 +5666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position"
+		(property "Description" "JST SH 1.0mm 6 Position Vertical"
 			(at 220.98 118.11 0)
 			(effects
 				(font
@@ -7682,7 +7682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position"
+		(property "Description" "JST SH 1.0mm 6 Position Vertical"
 			(at 220.98 41.91 0)
 			(effects
 				(font
@@ -8739,7 +8739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position"
+		(property "Description" "JST SH 1.0mm 4 Position Vertical"
 			(at 224.028 76.708 0)
 			(effects
 				(font
@@ -8784,7 +8784,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2919601"
 			(at 224.028 67.31 0)
 			(effects
 				(font
@@ -8863,7 +8863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position"
+		(property "Description" "JST SH 1.0mm 6 Position Vertical"
 			(at 220.98 63.5 0)
 			(effects
 				(font

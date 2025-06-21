@@ -8182,7 +8182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position"
+		(property "Description" "JST SH 1.0mm 4 Position Horizontal"
 			(at 55.118 118.872 0)
 			(effects
 				(font
@@ -8200,7 +8200,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
 			(at 55.88 121.412 0)
 			(effects
 				(font
@@ -8227,7 +8227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-SM04B-SRSS-TBTR-ND"
 			(at 55.626 126.238 0)
 			(effects
 				(font
