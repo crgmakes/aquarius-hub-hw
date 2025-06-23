@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Aquarius")
-		(date "2025-02-12")
-		(rev "1.5")
+		(date "2025-06-22")
+		(rev "2.0")
 		(company "CRG Makes")
 	)
 	(lib_symbols
@@ -4038,7 +4038,7 @@
 		(dnp no)
 		(uuid "7bef8f8a-bd05-4a86-9432-e68f49b82375")
 		(property "Reference" "J9"
-			(at 41.402 45.72 0)
+			(at 41.402 48.006 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4047,7 +4047,7 @@
 				)
 			)
 		)
-		(property "Value" "QWIIC2"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 41.275 48.26 0)
 			(effects
 				(font
@@ -4055,6 +4055,7 @@
 					(thickness 0.3556)
 					(bold yes)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -4228,7 +4229,7 @@
 		(dnp no)
 		(uuid "8e8f2e4a-fbc3-4608-a219-763e04c12f25")
 		(property "Reference" "J14"
-			(at 110.49 19.05 0)
+			(at 110.49 21.336 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4237,7 +4238,7 @@
 				)
 			)
 		)
-		(property "Value" "SERIAL"
+		(property "Value" "BM03B-SRSS-TB"
 			(at 110.49 21.59 0)
 			(effects
 				(font
@@ -4245,9 +4246,10 @@
 					(thickness 0.3556)
 					(bold yes)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
+		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
 			(at 113.03 16.51 0)
 			(effects
 				(font
@@ -4645,7 +4647,7 @@
 		(dnp no)
 		(uuid "b656f91c-6040-4c0d-bd64-23c40c0362d9")
 		(property "Reference" "J10"
-			(at 107.442 76.962 0)
+			(at 107.442 79.248 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4655,7 +4657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SPI"
+		(property "Value" "BM08B-SRSS-TB"
 			(at 107.188 79.756 0)
 			(effects
 				(font
@@ -4664,6 +4666,7 @@
 					(bold yes)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
@@ -4915,7 +4918,7 @@
 		(dnp no)
 		(uuid "c2966a8d-f94c-4447-aaa6-d430be802a7d")
 		(property "Reference" "J8"
-			(at 41.402 17.78 0)
+			(at 41.402 20.066 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4924,7 +4927,7 @@
 				)
 			)
 		)
-		(property "Value" "QWIIC1"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 41.275 20.32 0)
 			(effects
 				(font
@@ -4932,6 +4935,7 @@
 					(thickness 0.3556)
 					(bold yes)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -5169,7 +5173,7 @@
 		(dnp no)
 		(uuid "d58abf6b-b016-4707-8bc5-76c96610a178")
 		(property "Reference" "J3"
-			(at 110.49 45.72 0)
+			(at 110.49 48.006 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5178,7 +5182,7 @@
 				)
 			)
 		)
-		(property "Value" "INDICATOR"
+		(property "Value" "BM03B-SRSS-TB"
 			(at 110.49 48.26 0)
 			(effects
 				(font
@@ -5186,6 +5190,7 @@
 					(thickness 0.3556)
 					(bold yes)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"

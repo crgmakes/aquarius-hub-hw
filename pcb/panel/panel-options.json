@@ -18,7 +18,11 @@
     },
     "framing": {
         "type": "railslr",
-        "fillet": "1mm"
+        "width": "5mm",
+        "space": "3mm",
+        "fillet": "1mm",
+        "mintotalwidth": "70mm",
+        "mintotalheight": "70mm"
     },
     "tooling": {
         "type": "3hole",

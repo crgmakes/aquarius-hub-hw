@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Aquarius")
-		(date "2025-02-12")
-		(rev "1.5")
+		(date "2025-06-22")
+		(rev "2.0")
 		(company "CRG Makes")
 	)
 	(lib_symbols
@@ -4981,15 +4981,15 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "GPA[0..3]"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 210.566 94.996 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -5664,15 +5664,15 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "GPA[4..7]"
+		(property "Value" "BM06B-SRSS-TB"
 			(at 210.566 111.506 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
@@ -7680,15 +7680,15 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "GPB[0..3]"
+		(property "Value" "BM06B-SRSS-TB"
 			(at 211.074 35.306 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
@@ -8737,15 +8737,15 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "BTN[0..3]"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 210.566 78.486 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
@@ -8861,15 +8861,15 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "GPB[4..7]"
+		(property "Value" "BM06B-SRSS-TB"
 			(at 210.566 56.896 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"

@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Aquarius")
-		(date "2025-02-12")
-		(rev "1.5")
+		(date "2025-06-22")
+		(rev "2.0")
 		(company "CRG Makes")
 	)
 	(lib_symbols
@@ -7505,7 +7505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 88.9 104.14 0)
 			(effects
 				(font
@@ -7772,13 +7772,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "OBLO"
+		(property "Value" "TP"
 			(at 238.76 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
@@ -7799,7 +7800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 241.3 40.64 0)
 			(effects
 				(font
@@ -7930,10 +7931,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "42e09257-dce8-4ca5-8600-ea9949c6b669")
 		(property "Reference" "J1"
-			(at 182.88 20.32 0)
+			(at 182.88 22.606 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -7942,7 +7942,7 @@
 				)
 			)
 		)
-		(property "Value" "LCD"
+		(property "Value" "XF2M-1415-1A"
 			(at 182.88 22.86 0)
 			(effects
 				(font
@@ -7950,6 +7950,7 @@
 					(thickness 0.3023)
 					(bold yes)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:XF2C_1415-1A"
@@ -8217,7 +8218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -8530,7 +8531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 1%"
+		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
 			(at 160.02 86.36 0)
 			(effects
 				(font
@@ -8731,7 +8732,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "I2C_SDA"
+		(property "Value" "TP"
 			(at 87.122 124.206 0)
 			(effects
 				(font
@@ -8759,7 +8760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 88.9 116.84 0)
 			(effects
 				(font
@@ -8788,22 +8789,22 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7e0c20e1-b363-4442-8d96-8627a61af57f")
 		(property "Reference" "SW2"
-			(at 241.3 86.36 0)
+			(at 241.3 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "BOOT"
+		(property "Value" "EVQ-Q2B02W"
 			(at 241.3 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Switches:EVQ-Q2B02W"
@@ -8919,10 +8920,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7e1c58a0-4fbc-42d2-b4df-78a7d6752fe6")
 		(property "Reference" "D1"
-			(at 243.84 29.2414 0)
+			(at 233.934 29.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8935,6 +8935,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
@@ -9207,7 +9208,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "IO7"
+		(property "Value" "TP"
 			(at 46.99 58.42 90)
 			(effects
 				(font
@@ -9235,7 +9236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 58.42 58.42 0)
 			(effects
 				(font
@@ -9809,22 +9810,22 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a2394fde-c084-4b52-8729-264beac4a9aa")
 		(property "Reference" "SW1"
-			(at 186.69 86.36 0)
+			(at 186.69 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "RESET"
+		(property "Value" "EVQ-Q2B02W"
 			(at 186.69 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Switches:EVQ-Q2B02W"
@@ -9950,7 +9951,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "I2C_SCL"
+		(property "Value" "TP"
 			(at 96.012 124.206 0)
 			(effects
 				(font
@@ -9978,7 +9979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 97.79 116.84 0)
 			(effects
 				(font
@@ -10354,13 +10355,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "IO1"
+		(property "Value" "TP"
 			(at 46.736 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
@@ -10381,7 +10383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -11009,13 +11011,14 @@
 				(justify right)
 			)
 		)
-		(property "Value" "IO2"
+		(property "Value" "TP"
 			(at 46.736 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
@@ -11036,7 +11039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "Test Point"
 			(at 58.42 45.72 0)
 			(effects
 				(font

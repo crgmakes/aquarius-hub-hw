@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Aquarius")
-		(date "2025-02-12")
-		(rev "1.5")
+		(date "2025-06-22")
+		(rev "2.0")
 		(company "CRG Makes")
 	)
 	(lib_symbols
@@ -1717,7 +1717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Open Hardware logo, small"
+		(property "Description" ""
 			(at 215.9 172.72 0)
 			(effects
 				(font
