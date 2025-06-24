@@ -64,19 +64,24 @@ jobs:
       run: |
         cd working/aquarius-hw
         export COMMIT=$(git rev-parse --short HEAD)
+        export RELEASE_DATE=$(date "+%m/%d/%Y @ %H:%M")
         echo "COMMIT = ${COMMIT}"    
         echo "ref: '${{ github.ref }}'"
         echo "tag: '${{ github.event.release.tag_name }}'"
         echo "default: '${{ env.default }}'"
         cd pcb
         sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_pcb
+        sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_sch
+        sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_pcb
+        sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_sch
 
     # Remove tag from PCB since this is not a release
     - name: Update the PCB build with git hash
       if: github.event_name != 'release'
       run: |
         cd working/aquarius-hw/pcb
-        sed -i "s!<<tag>>! !" Node.kicad_pcb
+        sed -i "s!<<tag>>!MANUAL!" Node.kicad_pcb
+        sed -i "s!<<tag>>!MANUAL!" Node.kicad_sch
 
     # Update PCB with release tag
     - name: Update the PCB release with git hash and version tag
@@ -86,6 +91,7 @@ jobs:
         echo "tag: ${{ github.ref_name }}"
         echo "release tag: ${{ github.event.release.tag_name }}"
         sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_pcb
+        sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_sch
 
     # generates fab files for the single PCB, includes gerber, drill, ibom, schematic, and images
     # NOTE: only run if this is not a release (e.g., run manually)
