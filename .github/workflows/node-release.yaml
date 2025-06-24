@@ -73,7 +73,7 @@ jobs:
         sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_pcb
         sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_sch
         sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_pcb
-        sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_sch
         sed -i "s!<<release-date>>!${RELEASE_DATE}!" *.kicad_sch
         # sed -i "s!<<release-date>>!${RELEASE_DATE}!" requirements.kicad_sch
         # sed -i "s!<<release-date>>!${RELEASE_DATE}!" mcu.kicad_sch
@@ -98,7 +98,7 @@ jobs:
         echo "tag: ${{ github.ref_name }}"
         echo "release tag: ${{ github.event.release.tag_name }}"
         sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_pcb
-        sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_sch
         sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" *.kicad_sch
         # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" requirements.kicad_sch
         # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" mcu.kicad_sch
