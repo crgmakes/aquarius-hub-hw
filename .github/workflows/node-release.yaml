@@ -74,6 +74,12 @@ jobs:
         sed -i "s!<<hash>>!${COMMIT}!" Node.kicad_sch
         sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_pcb
         sed -i "s!<<release-date>>!${RELEASE_DATE}!" Node.kicad_sch
+        sed -i "s!<<release-date>>!${RELEASE_DATE}!" *.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" requirements.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" mcu.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" peripherals.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" pio.kicad_sch
+        # sed -i "s!<<release-date>>!${RELEASE_DATE}!" power.kicad_sch
 
     # Remove tag from PCB since this is not a release
     - name: Update the PCB build with git hash
@@ -81,7 +87,8 @@ jobs:
       run: |
         cd working/aquarius-hw/pcb
         sed -i "s!<<tag>>!MANUAL!" Node.kicad_pcb
-        sed -i "s!<<tag>>!MANUAL!" Node.kicad_sch
+        sed -i "s!<<tag>>!MANUAL!" *.kicad_sch
+        # sed -i "s!<<tag>>!MANUAL!" Node.kicad_sch
 
     # Update PCB with release tag
     - name: Update the PCB release with git hash and version tag
@@ -92,6 +99,12 @@ jobs:
         echo "release tag: ${{ github.event.release.tag_name }}"
         sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_pcb
         sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" Node.kicad_sch
+        sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" *.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" requirements.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" mcu.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" peripherals.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" pio.kicad_sch
+        # sed -i "s!<<tag>>!${{ github.event.release.tag_name }}!" power.kicad_sch
 
     # generates fab files for the single PCB, includes gerber, drill, ibom, schematic, and images
     # NOTE: only run if this is not a release (e.g., run manually)
