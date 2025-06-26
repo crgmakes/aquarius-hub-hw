@@ -40576,7 +40576,7 @@
 	)
 	(gr_rect
 		(start 76 44.2)
-		(end 94 50.2)
+		(end 94 50)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -41362,14 +41362,14 @@
 		(style
 			(thickness 0.1)
 			(arrow_length 1.27)
-			(text_position_mode 0)
+			(text_position_mode 2)
 			(arrow_direction outward)
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
 		(gr_text "8.38 mm"
-			(at 68.19 104.85 0)
+			(at 68.4 107.5 0)
 			(layer "Dwgs.User")
 			(uuid "95603e34-5523-430c-bea0-773f7b4a0c92")
 			(effects
@@ -41584,14 +41584,14 @@
 		(style
 			(thickness 0.1)
 			(arrow_length 1.27)
-			(text_position_mode 0)
+			(text_position_mode 2)
 			(arrow_direction outward)
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
 		(gr_text "8.10 mm"
-			(at 83.53 104.85 0)
+			(at 83.6 107.5 0)
 			(layer "Dwgs.User")
 			(uuid "bb6aa99e-85cd-49ca-8b49-2695fb0b6d7f")
 			(effects
@@ -41695,14 +41695,14 @@
 		(style
 			(thickness 0.1)
 			(arrow_length 1.27)
-			(text_position_mode 0)
+			(text_position_mode 2)
 			(arrow_direction outward)
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
 		(gr_text "7.10 mm"
-			(at 75.93 104.85 0)
+			(at 76.1 107.5 0)
 			(layer "Dwgs.User")
 			(uuid "ef7fea82-4cf4-4f80-b4a4-c2ec638037cb")
 			(effects
@@ -41732,14 +41732,14 @@
 		(style
 			(thickness 0.1)
 			(arrow_length 1.27)
-			(text_position_mode 0)
+			(text_position_mode 2)
 			(arrow_direction outward)
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
 		(gr_text "9.10 mm"
-			(at 92.13 104.85 0)
+			(at 92 107.4 0)
 			(layer "Dwgs.User")
 			(uuid "efe20729-eedd-4600-979a-a1950c3c2cb5")
 			(effects
