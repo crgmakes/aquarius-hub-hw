@@ -5,10 +5,7 @@
 	(uuid "b86a6aa0-d160-4eff-8bf3-0f36d87a3702")
 	(paper "A4")
 	(title_block
-		(title "Aquarius")
-		(date "<<release-date>>")
-		(rev "<<tag>>")
-		(company "CRG Makes")
+		(title "Node Hardware")
 	)
 	(lib_symbols
 		(symbol "CRG Makes:CMT-0502-75-SMT-TR"

@@ -5,10 +5,7 @@
 	(uuid "651897a9-a9f2-4c82-8db5-855d27b9a27f")
 	(paper "A4")
 	(title_block
-		(title "Aquarius")
-		(date "<<release-date>>")
-		(rev "<<tag>>")
-		(company "CRG Makes")
+		(title "Node Hardware")
 	)
 	(lib_symbols
 		(symbol "CRGM Logos:Aquarius Logo"
@@ -1674,7 +1671,7 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 215.9 172.72 0)
+		(at 278.13 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1682,7 +1679,7 @@
 		(dnp no)
 		(uuid "48006793-ac45-4c23-9958-23a7fce5ff40")
 		(property "Reference" "LOGO3"
-			(at 215.9 165.735 0)
+			(at 278.13 165.735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1691,7 +1688,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 215.9 178.435 0)
+			(at 278.13 178.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1700,7 +1697,7 @@
 			)
 		)
 		(property "Footprint" "Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1709,7 +1706,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1718,7 +1715,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1727,7 +1724,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1736,7 +1733,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1745,7 +1742,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 215.9 172.72 0)
+			(at 278.13 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1764,7 +1761,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:FNWW Face")
-		(at 184.15 173.99 0)
+		(at 246.38 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1773,7 +1770,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b9a771f-c759-460d-a185-4cbf1cecfd7e")
 		(property "Reference" "LOGO1"
-			(at 184.15 175.006 0)
+			(at 246.38 175.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1782,7 +1779,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 181.61 169.164 0)
+			(at 243.84 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1791,7 +1788,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:FNWW Face 10mm"
-			(at 184.15 183.134 0)
+			(at 246.38 183.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1800,7 +1797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 169.164 0)
+			(at 243.84 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1809,7 +1806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 169.164 0)
+			(at 243.84 169.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1818,7 +1815,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 184.15 173.99 0)
+			(at 246.38 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1827,7 +1824,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 184.15 173.99 0)
+			(at 246.38 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1836,7 +1833,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 184.15 173.99 0)
+			(at 246.38 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1855,7 +1852,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:Aquarius Logo")
-		(at 204.47 173.99 0)
+		(at 266.7 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1864,7 +1861,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e9b60fc-982c-4de8-b869-a68d79e29e07")
 		(property "Reference" "LOGO4"
-			(at 204.724 175.26 0)
+			(at 266.954 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1873,7 +1870,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 202.184 168.91 0)
+			(at 264.414 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1882,7 +1879,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Aquarius Logo 5mm"
-			(at 206.756 181.864 0)
+			(at 268.986 181.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1891,7 +1888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 202.184 168.91 0)
+			(at 264.414 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1897,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 202.184 168.91 0)
+			(at 264.414 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1919,7 +1916,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Logos:Aquarius Logo")
-		(at 194.31 173.99 0)
+		(at 256.54 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -1928,7 +1925,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0dc98bc-3440-4d3a-b10d-88a3d1a1dcfd")
 		(property "Reference" "LOGO2"
-			(at 194.564 175.26 0)
+			(at 256.794 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1937,7 +1934,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 192.024 168.91 0)
+			(at 254.254 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1946,7 +1943,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Logos:Aquarius Logo 10mm"
-			(at 196.596 181.864 0)
+			(at 258.826 181.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1955,7 +1952,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 192.024 168.91 0)
+			(at 254.254 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1964,7 +1961,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 192.024 168.91 0)
+			(at 254.254 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +1970,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 194.31 173.99 0)
+			(at 256.54 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +1979,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 194.31 173.99 0)
+			(at 256.54 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1991,7 +1988,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 194.31 173.99 0)
+			(at 256.54 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)

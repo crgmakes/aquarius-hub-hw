@@ -5,10 +5,7 @@
 	(uuid "76d905ef-65d6-4a25-9084-753bfbe455be")
 	(paper "A4")
 	(title_block
-		(title "Aquarius")
-		(date "<<release-date>>")
-		(rev "<<tag>>")
-		(company "CRG Makes")
+		(title "Node Hardware")
 	)
 	(lib_symbols
 		(symbol "CRGM Connector:AQ_POWER"
