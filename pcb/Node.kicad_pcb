@@ -6418,7 +6418,7 @@
 		(descr "JST SH series connector, BM03B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH vertical")
 		(property "Reference" "J14"
-			(at -0.1 -1.1 270)
+			(at -0.1 -1.1 90)
 			(layer "F.SilkS")
 			(uuid "4ee54234-2b94-4131-a52b-04d95363a616")
 			(effects
@@ -6429,7 +6429,7 @@
 			)
 		)
 		(property "Value" "BM03B-SRSS-TB"
-			(at 0 3.3 270)
+			(at 0 3.3 90)
 			(layer "F.Fab")
 			(uuid "c37be95a-333d-4ed4-9013-8dd7cc97ee92")
 			(effects
@@ -6815,7 +6815,7 @@
 			(uuid "5e1cd5a8-e20e-49b3-bc6d-c3a1bce41cc4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.05 4.55 270)
+			(at -0.05 4.55 90)
 			(layer "F.Fab")
 			(uuid "5ff1ed38-b617-457a-b73a-b39522c4d098")
 			(effects
@@ -6870,21 +6870,9 @@
 			(uuid "7496303a-67fb-46c0-b4c1-29de3256bedf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.wrl"
-			(hide yes)
+		(model "${KICAD_USER_LIBRARY}/models/BM03B-SRSS-TB.step"
 			(offset
-				(xyz -0.5 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
-		(model "/Users/tsasala/Development/pcb/KiCad/Models/BM03B-SRSS-TB.step"
-			(offset
-				(xyz 0 -1.5 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
