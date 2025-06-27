@@ -169,7 +169,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       if: github.event_name == 'release'
       with:
-        name: aquarius-Node-${{ github.event.release.tag_name }}
+        name: aquarius-node-${{ github.event.release.tag_name }}
         files: |
           node-release-${{ github.event.release.tag_name }}.zip
           node-panel-release-${{ github.event.release.tag_name }}.zip
