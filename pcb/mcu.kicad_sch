@@ -7953,7 +7953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:XF2C_1415-1A"
+		(property "Footprint" "CRGM Connector:XF2M-1415-1A"
 			(at 182.88 64.262 0)
 			(effects
 				(font

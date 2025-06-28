@@ -5057,7 +5057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CRG Makes:CMT050275SMTTR"
+		(property "Footprint" "CRG Makes:FUET-5025"
 			(at 232.41 125.4 0)
 			(effects
 				(font
