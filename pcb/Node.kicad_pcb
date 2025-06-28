@@ -15034,7 +15034,7 @@
 			(uuid "b2fa72bd-f48f-44ad-ae75-ff963f7af90f")
 		)
 		(embedded_fonts no)
-		(model "/Users/tsasala/Development/pcb/KiCad/Models/CMT-0502-75-SMT-TR.stp"
+		(model "${KICAD_USER_DIR}/Library/models/CMT-0502-75-SMT-TR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24540,7 +24540,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401301156_Omron-Electronics-XF2M-1415-1A_C397114.pdf"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "32d2cbf9-2db4-4bdc-988d-a16290061823")
@@ -24552,7 +24552,7 @@
 			)
 		)
 		(property "Description" "14P Dual-sided 0.5mm SMD Right Angle FFC, FPC"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e20f1ca3-45f5-4b60-863f-6742f2ac411e")
@@ -24920,15 +24920,15 @@
 			(uuid "e5c30071-8fb8-4b22-be6b-1b39fae75e21")
 		)
 		(embedded_fonts no)
-		(model "/Users/tsasala/Development/pcb/KiCad/Models/XF2C_1415-1A.step"
+		(model "${KICAD_USER_MODEL_DIR}/XF2C_1415-1A.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0.25 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
