@@ -13944,7 +13944,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "aaf2f8e6-9fc1-4c28-acd4-90c95fbc5e29")
 		)
 		(pad "41" smd rect
 			(at -2.9 2.46)
@@ -13955,7 +13955,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "78e6c589-210d-4a09-8cff-7dc226712755")
 		)
 		(pad "41" thru_hole circle
 			(at -2.9 3.16)
@@ -13968,7 +13968,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "ade1f1f6-cc38-4b5f-b32f-5ac04b21e3ae")
 		)
 		(pad "41" smd rect
 			(at -2.9 3.86)
@@ -13979,7 +13979,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "de84ff4f-397f-448c-99f4-ea05340ee817")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 1.06)
@@ -13992,7 +13992,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "424c2265-de1d-47d4-b02d-30901165bddd")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 2.46)
@@ -14005,7 +14005,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "da5f96fe-f9e6-425d-bb3d-4ef3712d88ae")
 		)
 		(pad "41" thru_hole circle
 			(at -2.2 3.86)
@@ -14018,7 +14018,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "ae27737f-e4f6-4c97-9692-d7ed52e3f59e")
 		)
 		(pad "41" smd rect
 			(at -1.5 1.06)
@@ -14029,7 +14029,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "25f4f7ba-7ffe-4fad-ab53-060840aa487f")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 1.76)
@@ -14042,7 +14042,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "8d9419c7-78ae-4320-ac62-5aa92775c4cb")
 		)
 		(pad "41" smd rect
 			(at -1.5 2.46)
@@ -14053,7 +14053,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "f682441e-8a28-4bdc-870a-2014f203109c")
 		)
 		(pad "41" thru_hole circle
 			(at -1.5 3.16)
@@ -14066,7 +14066,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "bda9db95-fe97-44d7-abea-f03da1c8e036")
 		)
 		(pad "41" smd rect
 			(at -1.5 3.86)
@@ -14077,7 +14077,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "e9243f49-e923-40af-b7d1-50d63dc4f661")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 1.06)
@@ -14090,7 +14090,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "884168be-cd75-4ed6-9ca8-cce94862f8ca")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 2.46)
@@ -14103,7 +14103,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "9c5e2462-9ef5-42fd-8231-053ba0e2eb35")
 		)
 		(pad "41" thru_hole circle
 			(at -0.8 3.86)
@@ -14116,7 +14116,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "3a68c79b-17c9-4c6e-98a8-359b28700da0")
 		)
 		(pad "41" smd rect
 			(at -0.1 1.06)
@@ -14127,7 +14127,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "30ce059f-9f85-4529-ba22-742ad9fc6484")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 1.76)
@@ -14140,7 +14140,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "ffefce37-4cef-4028-ab56-842f2c450a07")
 		)
 		(pad "41" smd rect
 			(at -0.1 2.46)
@@ -14151,7 +14151,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "c4a8a2bb-8a8b-4267-9375-9f7ce1197193")
 		)
 		(pad "41" thru_hole circle
 			(at -0.1 3.16)
@@ -14164,7 +14164,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "7a3a9175-9101-4109-80cd-af54d2879dd6")
 		)
 		(pad "41" smd rect
 			(at -0.1 3.86)
@@ -14175,7 +14175,7 @@
 			(pintype "passive")
 			(solder_mask_margin 0.1016)
 			(thermal_bridge_angle 0)
-			(uuid "9c44a1d0-fe66-4026-be90-1787967e132c")
+			(uuid "b9bf73b0-16cb-43fa-979d-27cb7f6c7847")
 		)
 		(zone
 			(net 0)
@@ -27044,7 +27044,7 @@
 		(property "Reference" "U4"
 			(at -3.9 -4.32436 0)
 			(layer "F.SilkS")
-			(uuid "9fb19d3c-1d33-49c3-a302-1422eedca783")
+			(uuid "b25ff0c7-b273-424a-8222-db8d5d01628c")
 			(effects
 				(font
 					(size 1 1)
@@ -27056,7 +27056,7 @@
 			(at 0 4.31 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7efecd0-7124-4ad8-bb09-36f34e2f85f4")
+			(uuid "5af059ed-282b-402f-be45-4db7555fad2d")
 			(effects
 				(font
 					(size 1 1)
@@ -27068,7 +27068,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7b2095d-bd37-4233-9ef7-3a3cc5f6196c")
+			(uuid "a3182c3c-2eb6-4ff3-bd88-2e3c51e19482")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27080,7 +27080,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "610bcd04-e11a-4516-8be5-11176b868038")
+			(uuid "2c3127fd-36f3-4c0b-b85e-131eb8a57333")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42878,14 +42878,6 @@
 		(uuid "379baef6-614b-4708-bfe2-b407bee369e9")
 	)
 	(segment
-		(start 94.9 84.57564)
-		(end 94.9 83.57564)
-		(width 0.1524)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "3c20b1ba-5ca6-42b5-8a85-6356d98dcffd")
-	)
-	(segment
 		(start 71.9 98.65)
 		(end 73.8 98.65)
 		(width 0.3)
@@ -43076,14 +43068,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "6c6c98f3-0f09-4a9c-97de-c64262cf83ef")
-	)
-	(segment
-		(start 94.9 84.57564)
-		(end 93.9 84.57564)
-		(width 0.1524)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "6ca5d640-d268-4ab7-99d4-07b4f4db6d9a")
 	)
 	(segment
 		(start 72.88 96.525)
@@ -43430,14 +43414,6 @@
 		(uuid "dbd12bfe-7bc3-4f17-b4b6-ba43f811655e")
 	)
 	(segment
-		(start 94.9 84.57564)
-		(end 95.9 84.57564)
-		(width 0.1524)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "dfd47c86-3b5c-4a2c-bbf5-1a051865348d")
-	)
-	(segment
 		(start 70 58.175)
 		(end 70 59.5)
 		(width 0.5)
@@ -43524,14 +43500,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "f01f8a7d-1098-40e2-996e-d1b74013b917")
-	)
-	(segment
-		(start 94.9 84.57564)
-		(end 94.9 85.57564)
-		(width 0.1524)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "f253b495-c9f1-4b97-b28a-9eab3fe7fd77")
 	)
 	(segment
 		(start 79.98 96.525)
@@ -43956,7 +43924,7 @@
 		(uuid "8c548b7d-d50e-4907-8598-97a4d0818a04")
 	)
 	(via
-		(at 93.9 84.57564)
+		(at 94.2 85.3)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -43964,7 +43932,7 @@
 		(uuid "90c3c0f6-4168-4e89-9ea0-24ede91286f6")
 	)
 	(via
-		(at 94.9 83.57564)
+		(at 94.2 83.9)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -44062,14 +44030,6 @@
 		(uuid "bc056b64-02bb-4b19-ab89-72eae25790a0")
 	)
 	(via
-		(at 94.9 84.57564)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "bdaf08ae-004a-4a64-94e9-b4ec84852cbb")
-	)
-	(via
 		(at 78.15 65.9)
 		(size 0.6)
 		(drill 0.3)
@@ -44111,7 +44071,7 @@
 		(uuid "cd4553f1-9c80-4318-9dde-6d2020ee93b7")
 	)
 	(via
-		(at 95.9 84.57564)
+		(at 95.6 83.9)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -44186,7 +44146,7 @@
 		(uuid "fca04585-c779-4e9d-93fb-4848e79e13a1")
 	)
 	(via
-		(at 94.9 85.57564)
+		(at 95.6 85.3)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -47833,8 +47793,8 @@
 		)
 		(polygon
 			(pts
-				(xy 69.55 76.8) (xy 70.2 76.8) (xy 70.2 76.8) (xy 76.2 76.8) (xy 76.2 79.7) (xy 74.7 79.7) (xy 74.7 85.1)
-				(xy 69.4 85.1) (xy 69.4 82.5) (xy 73.2 82.5) (xy 73.2 77.6) (xy 68.8 77.6) (xy 68.8 76.8) (xy 69.55 76.8)
+				(xy 69.55 76.8) (xy 70.2 76.8) (xy 76.2 76.8) (xy 76.2 79.7) (xy 74.7 79.7) (xy 74.7 85.1) (xy 69.4 85.1)
+				(xy 69.4 82.5) (xy 73.2 82.5) (xy 73.2 77.6) (xy 68.8 77.6) (xy 68.8 76.8)
 			)
 		)
 		(filled_polygon
