@@ -15034,7 +15034,7 @@
 			(uuid "b2fa72bd-f48f-44ad-ae75-ff963f7af90f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_USER_DIR}/Library/models/CMT-0502-75-SMT-TR.stp"
+		(model "${KICAD_USER_MODEL_DIR}/CMT-0502-75-SMT-TR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
