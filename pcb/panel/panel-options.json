@@ -17,12 +17,13 @@
         "layer": "Edge.Cuts"
     },
     "framing": {
-        "type": "railslr",
+        "type": "frame",
         "width": "5mm",
         "space": "2mm",
         "fillet": "1mm",
         "mintotalwidth": "70mm",
-        "mintotalheight": "70mm"
+        "mintotalheight": "70mm",
+        "cuts": "both"
     },
     "tooling": {
         "type": "3hole",
