@@ -3800,7 +3800,7 @@
 	)
 	(text "ESD"
 		(exclude_from_sim no)
-		(at 119.634 67.31 0)
+		(at 125.984 67.31 0)
 		(effects
 			(font
 				(size 1 1)
@@ -3867,6 +3867,18 @@
 		(uuid "ff457474-4781-40d0-8a1c-e678fdcf641f")
 	)
 	(junction
+		(at 142.24 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03e929ad-decb-4a17-bc68-9e6c6560426a")
+	)
+	(junction
+		(at 113.03 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0be19f35-8522-4f9d-8dab-da69949823e2")
+	)
+	(junction
 		(at 82.55 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3897,10 +3909,16 @@
 		(uuid "7f61fb17-fc67-46eb-8121-55dc0abbcffd")
 	)
 	(junction
-		(at 119.38 33.02)
+		(at 125.73 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ffe71dc-e5b4-4325-9ea0-3d774221e2b2")
+	)
+	(junction
+		(at 115.57 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4b31e7f-9d3d-441a-8bdb-d5747faa11ef")
 	)
 	(junction
 		(at 148.59 99.06)
@@ -3913,6 +3931,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2be38cd-9e0e-4e74-a770-75f71d2b7960")
+	)
+	(junction
+		(at 139.7 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cad82fed-25db-4191-88c5-d8b4f224b391")
 	)
 	(junction
 		(at 96.52 148.59)
@@ -3990,6 +4014,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 43.18) (xy 139.7 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a131f90-90b1-42fd-b57b-f75f196add9e")
+	)
+	(wire
+		(pts
 			(xy 88.9 146.05) (xy 88.9 148.59)
 		)
 		(stroke
@@ -4010,7 +4044,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 33.02) (xy 130.81 33.02)
+			(xy 125.73 33.02) (xy 137.16 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4020,13 +4054,23 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 59.69) (xy 119.38 53.34)
+			(xy 125.73 59.69) (xy 125.73 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "11d52343-0b4f-4909-b5fc-1f357532a3aa")
+	)
+	(wire
+		(pts
+			(xy 113.03 45.72) (xy 120.65 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1768b306-64f4-4208-b992-8b5b1a120b70")
 	)
 	(wire
 		(pts
@@ -4080,13 +4124,23 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 48.26) (xy 127 48.26)
+			(xy 130.81 48.26) (xy 142.24 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "347457fb-3d31-408c-8cdc-30163d491692")
+	)
+	(wire
+		(pts
+			(xy 113.03 40.64) (xy 113.03 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34f808af-17b2-453b-8583-e58f0aaacb42")
 	)
 	(wire
 		(pts
@@ -4150,7 +4204,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 29.21) (xy 130.81 33.02)
+			(xy 137.16 29.21) (xy 137.16 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4180,6 +4234,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 43.18) (xy 142.24 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68fb193a-cb28-42cd-847a-db1f243d3057")
+	)
+	(wire
+		(pts
 			(xy 88.9 156.21) (xy 88.9 157.48)
 		)
 		(stroke
@@ -4200,7 +4264,17 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 45.72) (xy 127 45.72)
+			(xy 115.57 48.26) (xy 120.65 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "796f8545-30b9-43bd-844a-761bd7e1f110")
+	)
+	(wire
+		(pts
+			(xy 130.81 45.72) (xy 139.7 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4320,7 +4394,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 33.02) (xy 119.38 40.64)
+			(xy 125.73 33.02) (xy 125.73 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4340,7 +4414,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 33.02) (xy 119.38 33.02)
+			(xy 99.06 33.02) (xy 125.73 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4390,6 +4464,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 45.72) (xy 147.32 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e942920-6d82-49b9-a258-62610610a734")
+	)
+	(wire
+		(pts
 			(xy 96.52 148.59) (xy 96.52 151.13)
 		)
 		(stroke
@@ -4420,7 +4504,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 48.26) (xy 114.3 48.26)
+			(xy 109.22 48.26) (xy 115.57 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4457,6 +4541,16 @@
 			(type default)
 		)
 		(uuid "b0ea4ca1-ba1a-4b5f-a130-f4c54efd8396")
+	)
+	(wire
+		(pts
+			(xy 115.57 40.64) (xy 115.57 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3fec9d1-ce49-4b08-b147-3e9bd7115a1d")
 	)
 	(wire
 		(pts
@@ -4520,7 +4614,17 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 45.72) (xy 114.3 45.72)
+			(xy 142.24 48.26) (xy 147.32 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca2c9bf8-79d1-488b-bc9e-cafee4f570af")
+	)
+	(wire
+		(pts
+			(xy 109.22 45.72) (xy 113.03 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4550,7 +4654,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 30.48) (xy 119.38 33.02)
+			(xy 125.73 30.48) (xy 125.73 33.02)
 		)
 		(stroke
 			(width 0)
@@ -4800,7 +4904,7 @@
 	)
 	(global_label "USB_D_P"
 		(shape input)
-		(at 111.76 48.26 180)
+		(at 109.22 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4810,7 +4914,7 @@
 		)
 		(uuid "0f195089-e18a-4c59-a73e-3a79236bb814")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.4896 48.26 0)
+			(at 97.9496 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4842,7 +4946,7 @@
 	)
 	(global_label "D_N"
 		(shape input)
-		(at 127 45.72 0)
+		(at 147.32 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4852,7 +4956,7 @@
 		)
 		(uuid "488a9e54-6742-4c6b-be62-a6bacfd48259")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.5533 45.72 0)
+			(at 153.8733 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4905,7 +5009,7 @@
 	)
 	(global_label "D_P"
 		(shape input)
-		(at 127 48.26 0)
+		(at 147.32 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4915,7 +5019,7 @@
 		)
 		(uuid "cd2aa13a-195f-4b58-9c2c-045b41a2c1c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.4928 48.26 0)
+			(at 153.8128 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4926,7 +5030,7 @@
 	)
 	(global_label "USB_D_N"
 		(shape input)
-		(at 111.76 45.72 180)
+		(at 109.22 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4936,7 +5040,7 @@
 		)
 		(uuid "df64c930-d07c-45c8-aa12-11c96adbd917")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.4291 45.72 0)
+			(at 97.8891 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5033,6 +5137,109 @@
 			(project "relay-module"
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 115.57 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b9d3d97-8eb3-4fbd-be7d-c55c6e2f5d94")
+		(property "Reference" "TP28"
+			(at 117.348 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP"
+			(at 118.11 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 120.65 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.65 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7ca67ec-15df-4342-b460-856c75583eb8")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "TP28")
 					(unit 1)
 				)
 			)
@@ -5337,6 +5544,109 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "#PWR094")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 113.03 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "1b4dbc33-1ae2-4ecb-9dc2-d823856d381a")
+		(property "Reference" "TP27"
+			(at 114.808 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP"
+			(at 115.57 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 118.11 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 113.03 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "717a6a85-68dd-457b-a211-1753402047ec")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "TP27")
 					(unit 1)
 				)
 			)
@@ -6042,6 +6352,109 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 139.7 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "31eebc3c-d776-493b-8f13-55e0088fea91")
+		(property "Reference" "TP25"
+			(at 141.478 37.846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP"
+			(at 142.24 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 144.78 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 139.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 139.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 139.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 139.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 139.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67a80860-266a-4e66-b472-1c0e072bfef4")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -7283,7 +7696,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 119.38 59.69 0)
+		(at 125.73 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7291,7 +7704,7 @@
 		(dnp no)
 		(uuid "6d8d08c1-079d-4ce8-b714-e1143d0ea6f4")
 		(property "Reference" "#PWR022"
-			(at 119.38 66.04 0)
+			(at 125.73 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7300,7 +7713,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.38 63.246 0)
+			(at 125.73 63.246 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7308,7 +7721,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 59.69 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7317,7 +7730,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 59.69 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7326,7 +7739,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 119.38 59.69 0)
+			(at 125.73 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7485,7 +7898,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 130.81 29.21 0)
+		(at 137.16 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7493,7 +7906,7 @@
 		(dnp no)
 		(uuid "7dbde22c-95a8-4570-8227-139e8702c124")
 		(property "Reference" "#PWR081"
-			(at 130.81 33.02 0)
+			(at 137.16 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7502,7 +7915,7 @@
 			)
 		)
 		(property "Value" "USB_5V"
-			(at 130.81 26.162 0)
+			(at 137.16 26.162 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7511,7 +7924,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 29.21 0)
+			(at 137.16 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7520,7 +7933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 29.21 0)
+			(at 137.16 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7529,7 +7942,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 130.81 29.21 0)
+			(at 137.16 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8295,7 +8708,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2P6")
-		(at 119.38 45.72 0)
+		(at 125.73 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8303,7 +8716,7 @@
 		(dnp no)
 		(uuid "aa9e9219-537d-4b32-8adc-e4c2c427a6ba")
 		(property "Reference" "U3"
-			(at 120.904 39.878 0)
+			(at 127.254 39.878 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8312,7 +8725,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2P6"
-			(at 120.904 41.656 0)
+			(at 127.254 41.656 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8321,7 +8734,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-666"
-			(at 120.396 52.451 0)
+			(at 126.746 52.451 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8332,7 +8745,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 120.396 54.356 0)
+			(at 126.746 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8342,7 +8755,7 @@
 			)
 		)
 		(property "Description" "TVS DIODE ARRAY Vrwm=5v Vcl=14v Ippm=5.5A SOT-666-6"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8351,7 +8764,7 @@
 			)
 		)
 		(property "LCSC" "C2827693"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8360,7 +8773,7 @@
 			)
 		)
 		(property "MN" "TECH PUBLIC"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8369,7 +8782,7 @@
 			)
 		)
 		(property "MPN" "USBLC6-2P6"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +8791,7 @@
 			)
 		)
 		(property "Digikey" "497-5026-2-ND"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8387,7 +8800,7 @@
 			)
 		)
 		(property "Mouser" "511-USBLC6-2P6"
-			(at 119.38 45.72 0)
+			(at 125.73 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8547,7 +8960,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 119.38 30.48 0)
+		(at 125.73 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -8555,7 +8968,7 @@
 		(dnp no)
 		(uuid "aeb9036b-c502-4372-a26b-3ddd721a46fa")
 		(property "Reference" "TP4"
-			(at 117.856 25.654 0)
+			(at 124.206 25.654 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8564,7 +8977,7 @@
 			)
 		)
 		(property "Value" "TP"
-			(at 120.396 28.448 0)
+			(at 126.746 28.448 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8574,7 +8987,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 124.46 30.48 0)
+			(at 130.81 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8583,7 +8996,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 30.48 0)
+			(at 130.81 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8592,7 +9005,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 119.38 30.48 0)
+			(at 125.73 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8601,7 +9014,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 119.38 30.48 0)
+			(at 125.73 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8610,7 +9023,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 119.38 30.48 0)
+			(at 125.73 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8619,7 +9032,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 119.38 30.48 0)
+			(at 125.73 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8634,6 +9047,109 @@
 			(project ""
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 142.24 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "af23c821-414d-4eb0-b88d-fa5b4bba9fc6")
+		(property "Reference" "TP26"
+			(at 144.018 37.846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TP"
+			(at 144.78 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 147.32 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 142.24 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 142.24 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 142.24 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 142.24 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 142.24 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5e833ed-96c8-4f73-829d-9a7af1c524f0")
+		)
+		(instances
+			(project "Node"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "TP26")
 					(unit 1)
 				)
 			)
