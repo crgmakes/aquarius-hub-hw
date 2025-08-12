@@ -1,7 +1,7 @@
 # aquarius-hw
-This repository holds all the files for the Aquarius Node hardware.
+This repository holds all the files for the Aquarius Hub hardware.
 
-Hardware for Aquarius modules are held within their respective repos.
+Hardware for Aquarius modules and client are held within their respective repos.
 
 ---
 
