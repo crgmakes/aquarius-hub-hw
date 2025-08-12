@@ -5,7 +5,7 @@
 	(uuid "651897a9-a9f2-4c82-8db5-855d27b9a27f")
 	(paper "A4")
 	(title_block
-		(title "Node Hardware")
+		(title "Hub Hardware")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
