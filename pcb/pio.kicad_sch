@@ -2257,7 +2257,7 @@
 	)
 	(rectangle
 		(start 16.51 15.875)
-		(end 231.775 147.955)
+		(end 254 147.955)
 		(stroke
 			(width 0.508)
 			(type dash)
@@ -2289,7 +2289,7 @@
 		(uuid "0f069c88-0117-4006-842e-1f169ce8850e")
 	)
 	(junction
-		(at 184.15 74.93)
+		(at 199.39 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15640187-fec8-4685-8214-657333eef1bf")
@@ -2355,7 +2355,7 @@
 		(uuid "9f2ad1fa-1b05-49dc-8728-c345d113fc63")
 	)
 	(junction
-		(at 171.45 80.01)
+		(at 186.69 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2bc7f8c-a739-4b27-a83d-a6c3308945d6")
@@ -2379,13 +2379,13 @@
 		(uuid "c6abc8b3-eca0-46f5-bdfe-72382c2e79e7")
 	)
 	(junction
-		(at 177.8 77.47)
+		(at 193.04 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6b1ac93-d372-43d9-b38f-1d28f65a89e9")
 	)
 	(junction
-		(at 165.1 82.55)
+		(at 180.34 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca87f3df-3771-4ea1-bc84-88ac6ac9b891")
@@ -2416,7 +2416,17 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 82.55) (xy 165.1 82.55)
+			(xy 125.73 49.53) (xy 125.73 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f4e2a9-4f4d-4177-aef4-9a1558e5346f")
+	)
+	(wire
+		(pts
+			(xy 156.21 82.55) (xy 180.34 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2436,7 +2446,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 43.18) (xy 210.82 43.18)
+			(xy 215.9 43.18) (xy 232.41 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2446,7 +2456,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 85.09) (xy 187.96 85.09)
+			(xy 160.02 85.09) (xy 210.82 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2466,7 +2476,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 82.55) (xy 190.5 105.41)
+			(xy 213.36 82.55) (xy 213.36 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2526,13 +2536,23 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 119.38) (xy 185.42 119.38)
+			(xy 232.41 119.38) (xy 208.28 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1c0162c7-3537-46bb-819d-54a8c5069eb1")
+	)
+	(wire
+		(pts
+			(xy 171.45 49.53) (xy 171.45 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e10d113-c55d-47bb-85b5-3b6d6e2529c7")
 	)
 	(wire
 		(pts
@@ -2546,7 +2566,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 74.93) (xy 198.12 83.82)
+			(xy 220.98 74.93) (xy 220.98 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2576,7 +2596,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 62.23) (xy 210.82 62.23)
+			(xy 129.54 62.23) (xy 232.41 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2596,7 +2616,17 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 46.99) (xy 184.15 74.93)
+			(xy 156.21 49.53) (xy 156.21 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c0a04ce-97ad-46ff-a79e-218cba8574c9")
+	)
+	(wire
+		(pts
+			(xy 199.39 46.99) (xy 199.39 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2636,7 +2666,27 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 77.47) (xy 195.58 88.9)
+			(xy 148.59 49.53) (xy 148.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35dd6bf3-afaa-44fb-848c-0043cce12e8a")
+	)
+	(wire
+		(pts
+			(xy 144.78 49.53) (xy 144.78 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3805e230-f629-4dc7-99c4-6ca1f288df92")
+	)
+	(wire
+		(pts
+			(xy 218.44 77.47) (xy 218.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2656,7 +2706,17 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 46.99) (xy 165.1 82.55)
+			(xy 152.4 49.53) (xy 152.4 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a9a0b2d-2f38-4b09-974c-e26c5a0fe569")
+	)
+	(wire
+		(pts
+			(xy 180.34 46.99) (xy 180.34 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2666,7 +2726,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 57.15) (xy 195.58 57.15)
+			(xy 121.92 57.15) (xy 218.44 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2696,7 +2756,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 80.01) (xy 193.04 80.01)
+			(xy 186.69 80.01) (xy 215.9 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2716,7 +2776,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 80.01) (xy 171.45 80.01)
+			(xy 152.4 80.01) (xy 186.69 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2726,7 +2786,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 48.26) (xy 210.82 48.26)
+			(xy 220.98 48.26) (xy 232.41 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2736,7 +2796,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 52.07) (xy 190.5 52.07)
+			(xy 114.3 52.07) (xy 213.36 52.07)
 		)
 		(stroke
 			(width 0)
@@ -2746,7 +2806,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 116.84) (xy 187.96 85.09)
+			(xy 210.82 116.84) (xy 210.82 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2776,7 +2836,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 45.72) (xy 195.58 45.72)
+			(xy 232.41 45.72) (xy 218.44 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2786,7 +2846,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 90.17) (xy 182.88 121.92)
+			(xy 205.74 90.17) (xy 205.74 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2796,7 +2856,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 46.99) (xy 171.45 80.01)
+			(xy 186.69 46.99) (xy 186.69 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2816,7 +2876,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 121.92) (xy 210.82 121.92)
+			(xy 205.74 121.92) (xy 232.41 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2826,7 +2886,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 59.69) (xy 198.12 48.26)
+			(xy 220.98 59.69) (xy 220.98 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2846,6 +2906,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 49.53) (xy 160.02 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d720812-e362-4ec4-9151-fdcc618d55d9")
+	)
+	(wire
+		(pts
 			(xy 97.79 90.17) (xy 167.64 90.17)
 		)
 		(stroke
@@ -2856,7 +2926,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 83.82) (xy 210.82 83.82)
+			(xy 220.98 83.82) (xy 232.41 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2876,7 +2946,17 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 88.9) (xy 195.58 88.9)
+			(xy 140.97 49.53) (xy 140.97 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72c893a7-65de-47be-a3f1-d3f386a54e3b")
+	)
+	(wire
+		(pts
+			(xy 232.41 88.9) (xy 218.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2886,7 +2966,17 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 74.93) (xy 184.15 74.93)
+			(xy 118.11 49.53) (xy 118.11 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753c61f5-539e-48c1-ab44-d2510778aa51")
+	)
+	(wire
+		(pts
+			(xy 144.78 74.93) (xy 199.39 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2903,6 +2993,16 @@
 			(type default)
 		)
 		(uuid "797526b2-8ebe-4e77-9b9f-fda648116b3e")
+	)
+	(wire
+		(pts
+			(xy 167.64 49.53) (xy 167.64 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a5f847f-2bb3-46b4-8bbb-274d42a89ba0")
 	)
 	(wire
 		(pts
@@ -2936,7 +3036,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 64.77) (xy 210.82 64.77)
+			(xy 133.35 64.77) (xy 232.41 64.77)
 		)
 		(stroke
 			(width 0)
@@ -2946,7 +3046,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 105.41) (xy 190.5 105.41)
+			(xy 232.41 105.41) (xy 213.36 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2966,7 +3066,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 100.33) (xy 193.04 100.33)
+			(xy 232.41 100.33) (xy 215.9 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2976,7 +3076,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 54.61) (xy 193.04 54.61)
+			(xy 118.11 54.61) (xy 215.9 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3026,7 +3126,17 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 92.71) (xy 180.34 92.71)
+			(xy 121.92 49.53) (xy 121.92 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a07eddcd-d6c5-4ca8-92e0-59203ada08fc")
+	)
+	(wire
+		(pts
+			(xy 171.45 92.71) (xy 203.2 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3036,13 +3146,23 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 45.72) (xy 195.58 57.15)
+			(xy 218.44 45.72) (xy 218.44 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a6e0ec16-452b-4993-97e1-c78d6cc9efae")
+	)
+	(wire
+		(pts
+			(xy 114.3 49.53) (xy 114.3 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a869f358-44a2-4db6-a820-754e73028cfa")
 	)
 	(wire
 		(pts
@@ -3066,7 +3186,17 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 82.55) (xy 190.5 82.55)
+			(xy 137.16 49.53) (xy 137.16 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae929c9e-84e0-4fc0-a8cf-cc3c64827fe7")
+	)
+	(wire
+		(pts
+			(xy 180.34 82.55) (xy 213.36 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3076,7 +3206,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 124.46) (xy 180.34 92.71)
+			(xy 203.2 124.46) (xy 203.2 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3106,7 +3236,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 40.64) (xy 190.5 40.64)
+			(xy 232.41 40.64) (xy 213.36 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3116,7 +3246,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 69.85) (xy 210.82 69.85)
+			(xy 140.97 69.85) (xy 232.41 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3126,7 +3256,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 59.69) (xy 198.12 59.69)
+			(xy 125.73 59.69) (xy 220.98 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3146,7 +3276,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 40.64) (xy 190.5 52.07)
+			(xy 213.36 40.64) (xy 213.36 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3156,7 +3286,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 116.84) (xy 187.96 116.84)
+			(xy 232.41 116.84) (xy 210.82 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3166,7 +3296,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 67.31) (xy 210.82 67.31)
+			(xy 137.16 67.31) (xy 232.41 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3186,7 +3316,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 90.17) (xy 182.88 90.17)
+			(xy 167.64 90.17) (xy 205.74 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3206,7 +3336,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 77.47) (xy 195.58 77.47)
+			(xy 193.04 77.47) (xy 218.44 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3246,7 +3376,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 87.63) (xy 185.42 87.63)
+			(xy 163.83 87.63) (xy 208.28 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3276,7 +3406,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 119.38) (xy 185.42 87.63)
+			(xy 208.28 119.38) (xy 208.28 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3306,7 +3436,17 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 54.61) (xy 193.04 43.18)
+			(xy 133.35 49.53) (xy 133.35 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f1fd46-2810-473b-aed9-af690477e247")
+	)
+	(wire
+		(pts
+			(xy 215.9 54.61) (xy 215.9 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3316,7 +3456,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 46.99) (xy 177.8 77.47)
+			(xy 193.04 46.99) (xy 193.04 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3326,7 +3466,27 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 77.47) (xy 177.8 77.47)
+			(xy 163.83 49.53) (xy 163.83 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecac429d-75e8-4210-a9e2-a659499e4e98")
+	)
+	(wire
+		(pts
+			(xy 129.54 49.53) (xy 129.54 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee60e0aa-2636-4676-b10f-242292c4bdbd")
+	)
+	(wire
+		(pts
+			(xy 148.59 77.47) (xy 193.04 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3336,7 +3496,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 80.01) (xy 193.04 100.33)
+			(xy 215.9 80.01) (xy 215.9 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3346,7 +3506,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 124.46) (xy 180.34 124.46)
+			(xy 232.41 124.46) (xy 203.2 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3366,7 +3526,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 74.93) (xy 198.12 74.93)
+			(xy 199.39 74.93) (xy 220.98 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3736,7 +3896,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 184.15 43.18 0)
+		(at 199.39 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3744,7 +3904,7 @@
 		(dnp no)
 		(uuid "0d8f8408-aa0c-4b06-99bd-032586fe96d9")
 		(property "Reference" "R14"
-			(at 185.166 41.91 0)
+			(at 200.406 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3753,7 +3913,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 185.166 44.45 0)
+			(at 200.406 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3762,7 +3922,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 185.166 43.434 90)
+			(at 200.406 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3771,7 +3931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3780,7 +3940,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3789,7 +3949,7 @@
 			)
 		)
 		(property "LCSC" "C2930027"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,7 +3958,7 @@
 			)
 		)
 		(property "MN" "FOJAN"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +3967,7 @@
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3816,7 +3976,7 @@
 			)
 		)
 		(property "Digikey" "CR0603-JW-103ELFTR-ND"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3825,7 +3985,7 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +4010,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 86.36 270)
+		(at 232.41 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3859,7 +4019,7 @@
 		(fields_autoplaced yes)
 		(uuid "1253ba1b-fef1-40a1-9989-268cc9d7288b")
 		(property "Reference" "#PWR070"
-			(at 204.47 86.36 0)
+			(at 226.06 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3868,7 +4028,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 86.3599 90)
+			(at 228.6 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3877,7 +4037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 86.36 0)
+			(at 232.41 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3886,7 +4046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 86.36 0)
+			(at 232.41 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3895,7 +4055,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 86.36 0)
+			(at 232.41 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,8 +4076,111 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 144.78 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ac7b62d-3250-49a4-97ee-4b33c1cd4729")
+		(property "Reference" "TP51"
+			(at 144.78 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 147.32 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 149.86 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 144.78 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 144.78 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 144.78 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 144.78 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 144.78 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb8f96ca-f750-4e2d-9681-4ea17f6ba4cf")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
-		(at 210.82 50.8 90)
+		(at 232.41 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3926,7 +4189,7 @@
 		(fields_autoplaced yes)
 		(uuid "1bf241e3-7e52-48b9-bf78-f21673f3b0d7")
 		(property "Reference" "#PWR041"
-			(at 214.63 50.8 0)
+			(at 236.22 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,7 +4198,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 207.01 50.7999 90)
+			(at 228.6 50.7999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3944,7 +4207,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 50.8 0)
+			(at 232.41 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3953,7 +4216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 50.8 0)
+			(at 232.41 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3962,7 +4225,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 210.82 50.8 0)
+			(at 232.41 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4098,7 +4361,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 210.82 72.39 90)
+		(at 232.41 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4106,7 +4369,7 @@
 		(dnp no)
 		(uuid "23cbc513-bb9c-49bc-a10a-1a35b69bbfd1")
 		(property "Reference" "#PWR048"
-			(at 214.63 72.39 0)
+			(at 236.22 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4115,7 +4378,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 207.01 72.3899 90)
+			(at 228.6 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4124,7 +4387,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 72.39 0)
+			(at 232.41 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4133,7 +4396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 72.39 0)
+			(at 232.41 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4142,7 +4405,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 210.82 72.39 0)
+			(at 232.41 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4417,7 +4680,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 102.87 270)
+		(at 232.41 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4426,7 +4689,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dca8aa5-469d-48d3-91fa-46a49348f836")
 		(property "Reference" "#PWR079"
-			(at 204.47 102.87 0)
+			(at 226.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4435,7 +4698,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 102.8699 90)
+			(at 228.6 102.8699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4444,7 +4707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 102.87 0)
+			(at 232.41 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4453,7 +4716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 102.87 0)
+			(at 232.41 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4462,7 +4725,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 102.87 0)
+			(at 232.41 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4933,6 +5196,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 152.4 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e0b4c91-e8a0-4149-8674-6174e6ec3ec6")
+		(property "Reference" "TP53"
+			(at 152.4 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 154.94 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 157.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 152.4 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e6e34c22-9da2-4e77-8b5c-1001b3fd6c17")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Passive:PESD3V3S1BL")
 		(at 140.97 133.35 90)
 		(unit 1)
@@ -5053,8 +5419,111 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 133.35 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "47b2aade-94d0-4cfd-a265-ce6a9ab13cda")
+		(property "Reference" "TP48"
+			(at 133.35 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 135.89 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 138.43 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e1de05b-4521-4e92-96a8-af01865fac99")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 210.82 59.69 270)
+		(at 232.41 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5063,7 +5532,7 @@
 		(fields_autoplaced yes)
 		(uuid "510e2886-6ae2-42bb-b13a-96950f4da884")
 		(property "Reference" "#PWR047"
-			(at 204.47 59.69 0)
+			(at 226.06 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5072,7 +5541,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 59.6899 90)
+			(at 228.6 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5081,7 +5550,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 59.69 0)
+			(at 232.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5090,7 +5559,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 59.69 0)
+			(at 232.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,7 +5568,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 59.69 0)
+			(at 232.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5121,7 +5590,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-4")
-		(at 213.36 105.41 0)
+		(at 234.95 105.41 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5130,7 +5599,7 @@
 		(dnp no)
 		(uuid "5938d408-e96c-41bc-9f7b-15c11e20fa5c")
 		(property "Reference" "J11"
-			(at 214.63 94.996 0)
+			(at 236.22 94.996 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5141,7 +5610,7 @@
 			)
 		)
 		(property "Value" "BM04B-SRSS-TB"
-			(at 220.726 94.996 0)
+			(at 242.316 94.996 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5152,7 +5621,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 216.408 91.694 0)
+			(at 237.998 91.694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5161,7 +5630,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 216.916 77.978 0)
+			(at 238.506 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5170,7 +5639,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 4 Position Vertical"
-			(at 216.408 89.408 0)
+			(at 237.998 89.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5179,7 +5648,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 216.662 93.726 0)
+			(at 238.252 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5188,7 +5657,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 217.17 86.868 0)
+			(at 238.76 86.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5666,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 216.916 84.328 0)
+			(at 238.506 84.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5675,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 216.916 82.042 0)
+			(at 238.506 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5684,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 216.408 80.01 0)
+			(at 237.998 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5312,7 +5781,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 114.3 270)
+		(at 232.41 114.3 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5321,7 +5790,7 @@
 		(fields_autoplaced yes)
 		(uuid "6616b593-c9b2-422d-99ab-d778b2e7e0b2")
 		(property "Reference" "#PWR045"
-			(at 204.47 114.3 0)
+			(at 226.06 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5330,7 +5799,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 114.2999 90)
+			(at 228.6 114.2999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5339,7 +5808,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 114.3 0)
+			(at 232.41 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5348,7 +5817,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 114.3 0)
+			(at 232.41 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5357,7 +5826,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 114.3 0)
+			(at 232.41 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5438,6 +5907,109 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 140.97 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "6b33ac84-a877-45ee-a830-08ea31078e90")
+		(property "Reference" "TP50"
+			(at 140.97 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 143.51 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 146.05 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6b9fe3b-ba36-4963-a2f9-a353641de44a")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP50")
 					(unit 1)
 				)
 			)
@@ -5690,16 +6262,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 171.45 43.18 0)
+		(lib_id "Connector:TestPoint")
+		(at 118.11 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "84a32921-ec6f-4db9-a671-aba1900de5b4")
-		(property "Reference" "R5"
-			(at 172.466 41.91 0)
+		(uuid "83a659f1-68a0-4806-92dd-ba83c3a32f2e")
+		(property "Reference" "TP44"
+			(at 118.11 45.212 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5707,17 +6279,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 172.466 44.45 0)
+		(property "Value" "~"
+			(at 120.65 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 172.466 43.434 90)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 123.19 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5726,7 +6299,109 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 43.18 0)
+			(at 123.19 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 118.11 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 118.11 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 118.11 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 118.11 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 118.11 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f00d02f9-58b3-4e05-9cc4-a3f5cf0c36a3")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 186.69 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "84a32921-ec6f-4db9-a671-aba1900de5b4")
+		(property "Reference" "R5"
+			(at 187.706 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 187.706 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 187.706 43.434 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5735,7 +6410,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5744,7 +6419,7 @@
 			)
 		)
 		(property "LCSC" "C2930027"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5753,7 +6428,7 @@
 			)
 		)
 		(property "MN" "FOJAN"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5762,7 +6437,7 @@
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5771,7 +6446,7 @@
 			)
 		)
 		(property "Digikey" "CR0603-JW-103ELFTR-ND"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5780,7 +6455,7 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5805,7 +6480,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 213.36 114.3 0)
+		(at 234.95 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5813,7 +6488,7 @@
 		(dnp no)
 		(uuid "879e9e16-e1a2-4d11-a94d-4fbf951ef07d")
 		(property "Reference" "J7"
-			(at 215.138 111.506 0)
+			(at 236.728 111.506 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5824,7 +6499,7 @@
 			)
 		)
 		(property "Value" "BM06B-SRSS-TB"
-			(at 220.726 111.506 0)
+			(at 242.316 111.506 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5835,7 +6510,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5844,7 +6519,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5853,7 +6528,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5862,7 +6537,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5871,7 +6546,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5880,7 +6555,7 @@
 			)
 		)
 		(property "MPN" "BM06B-SRSS-TB"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5889,7 +6564,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5898,7 +6573,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 213.36 114.3 0)
+			(at 234.95 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5935,7 +6610,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 38.1 270)
+		(at 232.41 38.1 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5944,7 +6619,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b58376f-6052-491e-b7cf-efd4f8ffa52e")
 		(property "Reference" "#PWR042"
-			(at 204.47 38.1 0)
+			(at 226.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5953,7 +6628,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 38.0999 90)
+			(at 228.6 38.0999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5962,7 +6637,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 38.1 0)
+			(at 232.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5971,7 +6646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 38.1 0)
+			(at 232.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5980,7 +6655,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 38.1 0)
+			(at 232.41 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6067,16 +6742,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 165.1 43.18 0)
+		(lib_id "Connector:TestPoint")
+		(at 121.92 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "93594fa1-0a31-4733-a8af-5f8e6f080b8f")
-		(property "Reference" "R4"
-			(at 166.116 41.91 0)
+		(uuid "92414bc2-8320-41ef-aadd-c2c1e8f39561")
+		(property "Reference" "TP45"
+			(at 121.92 45.212 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6084,17 +6759,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 166.116 44.45 0)
+		(property "Value" "~"
+			(at 124.46 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 166.116 43.434 90)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 127 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6103,7 +6779,109 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 43.18 0)
+			(at 127 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 121.92 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36cc22a3-c826-4d7a-beb8-c4fcc65acacd")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 180.34 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93594fa1-0a31-4733-a8af-5f8e6f080b8f")
+		(property "Reference" "R4"
+			(at 181.356 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 181.356 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 181.356 43.434 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6112,7 +6890,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6121,7 +6899,7 @@
 			)
 		)
 		(property "LCSC" "C2930027"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6130,7 +6908,7 @@
 			)
 		)
 		(property "MN" "FOJAN"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6139,7 +6917,7 @@
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,7 +6926,7 @@
 			)
 		)
 		(property "Digikey" "CR0603-JW-103ELFTR-ND"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6157,7 +6935,7 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6373,6 +7151,109 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 137.16 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ea447d8-f0d5-44e0-b8d1-a12f395233fa")
+		(property "Reference" "TP49"
+			(at 137.16 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 142.24 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "907fae30-597b-47d7-8a5a-b416e5fbe815")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP49")
 					(unit 1)
 				)
 			)
@@ -6679,6 +7560,212 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 148.59 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9aa470e-b602-4f2a-a9be-4d031c7c65fa")
+		(property "Reference" "TP52"
+			(at 148.59 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 151.13 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 148.59 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a126578d-914e-40d1-ade8-93845cbf9ebf")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 156.21 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac44361a-b792-4f07-97be-22652b833b2c")
+		(property "Reference" "TP54"
+			(at 156.21 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 158.75 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 161.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b61c433-9924-4576-8bae-c9c4c352828b")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP54")
 					(unit 1)
 				)
 			)
@@ -7058,7 +8145,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 210.82 127 90)
+		(at 232.41 127 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7067,7 +8154,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7505a82-f96b-41a9-af34-dcc401b2bc8e")
 		(property "Reference" "#PWR046"
-			(at 214.63 127 0)
+			(at 236.22 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7076,7 +8163,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 207.01 126.9999 90)
+			(at 228.6 126.9999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7085,7 +8172,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 127 0)
+			(at 232.41 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7094,7 +8181,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 127 0)
+			(at 232.41 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7103,7 +8190,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 210.82 127 0)
+			(at 232.41 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7184,6 +8271,109 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 114.3 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8954547-476f-43e1-89f9-9a84cff7d6d6")
+		(property "Reference" "TP43"
+			(at 114.3 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 116.84 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 119.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 114.3 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afc3a107-b839-42d8-8362-59909f49b365")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP43")
 					(unit 1)
 				)
 			)
@@ -7425,7 +8615,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 165.1 39.37 0)
+		(at 180.34 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7433,7 +8623,7 @@
 		(dnp no)
 		(uuid "bc3e1a48-f62a-4f4e-b263-37f6f5cd793c")
 		(property "Reference" "#PWR091"
-			(at 165.1 43.18 0)
+			(at 180.34 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7442,7 +8632,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 165.1001 35.56 90)
+			(at 180.3401 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7451,7 +8641,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 39.37 0)
+			(at 180.34 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7460,7 +8650,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 39.37 0)
+			(at 180.34 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7469,7 +8659,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 165.1 39.37 0)
+			(at 180.34 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7491,7 +8681,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 171.45 39.37 0)
+		(at 186.69 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7499,7 +8689,7 @@
 		(dnp no)
 		(uuid "bd3063bc-87d0-4ed3-a85b-1b9e286f2d7c")
 		(property "Reference" "#PWR090"
-			(at 171.45 43.18 0)
+			(at 186.69 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7508,7 +8698,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 171.4501 35.56 90)
+			(at 186.6901 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7517,7 +8707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 39.37 0)
+			(at 186.69 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7526,7 +8716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 39.37 0)
+			(at 186.69 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7535,7 +8725,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 171.45 39.37 0)
+			(at 186.69 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7623,7 +8813,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 177.8 39.37 0)
+		(at 193.04 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7631,7 +8821,7 @@
 		(dnp no)
 		(uuid "be4023ce-ea47-4606-a7d3-206f9d8fcaad")
 		(property "Reference" "#PWR089"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7640,7 +8830,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 177.8001 35.56 90)
+			(at 193.0401 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7649,7 +8839,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 39.37 0)
+			(at 193.04 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7658,7 +8848,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 39.37 0)
+			(at 193.04 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7667,7 +8857,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 177.8 39.37 0)
+			(at 193.04 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7682,6 +8872,109 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 160.02 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf75b3dc-fd19-463b-9652-dcd49bd2a5af")
+		(property "Reference" "TP55"
+			(at 160.02 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 162.56 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 165.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 160.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 160.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 160.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 160.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 160.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5fc13a7f-04d7-4488-8111-a600b57a7f65")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP55")
 					(unit 1)
 				)
 			)
@@ -7821,7 +9114,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 213.36 38.1 0)
+		(at 234.95 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7829,7 +9122,7 @@
 		(dnp no)
 		(uuid "c73039c1-4059-4d31-bd35-f02bbd61cada")
 		(property "Reference" "J4"
-			(at 215.646 35.306 0)
+			(at 237.236 35.306 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -7840,7 +9133,7 @@
 			)
 		)
 		(property "Value" "BM06B-SRSS-TB"
-			(at 221.234 35.306 0)
+			(at 242.824 35.306 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -7851,7 +9144,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7860,7 +9153,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7869,7 +9162,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7878,7 +9171,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7887,7 +9180,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7896,7 +9189,7 @@
 			)
 		)
 		(property "MPN" "BM06B-SRSS-TB"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,7 +9198,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7914,7 +9207,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 213.36 38.1 0)
+			(at 234.95 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8083,7 +9376,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 177.8 43.18 0)
+		(at 193.04 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8091,7 +9384,7 @@
 		(dnp no)
 		(uuid "ca1521a3-1835-47dd-b7f7-faa82f755862")
 		(property "Reference" "R13"
-			(at 178.816 41.91 0)
+			(at 194.056 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8100,7 +9393,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 178.816 44.45 0)
+			(at 194.056 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8109,7 +9402,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 178.816 43.434 90)
+			(at 194.056 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8118,7 +9411,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8127,7 +9420,7 @@
 			)
 		)
 		(property "Description" "Thick Film Resistors - SMD 1/10Watt 10Kohms 5%"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8136,7 +9429,7 @@
 			)
 		)
 		(property "LCSC" "C2930027"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8145,7 +9438,7 @@
 			)
 		)
 		(property "MN" "FOJAN"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8154,7 +9447,7 @@
 			)
 		)
 		(property "MPN" "FRC0603J103TS"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8163,7 +9456,7 @@
 			)
 		)
 		(property "Digikey" "CR0603-JW-103ELFTR-ND"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8172,7 +9465,7 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
-			(at 177.8 43.18 0)
+			(at 193.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8573,7 +9866,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 55.88 57.658 0)
 			(effects
 				(font
@@ -8792,7 +10085,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 81.28 270)
+		(at 232.41 81.28 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8801,7 +10094,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4cd160b-facb-4928-8602-8ea959354b85")
 		(property "Reference" "#PWR043"
-			(at 204.47 81.28 0)
+			(at 226.06 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8810,7 +10103,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 81.2799 90)
+			(at 228.6 81.2799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8819,7 +10112,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 81.28 0)
+			(at 232.41 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8828,7 +10121,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 81.28 0)
+			(at 232.41 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8837,7 +10130,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 81.28 0)
+			(at 232.41 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8980,7 +10273,7 @@
 	(symbol
 		(lib_name "JST-SH-4_1")
 		(lib_id "CRGM Connector:JST-SH-4")
-		(at 213.36 88.9 0)
+		(at 234.95 88.9 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8989,7 +10282,7 @@
 		(dnp no)
 		(uuid "d5e64305-a48e-4cd1-88be-e3d1b0efb363")
 		(property "Reference" "J6"
-			(at 214.884 78.486 0)
+			(at 236.474 78.486 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9000,7 +10293,7 @@
 			)
 		)
 		(property "Value" "BM04B-SRSS-TB"
-			(at 220.726 78.486 0)
+			(at 242.316 78.486 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9011,7 +10304,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 216.408 75.184 0)
+			(at 237.998 75.184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9020,7 +10313,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 216.916 61.468 0)
+			(at 238.506 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9029,7 +10322,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 4 Position Vertical"
-			(at 216.408 72.898 0)
+			(at 237.998 72.898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9038,7 +10331,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 216.662 77.216 0)
+			(at 238.252 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9047,7 +10340,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 217.17 70.358 0)
+			(at 238.76 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9056,7 +10349,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 216.916 67.818 0)
+			(at 238.506 67.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9065,7 +10358,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 216.916 65.532 0)
+			(at 238.506 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9074,7 +10367,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 216.408 63.5 0)
+			(at 237.998 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9105,7 +10398,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 213.36 59.69 0)
+		(at 234.95 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9113,7 +10406,7 @@
 		(dnp no)
 		(uuid "d6501160-5463-4d23-8a6e-25e097d0ed26")
 		(property "Reference" "J5"
-			(at 215.392 56.896 0)
+			(at 236.982 56.896 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9124,7 +10417,7 @@
 			)
 		)
 		(property "Value" "BM06B-SRSS-TB"
-			(at 220.726 56.896 0)
+			(at 242.316 56.896 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9135,7 +10428,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9144,7 +10437,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9153,7 +10446,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9162,7 +10455,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9171,7 +10464,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9180,7 +10473,7 @@
 			)
 		)
 		(property "MPN" "BM06B-SRSS-TB"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9189,7 +10482,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,7 +10491,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 213.36 59.69 0)
+			(at 234.95 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9355,7 +10648,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 184.15 39.37 0)
+		(at 199.39 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9363,7 +10656,7 @@
 		(dnp no)
 		(uuid "dadd3d11-4ba6-420e-bfc5-f1a21b7ecc50")
 		(property "Reference" "#PWR082"
-			(at 184.15 43.18 0)
+			(at 199.39 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9372,7 +10665,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 184.1501 35.56 90)
+			(at 199.3901 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9381,7 +10674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.15 39.37 0)
+			(at 199.39 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9390,7 +10683,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 39.37 0)
+			(at 199.39 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9399,7 +10692,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 184.15 39.37 0)
+			(at 199.39 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9414,6 +10707,109 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 163.83 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "db0412c2-33d1-4264-9079-f32dba11a8c9")
+		(property "Reference" "TP56"
+			(at 163.83 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 166.37 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 168.91 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 163.83 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d821916-2928-4f15-9270-0f5b90f59c24")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP56")
 					(unit 1)
 				)
 			)
@@ -9503,7 +10899,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 58.42 57.658 0)
 			(effects
 				(font
@@ -9775,6 +11171,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 125.73 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "eba5e70e-1f20-4131-b79d-1c415c6ab872")
+		(property "Reference" "TP46"
+			(at 125.73 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 128.27 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 130.81 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 130.81 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 125.73 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0792f27b-d5b0-4061-8dbb-d8637cae376f")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Passive:PESD3V3S1BL")
 		(at 121.92 133.35 90)
 		(unit 1)
@@ -9895,6 +11394,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 171.45 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee436a15-7987-4891-bb5e-5f6555de8a36")
+		(property "Reference" "TP58"
+			(at 171.45 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 173.99 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 176.53 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4978e97d-16d5-481c-a6fa-dda5349bcd58")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 26.67 68.58 0)
 		(unit 1)
@@ -10009,8 +11611,111 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 129.54 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f12be1a3-41ff-4d58-b6ca-eaabb670e15b")
+		(property "Reference" "TP47"
+			(at 129.54 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 132.08 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 134.62 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82b66ee1-9586-41e6-b2d5-c39d3d14427d")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 210.82 97.79 270)
+		(at 232.41 97.79 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10019,7 +11724,7 @@
 		(fields_autoplaced yes)
 		(uuid "f77fd5eb-d268-4ffb-8e2e-0ff81ccbf3a1")
 		(property "Reference" "#PWR072"
-			(at 204.47 97.79 0)
+			(at 226.06 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10028,7 +11733,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 97.7899 90)
+			(at 228.6 97.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10037,7 +11742,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 97.79 0)
+			(at 232.41 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10046,7 +11751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 97.79 0)
+			(at 232.41 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10055,7 +11760,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 97.79 0)
+			(at 232.41 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10484,6 +12189,109 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 167.64 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbc38ed3-f311-4abc-b949-86a0aee9b7eb")
+		(property "Reference" "TP57"
+			(at 167.64 45.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 170.18 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 172.72 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "124e5e48-af29-4de5-a311-a51b6c80c129")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "TP57")
 					(unit 1)
 				)
 			)

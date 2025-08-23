@@ -5417,7 +5417,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 118.11 36.068 0)
 			(effects
 				(font
@@ -5824,7 +5824,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 115.57 36.068 0)
 			(effects
 				(font
@@ -6045,7 +6045,7 @@
 				)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 21.59 99.314 0)
 			(effects
 				(font
@@ -6284,7 +6284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CRGM Connector:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 118.11 158.75 0)
 			(effects
 				(font
@@ -6442,7 +6442,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 152.146 92.456 0)
 			(effects
 				(font
@@ -6733,7 +6733,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 142.24 36.068 0)
 			(effects
 				(font
@@ -7361,7 +7361,7 @@
 				)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 26.162 91.694 0)
 			(effects
 				(font
@@ -9453,7 +9453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 126.746 28.448 0)
 			(effects
 				(font
@@ -9547,7 +9547,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 144.78 36.068 0)
 			(effects
 				(font
@@ -9780,7 +9780,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 93.472 141.986 0)
 			(effects
 				(font
@@ -10283,7 +10283,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 102.616 92.71 0)
 			(effects
 				(font
@@ -10683,7 +10683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CRGM Connector:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 134.62 158.75 0)
 			(effects
 				(font

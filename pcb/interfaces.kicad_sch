@@ -3312,7 +3312,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 113.03 74.168 0)
 			(effects
 				(font
@@ -3611,7 +3611,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 123.19 74.168 0)
 			(effects
 				(font
@@ -4144,7 +4144,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 125.73 74.168 0)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 118.11 74.168 0)
 			(effects
 				(font
@@ -6214,7 +6214,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 115.57 74.168 0)
 			(effects
 				(font
@@ -6317,7 +6317,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 124.46 17.018 0)
 			(effects
 				(font
@@ -6485,7 +6485,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 127 17.018 0)
 			(effects
 				(font
@@ -6588,7 +6588,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TP"
+		(property "Value" "~"
 			(at 120.65 74.168 0)
 			(effects
 				(font
