@@ -5,7 +5,7 @@
 # @date 8/13/25
 # @author cyberreefguru
 # (c) CRG Makes 2025
-name: Aquarius-Hub-Hardware-Release
+name: Aquarius-Hub-Release
 on:
   release:
     types: [published]
@@ -15,5 +15,6 @@ jobs:
   call-export-pcb:
     uses: crgmakes/kicad-extras/.github/workflows/aquarius-pcb-release.yaml@main
     with:
+      name: 'Aquarius Hub'
       repo-name: aquarius-hub-hw
       file-name: aquarius-hub-hw
