@@ -2,7 +2,8 @@
     "layout": {
         "hspace": "2mm",
         "vspace": "8mm",
-        "rows": "2"
+        "rows": "2",
+        "cols": "1"
     },
     "tabs": {
         "type": "fixed",
@@ -34,7 +35,7 @@
         "type": "simple",
         "hoffset": "2.5mm",
         "orientation": "90deg",
-        "text": "Aquarius Node",
+        "text": "Aquarius Hub",
         "anchor": "ml"
     },
     "text2": {
