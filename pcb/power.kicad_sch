@@ -5,7 +5,7 @@
 	(uuid "76d905ef-65d6-4a25-9084-753bfbe455be")
 	(paper "A4")
 	(title_block
-		(title "Hub Hardware")
+		(title "Aquarius Hub")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
