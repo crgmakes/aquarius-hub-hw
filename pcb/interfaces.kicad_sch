@@ -206,9 +206,8 @@
 				(at 0 2.794 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.1588)
 					)
 					(justify left bottom)
 				)
@@ -218,13 +217,13 @@
 				(effects
 					(font
 						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(thickness 0.2223)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
+			(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
 				(at 1.27 8.89 0)
 				(effects
 					(font
@@ -233,8 +232,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 0 -23.876 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -251,12 +250,49 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
+			(property "MN" "JST"
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BM04B-SRSS-TB"
+				(at 0 -14.478 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+				(at 0 -18.796 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "306-BM04BSRSSTBTLFSN"
+				(at 0 -21.336 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2919601"
+				(at 0 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
 				)
 			)
 			(symbol "JST-SH-3_1_0"
@@ -373,9 +409,8 @@
 				(at 0 0.254 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.2223)
 					)
 					(justify left bottom)
 				)
@@ -389,10 +424,11 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "Connector_JST:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
-				(at 3.048 5.842 0)
+			(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
+				(at 0 -40.64 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -400,8 +436,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+				(at 0 -42.926 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -410,7 +446,7 @@
 				)
 			)
 			(property "Description" "8 position, 1mm connector"
-				(at 4.826 -25.654 0)
+				(at 0 -38.354 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -419,7 +455,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 3.81 -24.13 0)
+				(at 0.254 -26.416 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -428,7 +464,7 @@
 				)
 			)
 			(property "MPN" "BM08B-SRSS-TB(LF)(SN)"
-				(at 3.81 -27.686 0)
+				(at 0.254 -29.972 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -437,7 +473,7 @@
 				)
 			)
 			(property "Mouser" "306-BM08BSRSSTBLFSN"
-				(at 3.302 -31.496 0)
+				(at -0.254 -33.782 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -446,7 +482,7 @@
 				)
 			)
 			(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
-				(at 4.572 -29.718 0)
+				(at 1.016 -32.004 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -455,7 +491,7 @@
 				)
 			)
 			(property "LCSC" "C2845376"
-				(at 2.54 -33.274 0)
+				(at -1.016 -35.56 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -676,9 +712,8 @@
 				(at 0 0.254 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.1588)
 					)
 					(justify left bottom)
 				)
@@ -694,8 +729,8 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "CRGM Connector:SM04B-SRSS-TB"
-				(at 6.604 5.588 0)
+			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
+				(at 4.572 -18.034 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -712,8 +747,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "SparkFun I2C Standard Qwiic Connector An SMD 1mm pitch JST connector makes it easy and quick (get it? Qwiic?) to connect I2C devices to each other. The Qwiic system enables fast and solderless connection between popular platforms and various sensors and actuators.\n\nWe carry 200mm, 100mm, 50mm, and breadboard friendly Qwiic cables. We also offer 10 pcs strips the SMD connectors."
-				(at 4.318 -18.034 0)
+			(property "Description" "I2C Qwiic Connector 1mm pitch JST"
+				(at 4.318 -13.97 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -722,6 +757,51 @@
 				)
 			)
 			(property "MN" "JST"
+				(at 4.318 -16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+				(at 4.572 -20.066 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Mouser" "306-BM04BSRSSTBTLFSN"
+				(at 5.08 -22.098 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+				(at 5.588 -24.13 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2919601"
+				(at 4.826 -26.162 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "qwiic, i2c connector, sparkfun"
 				(at 0 0 0)
 				(effects
 					(font
@@ -730,171 +810,52 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "SM04B-SRSS-TB"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "QWIIC_0_1"
+				(rectangle
+					(start 0 0)
+					(end 7.62 -12.7)
+					(stroke
+						(width 0)
+						(type default)
 					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+					(fill
+						(type none)
 					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2763614"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
 				)
 			)
 			(symbol "QWIIC_1_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -12.7)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 8.89 0)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 -2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 -5.08) (xy 7.62 -5.08)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 -7.62) (xy 7.62 -7.62)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 -10.16) (xy 7.62 -10.16)
-					)
-					(stroke
-						(width 0.6096)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.89 -12.7) (xy 0 -12.7)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.89 -12.7) (xy 8.89 0)
-					)
-					(stroke
-						(width 0.4064)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(text "SCL"
-					(at 0.508 -2.54 0)
+					(at 3.302 -2.54 0)
 					(effects
 						(font
-							(size 1.778 1.778)
+							(size 1.25 1.25)
 						)
 						(justify left)
 					)
 				)
 				(text "SDA"
-					(at 0.508 -5.08 0)
+					(at 3.302 -5.08 0)
 					(effects
 						(font
-							(size 1.778 1.778)
+							(size 1.25 1.25)
 						)
 						(justify left)
 					)
 				)
 				(text "VCC"
-					(at 0.508 -7.62 0)
+					(at 3.302 -7.62 0)
 					(effects
 						(font
-							(size 1.778 1.778)
+							(size 1.25 1.25)
 						)
 						(justify left)
 					)
 				)
 				(text "GND"
-					(at 0.508 -10.16 0)
+					(at 3.302 -10.16 0)
 					(effects
 						(font
-							(size 1.778 1.778)
+							(size 1.25 1.25)
 						)
 						(justify left)
 					)
@@ -2478,7 +2439,7 @@
 		(uuid "935193e4-31ec-42b4-91a9-75a1eaab96fa")
 	)
 	(junction
-		(at 121.92 25.4)
+		(at 115.57 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a09094c7-6ea8-4f45-b2a0-a63594749bb0")
@@ -2496,10 +2457,16 @@
 		(uuid "ae928e48-3ab3-4b38-ae3b-daf4f8653105")
 	)
 	(junction
-		(at 124.46 27.94)
+		(at 118.11 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd028f46-b54f-4841-b86b-2cf492f1ee8f")
+	)
+	(junction
+		(at 123.19 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c40e9fa6-6bf6-45cb-8540-74d159eee60b")
 	)
 	(junction
 		(at 62.23 24.13)
@@ -2513,6 +2480,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 53.34) (xy 123.19 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00c0a653-fcae-4ad3-aaa9-f128a4a5eaef")
+	)
+	(wire
+		(pts
 			(xy 110.49 81.28) (xy 110.49 83.82)
 		)
 		(stroke
@@ -2523,7 +2500,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 57.15) (xy 125.73 57.15)
+			(xy 110.49 55.88) (xy 123.19 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2533,7 +2510,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 27.94) (xy 133.35 27.94)
+			(xy 118.11 29.21) (xy 127 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2623,6 +2600,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 55.88) (xy 129.54 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "339185f7-ecf2-4232-9844-4dab6c4edcdb")
+	)
+	(wire
+		(pts
 			(xy 207.01 44.45) (xy 232.41 44.45)
 		)
 		(stroke
@@ -2703,7 +2690,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 30.48) (xy 124.46 30.48)
+			(xy 110.49 31.75) (xy 118.11 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2743,7 +2730,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 25.4) (xy 133.35 25.4)
+			(xy 115.57 26.67) (xy 127 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2803,7 +2790,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 27.94) (xy 124.46 27.94)
+			(xy 110.49 29.21) (xy 118.11 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2853,7 +2840,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 24.13) (xy 124.46 27.94)
+			(xy 118.11 25.4) (xy 118.11 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2883,7 +2870,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 24.13) (xy 121.92 25.4)
+			(xy 115.57 25.4) (xy 115.57 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2973,7 +2960,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 25.4) (xy 121.92 25.4)
+			(xy 110.49 26.67) (xy 115.57 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3045,7 +3032,7 @@
 	)
 	(global_label "RX"
 		(shape output)
-		(at 133.35 27.94 0)
+		(at 127 29.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3055,7 +3042,7 @@
 		)
 		(uuid "4f7f856f-5cd6-48f9-8cba-ba3f212ce3a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.8147 27.94 0)
+			(at 132.4647 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3129,7 +3116,7 @@
 	)
 	(global_label "LEDS"
 		(shape input)
-		(at 125.73 57.15 0)
+		(at 129.54 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3139,7 +3126,7 @@
 		)
 		(uuid "7262260c-5b3b-4197-a6d8-ce01d9b2a465")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.3718 57.15 0)
+			(at 137.1818 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3276,7 +3263,7 @@
 	)
 	(global_label "TX"
 		(shape input)
-		(at 133.35 25.4 0)
+		(at 127 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3285,7 +3272,7 @@
 		)
 		(uuid "f1cae59c-1809-4d48-b881-047f4e8458cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.922 25.4 0)
+			(at 131.572 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3304,7 +3291,7 @@
 		(dnp no)
 		(uuid "05d7a2a9-80c7-4e2b-9998-43046b6c44f3")
 		(property "Reference" "TP31"
-			(at 112.268 75.946 0)
+			(at 110.49 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3464,7 +3451,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 30.48 90)
+		(at 118.11 31.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3472,7 +3459,7 @@
 		(dnp no)
 		(uuid "13a2546d-bf53-4e27-8688-8c3699ea183a")
 		(property "Reference" "#PWR028"
-			(at 130.81 30.48 0)
+			(at 124.46 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3481,7 +3468,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127.762 30.48 90)
+			(at 121.412 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3490,7 +3477,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 30.48 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3499,7 +3486,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 30.48 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3508,7 +3495,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 30.48 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3603,7 +3590,7 @@
 		(dnp no)
 		(uuid "228a01ce-f032-40db-986f-6545cf4d9d07")
 		(property "Reference" "TP35"
-			(at 122.428 75.946 0)
+			(at 120.65 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3923,7 +3910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 193.294 54.864 90)
 			(effects
 				(font
@@ -4039,7 +4026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "CRGM Passive:D_SOD-523"
 			(at 207.01 38.1 0)
 			(effects
 				(font
@@ -4136,7 +4123,7 @@
 		(dnp no)
 		(uuid "3c6bc1f4-fb46-43ac-a0c4-db22ff751e59")
 		(property "Reference" "TP36"
-			(at 124.968 75.946 0)
+			(at 123.19 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4585,7 +4572,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 116.84 54.61 270)
+		(at 110.49 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4594,7 +4581,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d2b137e-c639-4c23-8af9-f5f85a77c1d6")
 		(property "Reference" "#PWR025"
-			(at 113.03 54.61 0)
+			(at 106.68 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4603,7 +4590,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 120.65 54.6099 90)
+			(at 114.3 53.3399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4612,7 +4599,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 54.61 0)
+			(at 110.49 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4621,7 +4608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 54.61 0)
+			(at 110.49 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4630,7 +4617,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 116.84 54.61 0)
+			(at 110.49 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4678,7 +4665,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
+		(property "Footprint" "CRGM Passive:SOT-523"
 			(at 209.55 57.785 0)
 			(effects
 				(font
@@ -4802,6 +4789,15 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
+			(at 41.402 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
 			(at 36.83 49.53 0)
 			(effects
 				(font
@@ -4810,8 +4806,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Hdgc-1_0K_BH4PB/C2919601"
-			(at 36.83 49.53 0)
+		(property "Description" "I2C Qwiic Connector 1mm pitch JST"
+			(at 41.148 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4819,17 +4815,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position Vertical"
-			(at 36.83 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BM04B-SRSS-TB"
-			(at 36.83 49.53 0)
+		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+			(at 41.402 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +4825,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 36.83 49.53 0)
+			(at 41.148 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4834,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 36.83 49.53 0)
+			(at 41.656 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,7 +4843,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 36.83 49.53 0)
+			(at 41.91 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,7 +4852,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 36.83 49.53 0)
+			(at 42.418 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4896,7 +4883,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 116.84 52.07 90)
+		(at 110.49 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4905,7 +4892,7 @@
 		(fields_autoplaced yes)
 		(uuid "84c879d5-b564-4722-a6e9-982458b7aa10")
 		(property "Reference" "#PWR024"
-			(at 123.19 52.07 0)
+			(at 116.84 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4914,7 +4901,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 52.0699 90)
+			(at 114.3 50.7999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4923,7 +4910,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 52.07 0)
+			(at 110.49 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +4919,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 52.07 0)
+			(at 110.49 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4941,7 +4928,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 52.07 0)
+			(at 110.49 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4963,7 +4950,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-3")
-		(at 114.3 25.4 0)
+		(at 107.95 26.67 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4972,7 +4959,7 @@
 		(dnp no)
 		(uuid "8e8f2e4a-fbc3-4608-a219-763e04c12f25")
 		(property "Reference" "J14"
-			(at 110.49 21.336 0)
+			(at 104.14 22.606 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4982,7 +4969,7 @@
 			)
 		)
 		(property "Value" "BM03B-SRSS-TB"
-			(at 110.49 21.59 0)
+			(at 104.14 22.86 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -4993,7 +4980,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
-			(at 113.03 16.51 0)
+			(at 106.68 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5001,8 +4988,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst.com/wp-content/uploads/2021/03/eSR_SZ-new.pdf"
-			(at 114.3 25.4 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 107.95 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5010,8 +4997,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 3 Position Vertical"
-			(at 112.268 19.05 0)
+		(property "Description" "JST SH 1.0mm 3 Position"
+			(at 105.918 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,8 +5006,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919600"
-			(at 114.3 25.4 0)
+		(property "LCSC" "C2919601"
+			(at 107.95 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,8 +5015,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM03B-SRSS-TB"
-			(at 114.3 25.4 0)
+		(property "MPN" "BM04B-SRSS-TB"
+			(at 107.95 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +5025,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 114.3 25.4 0)
+			(at 107.95 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5046,8 +5033,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
-			(at 114.3 25.4 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 107.95 45.466 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5055,8 +5042,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-3BSRSSTBTLP"
-			(at 114.3 25.4 0)
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+			(at 107.95 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5092,7 +5079,7 @@
 		(dnp no)
 		(uuid "948afd89-dab4-45f5-b5c6-099c6c31635a")
 		(property "Reference" "TP33"
-			(at 117.348 75.946 0)
+			(at 115.57 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5212,7 +5199,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 239.7252 38.1 0)
 			(effects
 				(font
@@ -5516,7 +5503,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
-			(at 102.362 75.438 0)
+			(at 105.41 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5524,8 +5511,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 105.41 81.28 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 105.41 124.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5533,8 +5520,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 8 Position Vertical"
-			(at 105.41 81.28 0)
+		(property "Description" "8 position, 1mm connector"
+			(at 105.41 119.634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5543,7 +5530,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 105.41 81.28 0)
+			(at 105.156 107.696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,7 +5539,7 @@
 			)
 		)
 		(property "MPN" "BM08B-SRSS-TB(LF)(SN)"
-			(at 105.41 81.28 0)
+			(at 105.156 111.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5561,7 +5548,7 @@
 			)
 		)
 		(property "LCSC" "C2845376"
-			(at 105.41 81.28 0)
+			(at 106.426 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5570,7 +5557,7 @@
 			)
 		)
 		(property "Mouser" "306-BM08BSRSSTBLFSN"
-			(at 105.41 81.28 0)
+			(at 105.664 115.062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5579,7 +5566,7 @@
 			)
 		)
 		(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
-			(at 105.41 81.28 0)
+			(at 104.394 113.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5688,6 +5675,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 123.19 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "beca5d5b-eb21-41a1-923f-fed0c029aa60")
+		(property "Reference" "TP59"
+			(at 124.968 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~"
+			(at 125.73 46.228 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 128.27 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" ""
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f53414de-0eca-4d2a-8d4f-68f00485d3aa")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/7ab1adf8-25d9-4134-8efc-e052fab914e5"
+					(reference "TP59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 49.53 29.21 270)
 		(unit 1)
@@ -5785,6 +5875,15 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
+			(at 41.402 39.624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
 			(at 36.83 21.59 0)
 			(effects
 				(font
@@ -5793,8 +5892,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/Hdgc-1_0K_BH4PB/C2919601"
-			(at 36.83 21.59 0)
+		(property "Description" "I2C Qwiic Connector 1mm pitch JST"
+			(at 41.148 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5802,17 +5901,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position Vertical"
-			(at 36.83 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BM04B-SRSS-TB"
-			(at 36.83 21.59 0)
+		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+			(at 41.402 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5821,7 +5911,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 36.83 21.59 0)
+			(at 41.148 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5830,7 +5920,7 @@
 			)
 		)
 		(property "LCSC" "C2919601"
-			(at 36.83 21.59 0)
+			(at 41.656 47.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5839,7 +5929,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 36.83 21.59 0)
+			(at 41.91 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5848,7 +5938,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 36.83 21.59 0)
+			(at 42.418 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,7 +6100,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-3")
-		(at 114.3 52.07 0)
+		(at 107.95 50.8 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6019,7 +6109,7 @@
 		(dnp no)
 		(uuid "d58abf6b-b016-4707-8bc5-76c96610a178")
 		(property "Reference" "J3"
-			(at 110.49 48.006 0)
+			(at 104.14 46.736 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -6029,7 +6119,7 @@
 			)
 		)
 		(property "Value" "BM03B-SRSS-TB"
-			(at 110.49 48.26 0)
+			(at 104.14 46.99 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -6040,7 +6130,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
-			(at 113.03 43.18 0)
+			(at 106.68 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6048,8 +6138,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.jst.com/wp-content/uploads/2021/03/eSR_SZ-new.pdf"
-			(at 114.3 52.07 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 107.95 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6057,8 +6147,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 3 Position Vertical"
-			(at 112.268 45.72 0)
+		(property "Description" "JST SH 1.0mm 3 Position"
+			(at 105.918 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6066,8 +6156,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919600"
-			(at 114.3 52.07 0)
+		(property "LCSC" "C2919601"
+			(at 107.95 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6076,7 +6166,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 114.3 52.07 0)
+			(at 107.95 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6084,8 +6174,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM03B-SRSS-TB"
-			(at 114.3 52.07 0)
+		(property "MPN" "BM04B-SRSS-TB"
+			(at 107.95 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6093,8 +6183,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
-			(at 114.3 52.07 0)
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+			(at 107.95 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6102,8 +6192,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-3BSRSSTBTLP"
-			(at 114.3 52.07 0)
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+			(at 107.95 72.136 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6206,7 +6296,7 @@
 		(dnp no)
 		(uuid "da178e93-e0fa-4846-83e4-12c9a4369589")
 		(property "Reference" "TP32"
-			(at 114.808 75.946 0)
+			(at 113.03 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6301,7 +6391,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 121.92 24.13 0)
+		(at 115.57 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6309,7 +6399,7 @@
 		(dnp no)
 		(uuid "dd381724-f3ed-4edb-940b-407c0bca5301")
 		(property "Reference" "TP29"
-			(at 123.698 18.796 0)
+			(at 115.824 16.256 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6318,7 +6408,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 124.46 17.018 0)
+			(at 118.11 18.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,7 +6418,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 127 24.13 0)
+			(at 120.65 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6337,7 +6427,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 24.13 0)
+			(at 120.65 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6346,7 +6436,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 121.92 24.13 0)
+			(at 115.57 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,7 +6445,7 @@
 			)
 		)
 		(property "MN" ""
-			(at 121.92 24.13 0)
+			(at 115.57 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6364,7 +6454,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 121.92 24.13 0)
+			(at 115.57 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6373,7 +6463,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 121.92 24.13 0)
+			(at 115.57 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6382,7 +6472,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 121.92 24.13 0)
+			(at 115.57 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6469,7 +6559,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 124.46 24.13 0)
+		(at 118.11 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6477,7 +6567,7 @@
 		(dnp no)
 		(uuid "fdfe7446-8c66-4956-8ad9-3addfd232bf5")
 		(property "Reference" "TP30"
-			(at 126.238 18.796 0)
+			(at 118.364 16.256 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6486,7 +6576,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 127 17.018 0)
+			(at 120.65 18.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6496,7 +6586,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 129.54 24.13 0)
+			(at 123.19 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6505,7 +6595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 24.13 0)
+			(at 123.19 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6514,7 +6604,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 124.46 24.13 0)
+			(at 118.11 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6523,7 +6613,7 @@
 			)
 		)
 		(property "MN" ""
-			(at 124.46 24.13 0)
+			(at 118.11 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6532,7 +6622,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 124.46 24.13 0)
+			(at 118.11 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6541,7 +6631,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 124.46 24.13 0)
+			(at 118.11 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6550,7 +6640,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 124.46 24.13 0)
+			(at 118.11 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,7 +6670,7 @@
 		(dnp no)
 		(uuid "fe541fe9-b5d8-41f4-8119-716d8808af66")
 		(property "Reference" "TP34"
-			(at 119.888 75.946 0)
+			(at 118.11 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)

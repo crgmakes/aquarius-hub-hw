@@ -19,7 +19,7 @@
 				(at 0 2.794 0)
 				(effects
 					(font
-						(size 1 1)
+						(size 1.27 1.27)
 						(thickness 0.125)
 					)
 					(justify left bottom)
@@ -34,9 +34,10 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "CRGM Connector:SM04B-SRSS-TB"
+			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
 				(at 3.048 -13.716 0)
 				(effects
 					(font
@@ -240,9 +241,8 @@
 				(at 0 2.794 0)
 				(effects
 					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
+						(size 1.27 1.27)
+						(thickness 0.2223)
 					)
 					(justify left bottom)
 				)
@@ -256,6 +256,7 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
@@ -268,7 +269,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 4.826 -25.146 0)
+				(at 0.762 -27.178 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -286,7 +287,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 4.064 -16.51 0)
+				(at 0 -18.542 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -295,7 +296,7 @@
 				)
 			)
 			(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
-				(at 4.064 -18.034 0)
+				(at 0 -20.066 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -304,7 +305,7 @@
 				)
 			)
 			(property "Mouser" "306-BM06BSRSSTBTLFSN"
-				(at 3.81 -19.812 0)
+				(at -0.254 -21.844 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -313,7 +314,7 @@
 				)
 			)
 			(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-				(at 4.064 -21.59 0)
+				(at 0 -23.622 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -322,7 +323,7 @@
 				)
 			)
 			(property "LCSC" "C2845374"
-				(at 4.572 -23.368 0)
+				(at 0.508 -25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1800,227 +1801,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JST-SH-4_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1 1)
-						(thickness 0.125)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -10.414 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "CRGM Connector:SM04B-SRSS-TB"
-				(at 3.048 -13.716 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 3.556 -27.432 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "4 Position, 1mm pitch"
-				(at 3.048 -16.002 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 3.302 -11.684 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-				(at 3.81 -18.542 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 3.556 -21.082 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 3.556 -23.368 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2763614"
-				(at 3.048 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JST-SH-4_1_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -10.16) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -10.16) (xy 0 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
 							)
 						)
 					)
@@ -3921,7 +3701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 200.406 43.434 90)
 			(effects
 				(font
@@ -4272,7 +4052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 48.006 105.664 90)
 			(effects
 				(font
@@ -4839,7 +4619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm"
+		(property "Footprint" "CRG Makes:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm"
 			(at 85.09 97.79 0)
 			(effects
 				(font
@@ -5638,7 +5418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position Vertical"
+		(property "Description" "4 Position, 1mm pitch"
 			(at 237.998 89.408 0)
 			(effects
 				(font
@@ -5683,7 +5463,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2763614"
 			(at 237.998 80.01 0)
 			(effects
 				(font
@@ -6108,7 +5888,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 74.6252 121.92 0)
 			(effects
 				(font
@@ -6391,7 +6171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 187.706 43.434 90)
 			(effects
 				(font
@@ -6510,7 +6290,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 234.95 114.3 0)
+			(at 236.474 104.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,8 +6298,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 234.95 114.3 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 235.712 141.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6527,8 +6307,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 234.95 114.3 0)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,7 +6317,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 234.95 114.3 0)
+			(at 235.458 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6546,7 +6326,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 114.3 0)
+			(at 234.95 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6554,8 +6334,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB"
-			(at 234.95 114.3 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6564,7 +6344,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 234.95 114.3 0)
+			(at 234.95 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,7 +6353,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 234.95 114.3 0)
+			(at 234.696 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6871,7 +6651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 181.356 43.434 90)
 			(effects
 				(font
@@ -8526,7 +8306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 40.386 105.664 90)
 			(effects
 				(font
@@ -9144,7 +8924,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 234.95 38.1 0)
+			(at 236.474 28.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9152,8 +8932,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 234.95 38.1 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 235.712 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9161,8 +8941,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 234.95 38.1 0)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9171,7 +8951,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 234.95 38.1 0)
+			(at 235.458 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9180,7 +8960,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 38.1 0)
+			(at 234.95 56.642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9188,8 +8968,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB"
-			(at 234.95 38.1 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,7 +8978,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 234.95 38.1 0)
+			(at 234.95 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9207,7 +8987,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 234.95 38.1 0)
+			(at 234.696 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9401,7 +9181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 194.056 43.434 90)
 			(effects
 				(font
@@ -10271,7 +10051,6 @@
 		)
 	)
 	(symbol
-		(lib_name "JST-SH-4_1")
 		(lib_id "CRGM Connector:JST-SH-4")
 		(at 234.95 88.9 0)
 		(mirror x)
@@ -10321,7 +10100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 4 Position Vertical"
+		(property "Description" "4 Position, 1mm pitch"
 			(at 237.998 72.898 0)
 			(effects
 				(font
@@ -10366,7 +10145,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2763614"
 			(at 237.998 63.5 0)
 			(effects
 				(font
@@ -10428,7 +10207,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 234.95 59.69 0)
+			(at 236.474 50.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10436,8 +10215,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM06B-SRSS-TB/926698"
-			(at 234.95 59.69 0)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 235.712 86.868 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10445,8 +10224,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "JST SH 1.0mm 6 Position Vertical"
-			(at 234.95 59.69 0)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10455,7 +10234,7 @@
 			)
 		)
 		(property "LCSC" "C2845374"
-			(at 234.95 59.69 0)
+			(at 235.458 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10464,7 +10243,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 59.69 0)
+			(at 234.95 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10472,8 +10251,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TB"
-			(at 234.95 59.69 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 79.756 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10482,7 +10261,7 @@
 			)
 		)
 		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 234.95 59.69 0)
+			(at 234.95 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10491,7 +10270,7 @@
 			)
 		)
 		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 234.95 59.69 0)
+			(at 234.696 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11523,7 +11302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 27.686 68.834 90)
 			(effects
 				(font
@@ -11927,7 +11706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:C_0603_1608Metric"
 			(at 84.7852 121.92 0)
 			(effects
 				(font
@@ -12041,7 +11820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
 			(at 55.626 105.664 90)
 			(effects
 				(font
