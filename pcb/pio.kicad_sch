@@ -2036,10 +2036,10 @@
 		)
 	)
 	(rectangle
-		(start 16.51 15.875)
-		(end 254 147.955)
+		(start 15.24 15.875)
+		(end 254 147.32)
 		(stroke
-			(width 0.508)
+			(width 0.254)
 			(type dash)
 			(color 255 153 0 1)
 		)
@@ -2050,15 +2050,16 @@
 	)
 	(text "GPIO Expander"
 		(exclude_from_sim yes)
-		(at 46.482 142.24 0)
+		(at 15.24 147.32 0)
 		(effects
 			(font
 				(face "KiCad Font")
-				(size 5.08 5.08)
+				(size 3 3)
 				(thickness 1.016)
 				(bold yes)
-				(color 255 153 0 1)
+				(color 0 0 194 1)
 			)
+			(justify left bottom)
 		)
 		(uuid "e0c95d5e-d8d1-4547-a06d-7662e348d412")
 	)
