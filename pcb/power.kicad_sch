@@ -6015,6 +6015,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 118.11 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddce1de5-c858-4d33-adc0-0aca3cbab644")
 		)
@@ -7112,6 +7121,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "541b8b37-f80e-47fd-9ac7-bb7d7fe456e6")
 		)
@@ -7888,6 +7906,15 @@
 			)
 		)
 		(property "Mouser" "187-CL10B104KO8NNNC"
+			(at 99.06 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
 			(at 99.06 55.88 0)
 			(effects
 				(font
@@ -8762,6 +8789,15 @@
 			)
 		)
 		(property "LCSC" "C2907114"
+			(at 90.17 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 90.17 55.88 0)
 			(effects
 				(font
@@ -9981,6 +10017,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 96.52 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef32ef27-f060-4dfe-96ae-48370975c1b5")
 		)
@@ -10247,6 +10292,15 @@
 				(font
 					(size 1 1)
 					(color 223 129 255 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 134.62 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
@@ -10851,6 +10905,15 @@
 			)
 		)
 		(property "LCSC" "C2907114"
+			(at 82.55 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 82.55 55.88 0)
 			(effects
 				(font

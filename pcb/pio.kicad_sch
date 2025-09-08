@@ -3774,6 +3774,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 199.39 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc682247-cde3-4bcb-8ecb-7a3546e1c742")
 		)
@@ -4117,6 +4126,15 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 46.99 105.41 0)
 			(effects
 				(font
@@ -5961,6 +5979,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 73.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bad00da-34ed-492e-bf51-53f29ab20b52")
 		)
@@ -6236,6 +6263,15 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
+			(at 186.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 186.69 43.18 0)
 			(effects
 				(font
@@ -6716,6 +6752,15 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
+			(at 180.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 180.34 43.18 0)
 			(effects
 				(font
@@ -8379,6 +8424,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4187b0a9-56f3-4c80-a39a-2e645acf0893")
 		)
@@ -9246,6 +9300,15 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
+			(at 193.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 193.04 43.18 0)
 			(effects
 				(font
@@ -11375,6 +11438,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "5%"
+			(at 26.67 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9374d973-eb00-4376-b364-0602978ec0c9")
 		)
@@ -11779,6 +11851,15 @@
 				(hide yes)
 			)
 		)
+		(property "Tolerance" "10%"
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b223b614-6f6f-45a7-96c6-a72ef62d2361")
 		)
@@ -11885,6 +11966,15 @@
 			)
 		)
 		(property "Mouser" "652-CR0603-JW-103ELF"
+			(at 54.61 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 54.61 105.41 0)
 			(effects
 				(font
