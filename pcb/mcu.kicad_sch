@@ -3369,12 +3369,6 @@
 		(uuid "6e03606b-f40a-434e-a7f3-7e923d1cd527")
 	)
 	(junction
-		(at 74.93 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "75d1fa52-b36b-4f3c-b64f-9fba65c13031")
-	)
-	(junction
 		(at 194.31 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3427,12 +3421,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8d518b4-011c-4161-83d0-c0d236c7c9d0")
-	)
-	(junction
-		(at 71.12 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf0552b8-233e-4db1-bcc8-e52d7d9a2674")
 	)
 	(junction
 		(at 173.99 31.75)
@@ -3549,16 +3537,6 @@
 			(type default)
 		)
 		(uuid "106d343f-a67e-4ae6-90ca-81376e581be3")
-	)
-	(wire
-		(pts
-			(xy 66.04 116.84) (xy 71.12 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "111b9060-34b5-43eb-83f3-b456df04e0f3")
 	)
 	(wire
 		(pts
@@ -3682,16 +3660,6 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 113.03) (xy 90.17 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28f6a3e1-6dc4-4a42-bc72-723b01072030")
-	)
-	(wire
-		(pts
 			(xy 68.58 152.4) (xy 68.58 146.05)
 		)
 		(stroke
@@ -3699,16 +3667,6 @@
 			(type default)
 		)
 		(uuid "2a5259ba-be6e-4edb-9f32-98351d1e3c65")
-	)
-	(wire
-		(pts
-			(xy 74.93 119.38) (xy 90.17 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a9976ba-1b05-47e0-9462-3511addc46ca")
 	)
 	(wire
 		(pts
@@ -4082,16 +4040,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 119.38) (xy 74.93 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76fa4246-817a-44ba-a3c1-51eaf4021b7f")
-	)
-	(wire
-		(pts
 			(xy 48.26 53.34) (xy 58.42 53.34)
 		)
 		(stroke
@@ -4202,26 +4150,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 116.84) (xy 81.28 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fd224d5-b563-4d9b-8203-af8a894db0af")
-	)
-	(wire
-		(pts
-			(xy 71.12 116.84) (xy 71.12 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fd85a02-a57e-4096-b958-33220306bd46")
-	)
-	(wire
-		(pts
 			(xy 88.9 50.8) (xy 93.98 50.8)
 		)
 		(stroke
@@ -4229,6 +4157,16 @@
 			(type default)
 		)
 		(uuid "916056ce-596b-4bb8-969a-345521ebc45c")
+	)
+	(wire
+		(pts
+			(xy 49.53 43.18) (xy 58.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92179f82-2f98-4fc1-8b6f-72128bee7ef5")
 	)
 	(wire
 		(pts
@@ -4372,6 +4310,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 45.72) (xy 58.42 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adc8ad24-6dcd-4c27-bfcf-051f94c1f6d0")
+	)
+	(wire
+		(pts
 			(xy 30.48 152.4) (xy 30.48 158.75)
 		)
 		(stroke
@@ -4409,16 +4357,6 @@
 			(type default)
 		)
 		(uuid "bb1c5dc3-3753-4aff-b383-b714693f7a56")
-	)
-	(wire
-		(pts
-			(xy 81.28 113.03) (xy 81.28 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be3a3fdc-bd4f-4d10-ba50-dbadd8f27dac")
 	)
 	(wire
 		(pts
@@ -4629,16 +4567,6 @@
 			(type default)
 		)
 		(uuid "dd34a8db-9b42-4b9b-a8f0-3d6c8b0f54b2")
-	)
-	(wire
-		(pts
-			(xy 66.04 119.38) (xy 74.93 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "deade136-f344-476f-aacc-350f3f7970e7")
 	)
 	(wire
 		(pts
@@ -7711,6 +7639,27 @@
 		)
 		(uuid "f20c6b67-27b0-44ff-8f71-22451eeeff13")
 	)
+	(global_label "EXT_SDA"
+		(shape bidirectional)
+		(at 49.53 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "112db3bf-4651-4902-96a6-d8162b7b838e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 37.5717 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SPI_IRQ0"
 		(shape input)
 		(at 48.26 60.96 180)
@@ -7732,9 +7681,9 @@
 			)
 		)
 	)
-	(global_label "I2C_SDA"
-		(shape input)
-		(at 66.04 116.84 180)
+	(global_label "EXT_SCL"
+		(shape output)
+		(at 49.53 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7742,9 +7691,9 @@
 			)
 			(justify right)
 		)
-		(uuid "19fe3f17-19ff-4648-9bef-e5edb82837c8")
+		(uuid "1e5c89a4-4362-4947-8ca7-2a08acfad0c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.4348 116.84 0)
+			(at 38.7435 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8278,27 +8227,6 @@
 			)
 		)
 	)
-	(global_label "I2C_SCL"
-		(shape input)
-		(at 66.04 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ae4be47c-f7e3-4688-a055-391e2fa143cd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.4953 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "LCD_SDO"
 		(shape input)
 		(at 92.71 58.42 0)
@@ -8362,7 +8290,7 @@
 			)
 		)
 	)
-	(global_label "I2C_SCL"
+	(global_label "INT_SCL"
 		(shape output)
 		(at 93.98 43.18 0)
 		(fields_autoplaced yes)
@@ -8374,7 +8302,7 @@
 		)
 		(uuid "c1c4f4ee-06f5-4145-a4d1-d929868aa9a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.5247 43.18 0)
+			(at 104.3433 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8425,7 +8353,7 @@
 			)
 		)
 	)
-	(global_label "I2C_SDA"
+	(global_label "INT_SDA"
 		(shape bidirectional)
 		(at 92.71 40.64 0)
 		(fields_autoplaced yes)
@@ -8437,7 +8365,7 @@
 		)
 		(uuid "cbbe0443-f93b-49ea-83fe-532ed02e18d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.4265 40.64 0)
+			(at 104.2451 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,7 +8735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 196.85 25.4 0)
 			(effects
 				(font
@@ -8975,7 +8903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 186.69 25.4 0)
 			(effects
 				(font
@@ -9093,129 +9021,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 81.28 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "15196cb1-83c0-425a-9eec-90310d26fd4c")
-		(property "Reference" "R1"
-			(at 82.296 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7K"
-			(at 82.296 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
-			(at 82.296 109.474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "FOJAN"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "FRC0603J472 TS"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "652-CR0603-JW-472ELF"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "CR0603-JW-472ELFTR-ND"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2907166"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "5%"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "55ff6eea-c019-4a8b-a618-42fe64f3a1a8")
-		)
-		(pin "1"
-			(uuid "87866439-86ab-4db6-aaa5-d5a1049d2099")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9346,72 +9151,6 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 81.28 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bbab9eb-1977-4227-975d-66c69fc62773")
-		(property "Reference" "#PWR01"
-			(at 81.28 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 81.28 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 81.28 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 81.28 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 81.28 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "000115fd-e242-43e8-9436-5e65889d5dac")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
 		(at 198.12 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9521,7 +9260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 87.63 152.4 0)
 			(effects
 				(font
@@ -9624,7 +9363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 242.57 90.17 0)
 			(effects
 				(font
@@ -9727,7 +9466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 184.15 25.4 0)
 			(effects
 				(font
@@ -9953,7 +9692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 191.77 25.4 0)
 			(effects
 				(font
@@ -10397,7 +10136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 39.37 152.4 0)
 			(effects
 				(font
@@ -10500,7 +10239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 154.94 93.98 0)
 			(effects
 				(font
@@ -10623,129 +10362,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 90.17 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "60efba2d-524a-4d20-a198-62620efb74f6")
-		(property "Reference" "R2"
-			(at 91.186 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7K"
-			(at 91.186 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "CRGM Passive:R_0603_1608Metric"
-			(at 91.186 109.474 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Thick Film Resistors - SMD 1/10Watt 4.7Kohms 5%"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "FOJAN"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "FRC0603J472 TS"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "652-CR0603-JW-472ELF"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "CR0603-JW-472ELFTR-ND"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2907166"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "5%"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "609a3a4b-2b4f-439d-91bd-fc9bfc8b6ec1")
-		)
-		(pin "1"
-			(uuid "7afeae59-6d2f-491c-88c8-730abb76a089")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 181.61 25.4 0)
 		(unit 1)
@@ -10791,7 +10407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 181.61 25.4 0)
 			(effects
 				(font
@@ -11415,73 +11031,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 71.12 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "7ae875f1-e95b-41e6-bcb0-79b1f756fd80")
-		(property "Reference" "TP1"
-			(at 72.898 107.696 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 72.898 105.664 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 76.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Test Point"
-			(at 71.12 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "164a50eb-f53b-4aa5-b2aa-d4667a0d1cee")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 179.07 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11526,7 +11075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 179.07 25.4 0)
 			(effects
 				(font
@@ -11836,72 +11385,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 90.17 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8004aeaf-b909-4a54-8c35-718160f0c6ca")
-		(property "Reference" "#PWR02"
-			(at 90.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 90.17 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 90.17 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 90.17 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 90.17 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec505bea-bc02-406c-a6f5-b05de1bfc29d")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 58.42 58.42 90)
 		(unit 1)
@@ -11947,7 +11430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 58.42 58.42 0)
 			(effects
 				(font
@@ -12353,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 220.98 91.44 0)
 			(effects
 				(font
@@ -12579,7 +12062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 201.93 25.4 0)
 			(effects
 				(font
@@ -12872,7 +12355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 173.99 25.4 0)
 			(effects
 				(font
@@ -13061,73 +12544,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 74.93 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "a2d1b0e0-c397-4a03-83cf-8713ec8ddb3e")
-		(property "Reference" "TP2"
-			(at 76.708 107.696 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 76.708 105.664 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 80.01 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Test Point"
-			(at 74.93 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d3f58d5-5e38-4a58-98e3-d42e1b0bbab7")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 73.66 26.67 0)
 		(unit 1)
@@ -13305,7 +12721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 199.39 25.4 0)
 			(effects
 				(font
@@ -13662,7 +13078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 176.53 25.4 0)
 			(effects
 				(font
@@ -13765,7 +13181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 189.23 25.4 0)
 			(effects
 				(font
@@ -13817,100 +13233,6 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 58.42 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "dffedd6e-6be4-492b-943a-b89bb048e48d")
-		(property "Reference" "TP5"
-			(at 50.546 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 46.736 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 58.42 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Test Point"
-			(at 58.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 58.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 58.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 58.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "39cec6d0-18ce-4cba-ac69-6d0d95f87f9d")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -14711,7 +14033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 194.31 25.4 0)
 			(effects
 				(font
@@ -14763,100 +14085,6 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 58.42 45.72 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "f96a7ef5-48a9-4b32-ad2d-d7242b3f3d20")
-		(property "Reference" "TP6"
-			(at 50.292 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "~"
-			(at 46.736 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
-			(at 58.42 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Test Point"
-			(at 58.42 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 58.42 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" ""
-			(at 58.42 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 58.42 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9c3f2ec2-02e5-47bf-bf63-78f21ab47653")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
-					(reference "TP6")
 					(unit 1)
 				)
 			)

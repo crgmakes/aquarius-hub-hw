@@ -34,6 +34,7 @@
 						(bold yes)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
@@ -166,7 +167,7 @@
 						(type none)
 					)
 				)
-				(pin power_out line
+				(pin passive line
 					(at -2.54 0 0)
 					(length 2.54)
 					(name "V3.3"
@@ -220,7 +221,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin passive line
 					(at -2.54 -7.62 0)
 					(length 2.54)
 					(name "V5"
@@ -5447,7 +5448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 115.57 43.18 0)
 			(effects
 				(font
@@ -5854,7 +5855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 113.03 43.18 0)
 			(effects
 				(font
@@ -6084,7 +6085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 22.86 104.14 0)
 			(effects
 				(font
@@ -6481,7 +6482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 153.67 97.79 0)
 			(effects
 				(font
@@ -6772,7 +6773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 139.7 43.18 0)
 			(effects
 				(font
@@ -7409,7 +7410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 27.94 96.52 0)
 			(effects
 				(font
@@ -9519,7 +9520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 125.73 30.48 0)
 			(effects
 				(font
@@ -9613,7 +9614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 142.24 43.18 0)
 			(effects
 				(font
@@ -9846,7 +9847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 96.52 147.32 0)
 			(effects
 				(font
@@ -10367,7 +10368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "test point"
 			(at 101.6 97.79 0)
 			(effects
 				(font
