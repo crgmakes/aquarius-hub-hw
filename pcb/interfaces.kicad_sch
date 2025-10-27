@@ -2172,7 +2172,7 @@
 		)
 		(uuid "fb9cb6d2-9d6b-4f7a-90e5-5dc6b3b29b6f")
 	)
-	(global_label "EXT_SDA"
+	(global_label "SDA"
 		(shape input)
 		(at 52.07 73.66 180)
 		(fields_autoplaced yes)
@@ -2184,7 +2184,7 @@
 		)
 		(uuid "0622f2e0-9040-46dc-861e-9b127d2dbec9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.223 73.66 0)
+			(at 45.5167 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2193,7 +2193,7 @@
 			)
 		)
 	)
-	(global_label "EXT_SDA"
+	(global_label "SDA"
 		(shape input)
 		(at 69.85 26.67 0)
 		(fields_autoplaced yes)
@@ -2205,7 +2205,7 @@
 		)
 		(uuid "1fba0454-3548-4c47-90a7-10a6c08246e2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.697 26.67 0)
+			(at 76.4033 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2256,7 +2256,7 @@
 			)
 		)
 	)
-	(global_label "EXT_SCL"
+	(global_label "SCL"
 		(shape input)
 		(at 69.85 24.13 0)
 		(fields_autoplaced yes)
@@ -2268,7 +2268,7 @@
 		)
 		(uuid "5a38fe4f-4da3-4128-b272-586c618d1518")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.6365 24.13 0)
+			(at 76.3428 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2277,7 +2277,7 @@
 			)
 		)
 	)
-	(global_label "EXT_SCL"
+	(global_label "SCL"
 		(shape input)
 		(at 52.07 76.2 180)
 		(fields_autoplaced yes)
@@ -2289,7 +2289,7 @@
 		)
 		(uuid "5c8f807b-2ca8-4be1-939a-39cc71704da2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.2835 76.2 0)
+			(at 45.5772 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2382,7 +2382,7 @@
 			)
 		)
 	)
-	(global_label "EXT_SCL"
+	(global_label "SCL"
 		(shape input)
 		(at 68.58 44.45 0)
 		(fields_autoplaced yes)
@@ -2394,7 +2394,7 @@
 		)
 		(uuid "97498aee-17ab-4061-9945-7e326d399978")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3665 44.45 0)
+			(at 75.0728 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2403,7 +2403,7 @@
 			)
 		)
 	)
-	(global_label "EXT_SDA"
+	(global_label "SDA"
 		(shape input)
 		(at 68.58 46.99 0)
 		(fields_autoplaced yes)
@@ -2415,7 +2415,7 @@
 		)
 		(uuid "b6db49fa-e2d4-4d89-a7dc-a3298aa0c1ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.427 46.99 0)
+			(at 75.1333 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3710,7 +3710,7 @@
 				)
 			)
 		)
-		(property "Value" "BM04B-SRSS-TB"
+		(property "Value" "SM04B-SRSS-TB"
 			(at 41.275 40.64 0)
 			(effects
 				(font
@@ -3721,7 +3721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
+		(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 41.402 59.944 0)
 			(effects
 				(font
@@ -3748,7 +3748,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
 			(at 41.402 61.976 0)
 			(effects
 				(font
@@ -3766,7 +3766,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2904986"
+		(property "LCSC" "C2763614"
 			(at 41.656 68.072 0)
 			(effects
 				(font
@@ -3775,7 +3775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-SM04BSRSSTBTLFSN"
 			(at 41.91 64.008 0)
 			(effects
 				(font
@@ -3784,7 +3784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-SM04B-SRSS-TBTR-ND"
 			(at 42.418 66.04 0)
 			(effects
 				(font
@@ -4815,7 +4815,7 @@
 				)
 			)
 		)
-		(property "Value" "BM04B-SRSS-TB"
+		(property "Value" "SM04B-SRSS-TB"
 			(at 41.275 20.32 0)
 			(effects
 				(font
@@ -4826,7 +4826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
+		(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 41.402 39.624 0)
 			(effects
 				(font
@@ -4853,7 +4853,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
 			(at 41.402 41.656 0)
 			(effects
 				(font
@@ -4871,7 +4871,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2904986"
+		(property "LCSC" "C2763614"
 			(at 41.656 47.752 0)
 			(effects
 				(font
@@ -4880,7 +4880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-SM04BSRSSTBTLFSN"
 			(at 41.91 43.688 0)
 			(effects
 				(font
@@ -4889,7 +4889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-SM04B-SRSS-TBTR-ND"
 			(at 42.418 45.72 0)
 			(effects
 				(font

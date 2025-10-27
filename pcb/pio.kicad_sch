@@ -11,228 +11,6 @@
 		(comment 1 "<<hash>>")
 	)
 	(lib_symbols
-		(symbol "CRGM Connector:JST-SH-4"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.125)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -10.414 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-				(at 3.048 -13.716 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 3.556 -27.432 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "4 Position, 1mm pitch"
-				(at 3.048 -16.002 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 3.302 -11.684 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-				(at 3.81 -18.542 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 3.556 -21.082 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 3.556 -23.368 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2763614"
-				(at 3.048 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JST-SH-4_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -10.16) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -10.16) (xy 0 -10.16)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "CRGM Connector:JST-SH-6"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2282,16 +2060,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 82.55) (xy 213.36 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0efbb011-5183-4f37-abf2-88efd637e590")
-	)
-	(wire
-		(pts
 			(xy 163.83 87.63) (xy 163.83 130.81)
 		)
 		(stroke
@@ -2299,6 +2067,16 @@
 			(type default)
 		)
 		(uuid "0f3f4ab8-9b30-4ee4-8412-249e2f3da70f")
+	)
+	(wire
+		(pts
+			(xy 213.36 91.44) (xy 213.36 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "112c8574-b6dd-45bd-b885-d6f231a04147")
 	)
 	(wire
 		(pts
@@ -2342,16 +2120,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 119.38) (xy 208.28 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c0162c7-3537-46bb-819d-54a8c5069eb1")
-	)
-	(wire
-		(pts
 			(xy 171.45 49.53) (xy 171.45 92.71)
 		)
 		(stroke
@@ -2369,16 +2137,6 @@
 			(type default)
 		)
 		(uuid "1fde1aae-bf3e-4a66-86d7-694bfa0e5006")
-	)
-	(wire
-		(pts
-			(xy 220.98 74.93) (xy 220.98 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2124da0e-dd87-400b-ad75-137f26321cd4")
 	)
 	(wire
 		(pts
@@ -2482,6 +2240,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 88.9) (xy 215.9 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3797f779-726e-43e1-830f-c7e4eb2ff05c")
+	)
+	(wire
+		(pts
 			(xy 144.78 49.53) (xy 144.78 74.93)
 		)
 		(stroke
@@ -2492,16 +2260,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 77.47) (xy 218.44 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "397eed89-7fd5-47cb-b051-4093871d8a99")
-	)
-	(wire
-		(pts
 			(xy 97.79 92.71) (xy 171.45 92.71)
 		)
 		(stroke
@@ -2509,6 +2267,16 @@
 			(type default)
 		)
 		(uuid "39a3c0e9-fe23-461f-85ad-b96e9b95c173")
+	)
+	(wire
+		(pts
+			(xy 218.44 86.36) (xy 218.44 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a556e55-b379-44b1-ac18-9f38c106fb3b")
 	)
 	(wire
 		(pts
@@ -2602,6 +2370,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 105.41) (xy 210.82 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49d626b2-6f66-4b07-92b7-bb1234411a27")
+	)
+	(wire
+		(pts
 			(xy 58.42 50.8) (xy 58.42 54.61)
 		)
 		(stroke
@@ -2619,16 +2397,6 @@
 			(type default)
 		)
 		(uuid "4caee31f-0b6d-443e-bf2a-44f4c265c8ad")
-	)
-	(wire
-		(pts
-			(xy 210.82 116.84) (xy 210.82 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e0c6928-9eaf-40fa-bef2-9e7f3b5ec969")
 	)
 	(wire
 		(pts
@@ -2662,16 +2430,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 90.17) (xy 205.74 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54ce09fb-fee8-40d8-9c57-03dd9eeb918e")
-	)
-	(wire
-		(pts
 			(xy 186.69 46.99) (xy 186.69 80.01)
 		)
 		(stroke
@@ -2689,16 +2447,6 @@
 			(type default)
 		)
 		(uuid "5a5f4a49-2bb0-4e11-b7aa-81d401da4fcc")
-	)
-	(wire
-		(pts
-			(xy 205.74 121.92) (xy 232.41 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c8d03e4-0792-45be-aa73-690eca487969")
 	)
 	(wire
 		(pts
@@ -2742,13 +2490,13 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 83.82) (xy 232.41 83.82)
+			(xy 208.28 107.95) (xy 208.28 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "600141eb-639c-4b42-be1b-f8d921d2aa6c")
+		(uuid "6370ca87-8eb9-4407-9150-de2a0e1ec5ea")
 	)
 	(wire
 		(pts
@@ -2762,6 +2510,36 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 110.49) (xy 205.74 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d0c053d-1874-4c35-80ae-d0a3fe17d926")
+	)
+	(wire
+		(pts
+			(xy 232.41 83.82) (xy 220.98 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70dec5bd-f1b2-4eb6-b913-e8a9b2e09a76")
+	)
+	(wire
+		(pts
+			(xy 215.9 88.9) (xy 215.9 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71a4fc0a-da4e-436a-a2bb-373d70e7032b")
+	)
+	(wire
+		(pts
 			(xy 140.97 49.53) (xy 140.97 69.85)
 		)
 		(stroke
@@ -2769,16 +2547,6 @@
 			(type default)
 		)
 		(uuid "72c893a7-65de-47be-a3f1-d3f386a54e3b")
-	)
-	(wire
-		(pts
-			(xy 232.41 88.9) (xy 218.44 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74f56cde-8efa-41d8-bf9f-513f603213ba")
 	)
 	(wire
 		(pts
@@ -2799,6 +2567,16 @@
 			(type default)
 		)
 		(uuid "765862bd-b460-4223-9392-010a5ae2c591")
+	)
+	(wire
+		(pts
+			(xy 232.41 86.36) (xy 218.44 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76ccd403-bbe0-4e48-9e2e-85ccfc8d4ade")
 	)
 	(wire
 		(pts
@@ -2862,16 +2640,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 105.41) (xy 213.36 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bdbba68-7d69-48ac-843b-e7727e483b7d")
-	)
-	(wire
-		(pts
 			(xy 167.64 90.17) (xy 167.64 130.81)
 		)
 		(stroke
@@ -2879,16 +2647,6 @@
 			(type default)
 		)
 		(uuid "8c6eef30-a33b-467b-a5c3-33d95200fa41")
-	)
-	(wire
-		(pts
-			(xy 232.41 100.33) (xy 215.9 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f7963c3-d2d6-4594-b2e0-5d886aeefbb9")
 	)
 	(wire
 		(pts
@@ -2949,6 +2707,16 @@
 			(type default)
 		)
 		(uuid "a07eddcd-d6c5-4ca8-92e0-59203ada08fc")
+	)
+	(wire
+		(pts
+			(xy 220.98 83.82) (xy 220.98 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1145d3c-937e-4986-92f4-9206921c75ef")
 	)
 	(wire
 		(pts
@@ -3032,13 +2800,13 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 124.46) (xy 203.2 92.71)
+			(xy 232.41 113.03) (xy 203.2 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "afbc02c9-86b7-4840-9a93-5481d434658d")
+		(uuid "b73b7a88-2768-4844-9f13-74d61139da1b")
 	)
 	(wire
 		(pts
@@ -3059,6 +2827,26 @@
 			(type default)
 		)
 		(uuid "b83dad8e-614d-43ae-9c86-c681b9257057")
+	)
+	(wire
+		(pts
+			(xy 232.41 107.95) (xy 208.28 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8a9859d-6391-4d19-81d2-af48c0f9a58e")
+	)
+	(wire
+		(pts
+			(xy 205.74 110.49) (xy 205.74 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8e87997-f8c1-4a9f-9567-36cf736d9735")
 	)
 	(wire
 		(pts
@@ -3119,16 +2907,6 @@
 			(type default)
 		)
 		(uuid "bee266d1-2f0e-4771-ba77-1dcdd87a8ddc")
-	)
-	(wire
-		(pts
-			(xy 232.41 116.84) (xy 210.82 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c48ef14c-71e3-457f-bbc8-c40240a60ebc")
 	)
 	(wire
 		(pts
@@ -3262,13 +3040,13 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 119.38) (xy 208.28 87.63)
+			(xy 210.82 105.41) (xy 210.82 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e204f569-ff43-4872-a834-b5130bac4ed2")
+		(uuid "e4f10afb-b838-43bb-9c46-65ab2c053cc1")
 	)
 	(wire
 		(pts
@@ -3289,6 +3067,16 @@
 			(type default)
 		)
 		(uuid "e8f1fd46-2810-473b-aed9-af690477e247")
+	)
+	(wire
+		(pts
+			(xy 203.2 113.03) (xy 203.2 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea13f15a-0d49-42e8-9452-ce0ed49e87b6")
 	)
 	(wire
 		(pts
@@ -3342,23 +3130,13 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 80.01) (xy 215.9 100.33)
+			(xy 232.41 91.44) (xy 213.36 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f4d02377-4f23-4b25-a068-71e7a5fe5b99")
-	)
-	(wire
-		(pts
-			(xy 232.41 124.46) (xy 203.2 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7f2e321-c7f9-4ad3-99f8-3a3099bf109d")
+		(uuid "f3a65d43-438b-4212-8832-8db9714fc170")
 	)
 	(wire
 		(pts
@@ -3590,7 +3368,7 @@
 		)
 		(uuid "f85530bf-7117-47ae-80b4-1787337f8b70")
 	)
-	(global_label "INT_SCL"
+	(global_label "SCL"
 		(shape input)
 		(at 48.26 54.61 180)
 		(fields_autoplaced yes)
@@ -3602,7 +3380,7 @@
 		)
 		(uuid "0de2b1cf-a088-485d-bc99-adc6fc519ce7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.8967 54.61 0)
+			(at 41.7672 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3611,7 +3389,7 @@
 			)
 		)
 	)
-	(global_label "INT_SDA"
+	(global_label "SDA"
 		(shape input)
 		(at 48.26 52.07 180)
 		(fields_autoplaced yes)
@@ -3623,7 +3401,7 @@
 		)
 		(uuid "3deb5ae5-66c0-44b1-a754-1bb61699ccdb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.8362 52.07 0)
+			(at 41.7067 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3671,6 +3449,73 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 232.41 102.87 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "099a5ae3-0a43-4ef1-91d5-9c09d943396b")
+		(property "Reference" "#PWR046"
+			(at 226.06 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 232.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03cf62ef-84a1-4690-81e6-686dc07112e3")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "#PWR046")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -3864,73 +3709,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 232.41 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1253ba1b-fef1-40a1-9989-268cc9d7288b")
-		(property "Reference" "#PWR070"
-			(at 226.06 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a5849c3c-d62a-46be-9728-5b4109248f0a")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR070")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 144.78 49.53 0)
 		(unit 1)
@@ -4095,6 +3873,136 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Connector:JST-SH-6")
+		(at 234.95 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1cb3ed9d-d2e5-4e1a-adf1-e787599a5d0b")
+		(property "Reference" "J5"
+			(at 237.236 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+					(thickness 0.3556)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SM06B-SRSS-TB"
+			(at 242.824 56.896 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+					(thickness 0.2223)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
+			(at 236.474 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 235.712 86.868 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2763616"
+			(at 235.458 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "JST"
+			(at 234.95 78.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
+			(at 234.95 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "306-SM06BSRSSTBTLFSN"
+			(at 234.696 81.534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "add459d3-4b0e-42a7-974e-e530a63a2e39")
+		)
+		(pin "4"
+			(uuid "e7362838-ad33-40fb-9aa3-5b381a29b8a3")
+		)
+		(pin "3"
+			(uuid "5d0f4feb-59a3-45da-975d-e45040d64b96")
+		)
+		(pin "6"
+			(uuid "59796ade-9ce7-413f-b993-00a8cbcfd0f1")
+		)
+		(pin "1"
+			(uuid "37a61584-6365-4308-9706-5923fb3a176e")
+		)
+		(pin "2"
+			(uuid "dd499a94-f1b8-4b26-aaa7-3c0f33e07f61")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -4640,73 +4548,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 232.41 102.87 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2dca8aa5-469d-48d3-91fa-46a49348f836")
-		(property "Reference" "#PWR079"
-			(at 226.06 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 102.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb4888af-7b9a-48de-817e-cd63d8afbdb2")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -5556,39 +5397,38 @@
 		)
 	)
 	(symbol
-		(lib_id "CRGM Connector:JST-SH-4")
-		(at 234.95 105.41 0)
-		(mirror x)
+		(lib_id "CRGM Connector:JST-SH-6")
+		(at 234.95 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5938d408-e96c-41bc-9f7b-15c11e20fa5c")
-		(property "Reference" "J11"
-			(at 236.22 94.996 0)
+		(uuid "53e4183f-652b-4130-9a5c-5d16d46c9d83")
+		(property "Reference" "J7"
+			(at 237.236 100.076 0)
 			(effects
 				(font
 					(size 1.778 1.778)
 					(thickness 0.3556)
 					(bold yes)
 				)
-				(justify left top)
+				(justify left bottom)
 			)
 		)
-		(property "Value" "BM04B-SRSS-TB"
-			(at 242.316 94.996 0)
+		(property "Value" "SM06B-SRSS-TB"
+			(at 242.824 100.076 0)
 			(effects
 				(font
 					(size 1.778 1.778)
 					(thickness 0.2223)
 				)
-				(justify left top)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 237.998 91.694 0)
+		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
+			(at 236.474 93.218 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5597,7 +5437,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 238.506 77.978 0)
+			(at 235.712 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,8 +5445,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "4 Position, 1mm pitch"
-			(at 237.998 89.408 0)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2763616"
+			(at 235.458 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5615,7 +5464,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 238.252 93.726 0)
+			(at 234.95 121.412 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5623,8 +5472,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 238.76 86.868 0)
+		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5632,8 +5481,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 238.506 84.328 0)
+		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
+			(at 234.95 126.492 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5641,8 +5490,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 238.506 82.042 0)
+		(property "Mouser" "306-SM06BSRSSTBTLFSN"
+			(at 234.696 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5650,31 +5499,158 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2904986"
-			(at 237.998 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "5"
+			(uuid "2141d678-c0e6-491e-9cc9-4c22840ccf45")
 		)
 		(pin "4"
-			(uuid "b09ce639-485a-438f-ac6d-fa183702cabc")
+			(uuid "b25e8765-8e97-4f5e-9dcd-19325425a935")
 		)
 		(pin "3"
-			(uuid "25f4264e-64a6-48f4-81a3-d62f5393ad02")
+			(uuid "f8c34052-6ce2-421f-bf0d-b7249d02360f")
 		)
-		(pin "2"
-			(uuid "a434d118-b13d-407f-9692-1bf885ac42ce")
+		(pin "6"
+			(uuid "3eedefc4-1cda-43e4-97da-c986b9f5cf40")
 		)
 		(pin "1"
-			(uuid "3ba62619-65c7-4058-8dbc-0a515f0ca073")
+			(uuid "ccd3d362-c153-49b9-b7de-6622b557e8c9")
+		)
+		(pin "2"
+			(uuid "9e1e4f1c-8d7c-4f14-b94c-f50014a5614a")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "J11")
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRGM Connector:JST-SH-6")
+		(at 234.95 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5563da86-dad0-42a0-8a0e-82613d409f09")
+		(property "Reference" "J6"
+			(at 237.236 78.486 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+					(thickness 0.3556)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SM06B-SRSS-TB"
+			(at 242.824 78.486 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+					(thickness 0.2223)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
+			(at 236.474 71.628 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+			(at 235.712 108.458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "6 position, 1mm pitch"
+			(at 236.982 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2763616"
+			(at 235.458 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MN" "JST"
+			(at 234.95 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
+			(at 234.95 104.902 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "306-SM06BSRSSTBTLFSN"
+			(at 234.696 103.124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "35daba66-5bfe-4bf6-9d06-49ad16423f5c")
+		)
+		(pin "4"
+			(uuid "abc09e2c-c2c7-4fcd-8211-daa14a39a126")
+		)
+		(pin "3"
+			(uuid "29057800-0573-4836-a834-1b37f2bd2aa2")
+		)
+		(pin "6"
+			(uuid "5ec68b97-a100-45b5-b1d3-7e649fed205e")
+		)
+		(pin "1"
+			(uuid "05f1f56e-ee13-452d-9094-01dd28e1da6c")
+		)
+		(pin "2"
+			(uuid "70c1a66c-dc57-4854-8599-9a8e61134811")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -5741,73 +5717,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 232.41 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6616b593-c9b2-422d-99ab-d778b2e7e0b2")
-		(property "Reference" "#PWR045"
-			(at 226.06 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 114.2999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae3ad332-8a29-40fa-bf17-6f89c3c8a5f6")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -6043,6 +5952,72 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 232.41 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78ad0941-11b6-4374-b86e-690010c5cc68")
+		(property "Reference" "#PWR070"
+			(at 236.22 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 228.6 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 232.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e657256c-5eee-4d78-851a-6792b5e6743a")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -6458,136 +6433,6 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "879e9e16-e1a2-4d11-a94d-4fbf951ef07d")
-		(property "Reference" "J7"
-			(at 236.728 111.506 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "BM06B-SRSS-TB"
-			(at 242.316 111.506 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.2223)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 236.474 104.648 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 141.478 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2845374"
-			(at 235.458 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "JST"
-			(at 234.95 132.842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 134.366 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 234.95 137.922 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 234.696 136.144 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "69cdc194-93b8-4477-ad0d-6681569ded7b")
-		)
-		(pin "4"
-			(uuid "0cf6427f-caf6-495c-9739-e78fc26eee4e")
-		)
-		(pin "3"
-			(uuid "ee5a6828-0dfb-4345-871f-bed9d134b7d3")
-		)
-		(pin "6"
-			(uuid "86b99e16-b4ae-4d2b-af2a-7fd78b1ec5c4")
-		)
-		(pin "1"
-			(uuid "edbabd3b-7244-4fc9-9c8c-8cf750da7c65")
-		)
-		(pin "2"
-			(uuid "da674066-7c0c-4aa2-aa83-87b1f09a5fef")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -7440,6 +7285,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 232.41 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a491c9d4-dc15-4b59-b368-2d53be2822e9")
+		(property "Reference" "#PWR045"
+			(at 236.22 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 228.6 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 232.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a034ec69-ae08-4ec6-a366-c047556331d5")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Passive:PESD3V3S1BL")
 		(at 133.35 133.35 90)
 		(unit 1)
@@ -8132,73 +8043,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "#PWR054")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 232.41 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b7505a82-f96b-41a9-af34-dcc401b2bc8e")
-		(property "Reference" "#PWR046"
-			(at 236.22 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 228.6 126.9999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 232.41 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "45343978-15d4-453f-8df8-8322f0401b37")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -9116,6 +8960,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 232.41 81.28 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c624f3df-8059-4d0b-a8e5-5817aa2f60ea")
+		(property "Reference" "#PWR043"
+			(at 226.06 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 232.41 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8b204d5-1088-4339-abc3-6835e8bf66e7")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
 		(at 234.95 38.1 0)
 		(unit 1)
@@ -9135,7 +9046,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "BM06B-SRSS-TB"
+		(property "Value" "SM06B-SRSS-TB"
 			(at 242.824 35.306 0)
 			(effects
 				(font
@@ -9146,7 +9057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
 			(at 236.474 28.448 0)
 			(effects
 				(font
@@ -9173,7 +9084,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2845374"
+		(property "LCSC" "C2763616"
 			(at 235.458 63.5 0)
 			(effects
 				(font
@@ -9191,7 +9102,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
 			(at 234.95 58.166 0)
 			(effects
 				(font
@@ -9200,7 +9111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
 			(at 234.95 61.722 0)
 			(effects
 				(font
@@ -9209,7 +9120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-BM06BSRSSTBTLFSN"
+		(property "Mouser" "306-SM06BSRSSTBTLFSN"
 			(at 234.696 59.944 0)
 			(effects
 				(font
@@ -10199,73 +10110,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 232.41 81.28 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4cd160b-facb-4928-8602-8ea959354b85")
-		(property "Reference" "#PWR043"
-			(at 226.06 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 81.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14d257e8-cf4c-4842-8e45-edf2d4493ec3")
-		)
-		(instances
-			(project "Aquarius v1.5"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CRGM Passive:PESD3V3S1BL")
 		(at 118.11 133.35 90)
 		(unit 1)
@@ -10380,261 +10224,6 @@
 			(project "Aquarius v1.5"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CRGM Connector:JST-SH-4")
-		(at 234.95 88.9 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5e64305-a48e-4cd1-88be-e3d1b0efb363")
-		(property "Reference" "J6"
-			(at 236.474 78.486 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
-				)
-				(justify left top)
-			)
-		)
-		(property "Value" "BM04B-SRSS-TB"
-			(at 242.316 78.486 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.2223)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 237.998 75.184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 238.506 61.468 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "4 Position, 1mm pitch"
-			(at 237.998 72.898 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "JST"
-			(at 238.252 77.216 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 238.76 70.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 238.506 67.818 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 238.506 65.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2904986"
-			(at 237.998 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "2e479eb5-436f-4989-8bbf-9d51bf467b58")
-		)
-		(pin "3"
-			(uuid "fc25a730-487d-422c-bd5e-883b6d79ab67")
-		)
-		(pin "2"
-			(uuid "1406f424-2339-4b41-aae0-2ed99b2e6ad2")
-		)
-		(pin "1"
-			(uuid "ce0d8ac7-8ef6-44ec-9618-283404cbad36")
-		)
-		(instances
-			(project ""
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d6501160-5463-4d23-8a6e-25e097d0ed26")
-		(property "Reference" "J5"
-			(at 236.982 56.896 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "BM06B-SRSS-TB"
-			(at 242.316 56.896 0)
-			(effects
-				(font
-					(size 1.778 1.778)
-					(thickness 0.2223)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-			(at 236.474 50.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 86.868 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2845374"
-			(at 235.458 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MN" "JST"
-			(at 234.95 78.232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 79.756 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-			(at 234.95 83.312 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" "306-BM06BSRSSTBTLFSN"
-			(at 234.696 81.534 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "c8ff5066-bbe3-4b2c-ae64-d50430004922")
-		)
-		(pin "4"
-			(uuid "c54395f3-11d7-4542-b76f-58bfbc1666f9")
-		)
-		(pin "3"
-			(uuid "001bc038-6bf1-420f-b3ca-9629e2668222")
-		)
-		(pin "6"
-			(uuid "b2ed4a47-0237-4567-8570-13dcdcde6777")
-		)
-		(pin "1"
-			(uuid "3d6f6594-b59e-40c4-9e61-a7bf8c732c7f")
-		)
-		(pin "2"
-			(uuid "04a253c3-80e7-4a47-8916-1ca7be22817e")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -11831,73 +11420,6 @@
 			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
 					(reference "TP47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 232.41 97.79 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f77fd5eb-d268-4ffb-8e2e-0ff81ccbf3a1")
-		(property "Reference" "#PWR072"
-			(at 226.06 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 97.7899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bde17740-99a9-44d1-a65d-7a1a2281c032")
-		)
-		(instances
-			(project "Node"
-				(path "/39407804-2746-45a9-a901-1039a9921518/0bf90076-928a-45d6-9997-446248316407"
-					(reference "#PWR072")
 					(unit 1)
 				)
 			)
