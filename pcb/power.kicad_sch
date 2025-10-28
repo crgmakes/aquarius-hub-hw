@@ -4117,6 +4117,12 @@
 		(uuid "2eb2b66f-23cc-461b-862e-b7b09329e24b")
 	)
 	(junction
+		(at 148.59 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "524eb9a3-acc4-47a4-8fc7-651285f01889")
+	)
+	(junction
 		(at 97.79 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4450,6 +4456,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 106.68) (xy 153.67 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58644633-8cb6-4d8e-9338-b3d6b78387b1")
+	)
+	(wire
+		(pts
 			(xy 137.16 29.21) (xy 137.16 33.02)
 		)
 		(stroke
@@ -4507,6 +4523,16 @@
 			(type default)
 		)
 		(uuid "6b91832b-c4fa-45ad-867a-5f9d5d08727a")
+	)
+	(wire
+		(pts
+			(xy 153.67 106.68) (xy 153.67 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70bd7caa-65f8-4fd7-b1a0-0348111ca262")
 	)
 	(wire
 		(pts
@@ -7305,6 +7331,109 @@
 			(project "power-module"
 				(path "/445c1fff-2e1a-48b1-a91f-a137832edebf"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 153.67 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c8af67c-b039-4011-8a66-fe61481fb69e")
+		(property "Reference" "TP60"
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 152.146 100.076 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "CRGM Mechanical:TestPoint_Pad_D1.0mm"
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 153.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 153.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 153.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 153.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 153.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b970b05c-7671-44b1-b743-a2dd08c652aa")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "TP60")
 					(unit 1)
 				)
 			)
