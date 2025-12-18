@@ -8726,6 +8726,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 196.85 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95a2c191-9a24-49da-a5a7-8193ee63d967")
 		)
@@ -8886,6 +8895,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 186.69 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 186.69 25.4 0)
 			(effects
 				(font
@@ -9080,6 +9098,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 39.37 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a60f3b1f-58e6-4bfb-b034-5ee2e6ac24a5")
 		)
@@ -9143,6 +9170,15 @@
 		)
 		(property "Description" "test point"
 			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 58.42 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9318,6 +9354,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 88.9 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a637ad9c-7e46-4da2-aca8-0d3be994f553")
 		)
@@ -9421,6 +9466,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 242.57 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "749578c6-51b8-4fe6-a2ae-8c9aa38a0f35")
 		)
@@ -9516,6 +9570,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 184.15 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 184.15 25.4 0)
 			(effects
 				(font
@@ -9644,6 +9707,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 157.48 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e8c3789f-07c6-44ff-88b5-150e82f45785")
 		)
@@ -9742,6 +9814,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 191.77 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 191.77 25.4 0)
 			(effects
 				(font
@@ -9856,6 +9937,15 @@
 		)
 		(property "MN" "Shikues"
 			(at 167.64 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 167.64 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10046,6 +10136,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 215.9 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "15"
 			(uuid "a379d9c8-87bb-4660-a932-d911fc34ea52")
 		)
@@ -10194,6 +10293,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 39.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5a2a59c-dfc5-4c85-97a9-02e5cdc9fe91")
 		)
@@ -10289,6 +10397,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 154.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 154.94 93.98 0)
 			(effects
 				(font
@@ -10487,6 +10604,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 59.69 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b95c910-45e6-4c26-a0a8-afd4bc3fba17")
 		)
@@ -10591,6 +10717,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 181.61 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 181.61 25.4 0)
 			(effects
 				(font
@@ -10917,6 +11052,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 30.48 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d173f6cb-dfd1-4641-b831-dada815e281d")
 		)
@@ -11027,6 +11171,15 @@
 			)
 		)
 		(property "LCSC" "C151009"
+			(at 165.1 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 165.1 109.22 0)
 			(effects
 				(font
@@ -11161,6 +11314,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 123.19 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "898febde-a3a6-46f8-9d85-afce4b622efa")
 		)
@@ -11259,6 +11421,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 179.07 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 179.07 25.4 0)
 			(effects
 				(font
@@ -11379,6 +11550,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 232.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c264cd7e-6be5-45ee-ad9f-e2fd34b28ca6")
 		)
@@ -11448,6 +11628,15 @@
 		)
 		(property "Description" "test point"
 			(at 58.42 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 58.42 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11652,6 +11841,15 @@
 		)
 		(property "LCSC" "C6119849"
 			(at 23.114 165.354 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 30.48 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11897,6 +12095,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 220.98 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf193182-2296-40b0-8621-10e5d8536dda")
 		)
@@ -12017,6 +12224,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 88.9 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c86d792-7762-4fc5-9721-5554026827e8")
 		)
@@ -12115,6 +12331,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 201.93 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 201.93 25.4 0)
 			(effects
 				(font
@@ -12235,6 +12460,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 198.12 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 198.12 109.22 0)
 			(effects
 				(font
@@ -12408,6 +12642,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 173.99 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 173.99 25.4 0)
 			(effects
 				(font
@@ -12651,6 +12894,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 199.39 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d7055f4-de85-4c6e-a63e-6ec130468951")
 		)
@@ -12763,6 +13015,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
+			(at 111.76 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -12899,6 +13160,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 171.45 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb18f266-651b-4c0c-8a38-05a400ed8818")
 		)
@@ -13008,6 +13278,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 176.53 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a62a6ab-cc55-4768-831b-600bc18d90d8")
 		)
@@ -13103,6 +13382,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 189.23 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 189.23 25.4 0)
 			(effects
 				(font
@@ -13442,6 +13730,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 58.42 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d032a1e0-917a-43f8-bdb4-a849b00f7a90")
 		)
@@ -13610,6 +13907,15 @@
 			)
 		)
 		(property "MPN" "ESP32-S3-WROOM-1-N8R2"
+			(at 73.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 73.66 58.42 0)
 			(effects
 				(font
@@ -13858,6 +14164,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 251.46 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13935358-0658-4343-904d-cf26eada523d")
 		)
@@ -14022,6 +14337,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 194.31 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 194.31 25.4 0)
 			(effects
 				(font
@@ -14214,6 +14538,15 @@
 		)
 		(property "LCSC" "C115360"
 			(at 110.236 179.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 109.22 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)

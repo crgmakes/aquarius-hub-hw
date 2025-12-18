@@ -19810,6 +19810,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 22.86 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
@@ -19900,6 +19909,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 78.74 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
@@ -19982,6 +20000,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 55.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 55.88 184.15 0)
 			(effects
 				(font
@@ -20081,6 +20108,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 153.67 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
@@ -20164,6 +20200,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 153.67 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 153.67 176.53 0)
 			(effects
 				(font
@@ -20263,6 +20308,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 153.67 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
@@ -20346,6 +20400,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 45.72 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 45.72 184.15 0)
 			(effects
 				(font
@@ -20445,6 +20508,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 35.56 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
@@ -20527,6 +20599,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 66.04 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 66.04 184.15 0)
 			(effects
 				(font
@@ -20618,6 +20699,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 153.67 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 153.67 186.69 0)
 			(effects
 				(font

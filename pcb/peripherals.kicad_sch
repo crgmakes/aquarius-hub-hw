@@ -2000,6 +2000,26 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 113.03) (xy 232.41 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0066f8b9-70bd-4ce9-ac65-a7db8945b5a8")
+	)
+	(wire
+		(pts
+			(xy 218.44 86.36) (xy 232.41 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "022e8a85-5923-4bad-9d2a-48ef173d3488")
+	)
+	(wire
+		(pts
 			(xy 125.73 49.53) (xy 125.73 59.69)
 		)
 		(stroke
@@ -2027,16 +2047,6 @@
 			(type default)
 		)
 		(uuid "05c2e62c-594f-4eae-80a0-8d5cc47fbd98")
-	)
-	(wire
-		(pts
-			(xy 215.9 43.18) (xy 232.41 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "097ebaab-2a66-44a0-9f3e-8384becc2b29")
 	)
 	(wire
 		(pts
@@ -2140,6 +2150,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 40.64) (xy 232.41 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "226192a9-f9e3-4a24-bf11-5e9ac5744082")
+	)
+	(wire
+		(pts
 			(xy 171.45 92.71) (xy 171.45 130.81)
 		)
 		(stroke
@@ -2157,16 +2177,6 @@
 			(type default)
 		)
 		(uuid "231907dd-ebdb-4675-994c-a1bdcb1f6d7a")
-	)
-	(wire
-		(pts
-			(xy 129.54 62.23) (xy 232.41 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "244de586-0b7f-40f2-b864-cf51563482ac")
 	)
 	(wire
 		(pts
@@ -2237,16 +2247,6 @@
 			(type default)
 		)
 		(uuid "35dd6bf3-afaa-44fb-848c-0043cce12e8a")
-	)
-	(wire
-		(pts
-			(xy 232.41 88.9) (xy 215.9 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3797f779-726e-43e1-830f-c7e4eb2ff05c")
 	)
 	(wire
 		(pts
@@ -2330,6 +2330,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 105.41) (xy 232.41 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "413cd927-b1c8-440a-8e19-3999c114271b")
+	)
+	(wire
+		(pts
 			(xy 186.69 80.01) (xy 215.9 80.01)
 		)
 		(stroke
@@ -2357,26 +2367,6 @@
 			(type default)
 		)
 		(uuid "43e341b6-9c40-43be-bb94-de1600c2c59f")
-	)
-	(wire
-		(pts
-			(xy 220.98 48.26) (xy 232.41 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47abdfb5-4896-4f6d-b95e-5518a2b0909b")
-	)
-	(wire
-		(pts
-			(xy 232.41 105.41) (xy 210.82 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49d626b2-6f66-4b07-92b7-bb1234411a27")
 	)
 	(wire
 		(pts
@@ -2417,16 +2407,6 @@
 			(type default)
 		)
 		(uuid "4f8a73e9-c844-439c-8a5b-939ab7381210")
-	)
-	(wire
-		(pts
-			(xy 232.41 45.72) (xy 218.44 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5065cf10-68fc-4359-9a08-f09050c89e13")
 	)
 	(wire
 		(pts
@@ -2490,6 +2470,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 48.26) (xy 232.41 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60ef2cff-3d42-4ff9-8da1-a0e33c192ebf")
+	)
+	(wire
+		(pts
 			(xy 208.28 107.95) (xy 208.28 87.63)
 		)
 		(stroke
@@ -2500,6 +2490,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 110.49) (xy 232.41 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63db26ad-0091-4bcf-9a00-9f9923219454")
+	)
+	(wire
+		(pts
 			(xy 53.34 52.07) (xy 62.23 52.07)
 		)
 		(stroke
@@ -2507,26 +2507,6 @@
 			(type default)
 		)
 		(uuid "67fdfc00-9d27-44ad-abdb-5c2714d38df8")
-	)
-	(wire
-		(pts
-			(xy 232.41 110.49) (xy 205.74 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d0c053d-1874-4c35-80ae-d0a3fe17d926")
-	)
-	(wire
-		(pts
-			(xy 232.41 83.82) (xy 220.98 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70dec5bd-f1b2-4eb6-b913-e8a9b2e09a76")
 	)
 	(wire
 		(pts
@@ -2570,13 +2550,13 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 86.36) (xy 218.44 86.36)
+			(xy 232.41 62.23) (xy 129.54 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "76ccd403-bbe0-4e48-9e2e-85ccfc8d4ade")
+		(uuid "766dc43c-15f4-47b8-b2fc-5844f861287a")
 	)
 	(wire
 		(pts
@@ -2630,13 +2610,23 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 64.77) (xy 232.41 64.77)
+			(xy 140.97 69.85) (xy 232.41 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "856ec32f-bcc6-4c30-9fa2-6df5a55dd92e")
+		(uuid "823ae1bb-d821-4468-91f0-bf386772b8eb")
+	)
+	(wire
+		(pts
+			(xy 218.44 45.72) (xy 232.41 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88ac1076-1bb5-49e2-bf48-4e701660f441")
 	)
 	(wire
 		(pts
@@ -2650,6 +2640,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 91.44) (xy 232.41 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909616ed-e951-47bf-9747-6ba5f821df2b")
+	)
+	(wire
+		(pts
 			(xy 118.11 54.61) (xy 215.9 54.61)
 		)
 		(stroke
@@ -2657,6 +2657,16 @@
 			(type default)
 		)
 		(uuid "92403b9f-8755-4bf6-9647-a422fd51aec4")
+	)
+	(wire
+		(pts
+			(xy 208.28 107.95) (xy 232.41 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "936da970-c8bc-420a-8c09-967e32b574c0")
 	)
 	(wire
 		(pts
@@ -2677,6 +2687,16 @@
 			(type default)
 		)
 		(uuid "9bb2d0cd-27b5-4fbf-9799-f278410c3b2b")
+	)
+	(wire
+		(pts
+			(xy 220.98 83.82) (xy 232.41 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c0bd09c-686b-46f4-83fd-6002de25b2bd")
 	)
 	(wire
 		(pts
@@ -2717,6 +2737,16 @@
 			(type default)
 		)
 		(uuid "a1145d3c-937e-4986-92f4-9206921c75ef")
+	)
+	(wire
+		(pts
+			(xy 133.35 64.77) (xy 232.41 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c47e60-fb87-4f05-82a7-8d241244f04b")
 	)
 	(wire
 		(pts
@@ -2800,13 +2830,13 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 113.03) (xy 203.2 113.03)
+			(xy 215.9 88.9) (xy 232.41 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b73b7a88-2768-4844-9f13-74d61139da1b")
+		(uuid "b376c3b2-a013-4476-b1c7-527becaadb68")
 	)
 	(wire
 		(pts
@@ -2830,16 +2860,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 107.95) (xy 208.28 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8a9859d-6391-4d19-81d2-af48c0f9a58e")
-	)
-	(wire
-		(pts
 			(xy 205.74 110.49) (xy 205.74 90.17)
 		)
 		(stroke
@@ -2850,23 +2870,13 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 40.64) (xy 213.36 40.64)
+			(xy 137.16 67.31) (xy 232.41 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9853cf8-5742-46aa-916e-9084d53ed07e")
-	)
-	(wire
-		(pts
-			(xy 140.97 69.85) (xy 232.41 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba410c8b-dd85-47b1-87d7-be43edd8cc9d")
+		(uuid "b9abba48-ba5e-4859-98eb-1f5e70b3cd89")
 	)
 	(wire
 		(pts
@@ -2910,13 +2920,13 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 67.31) (xy 232.41 67.31)
+			(xy 215.9 43.18) (xy 232.41 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cb1d8923-382f-4845-9ecf-13a5dd0c237f")
+		(uuid "c7546d18-637a-429c-8de4-28ce7c578d51")
 	)
 	(wire
 		(pts
@@ -3127,16 +3137,6 @@
 			(type default)
 		)
 		(uuid "eef116ad-d737-4520-84c8-81586d15367a")
-	)
-	(wire
-		(pts
-			(xy 232.41 91.44) (xy 213.36 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3a65d43-438b-4212-8832-8db9714fc170")
 	)
 	(wire
 		(pts
@@ -3693,6 +3693,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 199.39 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bc682247-cde3-4bcb-8ecb-7a3546e1c742")
 		)
@@ -3799,6 +3808,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 144.78 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb8f96ca-f750-4e2d-9681-4ea17f6ba4cf")
 		)
@@ -3880,7 +3898,8 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 59.69 0)
+		(at 234.95 72.39 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3888,7 +3907,7 @@
 		(dnp no)
 		(uuid "1cb3ed9d-d2e5-4e1a-adf1-e787599a5d0b")
 		(property "Reference" "J5"
-			(at 237.236 56.896 0)
+			(at 237.236 75.184 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -3898,8 +3917,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SM06B-SRSS-TB"
-			(at 242.824 56.896 0)
+		(property "Value" "BM06B-SRSS-TB"
+			(at 242.824 75.184 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -3909,8 +3928,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
-			(at 236.474 50.038 0)
+		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+			(at 236.474 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3919,7 +3938,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 86.868 0)
+			(at 235.712 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +3947,7 @@
 			)
 		)
 		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 52.07 0)
+			(at 236.982 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,8 +3955,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763616"
-			(at 235.458 85.09 0)
+		(property "LCSC" "C2904988"
+			(at 235.458 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,7 +3965,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 78.232 0)
+			(at 234.95 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3954,8 +3973,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 79.756 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3963,8 +3982,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
-			(at 234.95 83.312 0)
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+			(at 234.95 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3972,8 +3991,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM06BSRSSTBTLFSN"
-			(at 234.696 81.534 0)
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
+			(at 234.696 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 234.95 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4116,6 +4144,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4e16c4d9-4f25-4953-8b12-4f7d712e275c")
 		)
@@ -4214,6 +4251,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 58.42 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 58.42 50.8 0)
 			(effects
 				(font
@@ -4472,6 +4518,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 156.21 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61528a1a-eb14-4690-a31b-6f909b1ce441")
 		)
@@ -4721,6 +4776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 80.01 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "aedfb0a2-6c85-409b-bc79-9da0cea4c968")
 		)
@@ -4922,6 +4986,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 144.78 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a223b483-8483-4e7c-bdb7-4721d53c5306")
 		)
@@ -5094,6 +5167,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 152.4 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6e34c22-9da2-4e77-8b5c-1001b3fd6c17")
 		)
@@ -5211,6 +5293,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 140.97 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3048ced-5ace-4638-b8f3-9cfd32280cdc")
 		)
@@ -5317,6 +5408,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 133.35 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e1de05b-4521-4e92-96a8-af01865fac99")
 		)
@@ -5398,7 +5498,8 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 102.87 0)
+		(at 234.95 115.57 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5406,7 +5507,7 @@
 		(dnp no)
 		(uuid "53e4183f-652b-4130-9a5c-5d16d46c9d83")
 		(property "Reference" "J7"
-			(at 237.236 100.076 0)
+			(at 237.236 118.364 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5416,8 +5517,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SM06B-SRSS-TB"
-			(at 242.824 100.076 0)
+		(property "Value" "BM06B-SRSS-TB"
+			(at 242.824 118.364 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5427,8 +5528,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
-			(at 236.474 93.218 0)
+		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+			(at 236.474 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +5538,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 130.048 0)
+			(at 235.712 88.392 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5446,7 +5547,7 @@
 			)
 		)
 		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 95.25 0)
+			(at 236.982 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5454,8 +5555,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763616"
-			(at 235.458 128.27 0)
+		(property "LCSC" "C2904988"
+			(at 235.458 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5464,7 +5565,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 121.412 0)
+			(at 234.95 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5472,8 +5573,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 122.936 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5481,8 +5582,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
-			(at 234.95 126.492 0)
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+			(at 234.95 91.948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5490,8 +5591,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM06BSRSSTBTLFSN"
-			(at 234.696 124.714 0)
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
+			(at 234.696 93.726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 234.95 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5528,7 +5638,8 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 81.28 0)
+		(at 234.95 93.98 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5536,7 +5647,7 @@
 		(dnp no)
 		(uuid "5563da86-dad0-42a0-8a0e-82613d409f09")
 		(property "Reference" "J6"
-			(at 237.236 78.486 0)
+			(at 237.236 96.774 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5546,8 +5657,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SM06B-SRSS-TB"
-			(at 242.824 78.486 0)
+		(property "Value" "BM06B-SRSS-TB"
+			(at 242.824 96.774 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -5557,8 +5668,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
-			(at 236.474 71.628 0)
+		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+			(at 236.474 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5567,7 +5678,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 108.458 0)
+			(at 235.712 66.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,7 +5687,7 @@
 			)
 		)
 		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 73.66 0)
+			(at 236.982 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5584,8 +5695,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763616"
-			(at 235.458 106.68 0)
+		(property "LCSC" "C2904988"
+			(at 235.458 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5594,7 +5705,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 99.822 0)
+			(at 234.95 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5602,8 +5713,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 101.346 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 73.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5611,8 +5722,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
-			(at 234.95 104.902 0)
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+			(at 234.95 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,8 +5731,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM06BSRSSTBTLFSN"
-			(at 234.696 103.124 0)
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
+			(at 234.696 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 234.95 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5872,6 +5992,15 @@
 		)
 		(property "Mouser" ""
 			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 140.97 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6131,6 +6260,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 73.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bad00da-34ed-492e-bf51-53f29ab20b52")
 		)
@@ -6303,6 +6441,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 118.11 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f00d02f9-58b3-4e05-9cc4-a3f5cf0c36a3")
 		)
@@ -6415,6 +6562,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 186.69 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 186.69 43.18 0)
 			(effects
 				(font
@@ -6662,6 +6818,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 121.92 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36cc22a3-c826-4d7a-beb8-c4fcc65acacd")
 		)
@@ -6774,6 +6939,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 180.34 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 180.34 43.18 0)
 			(effects
 				(font
@@ -7086,6 +7260,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 137.16 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "907fae30-597b-47d7-8a5a-b416e5fbe815")
 		)
@@ -7262,6 +7445,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 160.02 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 160.02 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7455,6 +7647,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 133.35 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7a3a7c3-b28f-4518-b45a-acb51a08b9a3")
 		)
@@ -7561,6 +7762,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 148.59 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a126578d-914e-40d1-ade8-93845cbf9ebf")
 		)
@@ -7657,6 +7867,15 @@
 		)
 		(property "Mouser" ""
 			(at 156.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 156.21 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7774,6 +7993,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 148.59 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 148.59 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7960,6 +8188,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 171.45 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 171.45 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8205,6 +8442,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 114.3 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afc3a107-b839-42d8-8362-59909f49b365")
 		)
@@ -8315,6 +8561,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 163.83 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 163.83 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8437,6 +8692,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 39.37 105.41 0)
 			(effects
 				(font
@@ -8815,6 +9079,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 160.02 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5fc13a7f-04d7-4488-8111-a600b57a7f65")
 		)
@@ -9028,7 +9301,8 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-6")
-		(at 234.95 38.1 0)
+		(at 234.95 50.8 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9036,7 +9310,7 @@
 		(dnp no)
 		(uuid "c73039c1-4059-4d31-bd35-f02bbd61cada")
 		(property "Reference" "J4"
-			(at 237.236 35.306 0)
+			(at 237.236 53.594 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9046,8 +9320,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SM06B-SRSS-TB"
-			(at 242.824 35.306 0)
+		(property "Value" "BM06B-SRSS-TB"
+			(at 242.824 53.594 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -9057,8 +9331,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
-			(at 236.474 28.448 0)
+		(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+			(at 236.474 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9067,7 +9341,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 235.712 65.278 0)
+			(at 235.712 23.622 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9076,7 +9350,7 @@
 			)
 		)
 		(property "Description" "6 position, 1mm pitch"
-			(at 236.982 30.48 0)
+			(at 236.982 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9084,8 +9358,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763616"
-			(at 235.458 63.5 0)
+		(property "LCSC" "C2904988"
+			(at 235.458 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9094,7 +9368,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 234.95 56.642 0)
+			(at 234.95 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,8 +9376,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM06B-SRSS-TBT(LF)(SN)"
-			(at 234.95 58.166 0)
+		(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
+			(at 234.95 30.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9111,8 +9385,8 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM06B-SRSS-TBTR-ND"
-			(at 234.95 61.722 0)
+		(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
+			(at 234.95 27.178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9120,8 +9394,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM06BSRSSTBTLFSN"
-			(at 234.696 59.944 0)
+		(property "Mouser" "306-BM06BSRSSTBTLFSN"
+			(at 234.696 28.956 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 234.95 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9305,6 +9588,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 53.34 50.8 0)
 			(effects
 				(font
@@ -9499,6 +9791,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 193.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "012bf99e-d2c4-4c60-96f3-a2d6150738af")
 		)
@@ -9612,6 +9913,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 167.64 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 167.64 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9739,6 +10049,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 114.3 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f3dc38f-8b2d-4c8e-ab09-628b4299c092")
 		)
@@ -9859,6 +10178,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 125.73 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fbeb1b8-f194-470a-b5ef-27feb71341c8")
 		)
@@ -9957,6 +10285,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 53.34 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 53.34 64.77 0)
 			(effects
 				(font
@@ -10214,6 +10551,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 118.11 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad8b7bb9-5831-4e48-9675-710cf9c6c73b")
 		)
@@ -10327,6 +10673,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 152.4 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 152.4 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10506,6 +10861,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 163.83 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d821916-2928-4f15-9270-0f5b90f59c24")
 		)
@@ -10675,6 +11039,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 58.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef4eceb5-cf93-4b31-869a-54408b079507")
 		)
@@ -10785,6 +11158,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 137.16 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 137.16 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10964,6 +11346,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 125.73 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0792f27b-d5b0-4061-8dbb-d8637cae376f")
 		)
@@ -11081,6 +11472,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 121.92 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6d2c770-d03e-4118-a649-8c351e407e81")
 		)
@@ -11180,6 +11580,15 @@
 		)
 		(property "Mouser" ""
 			(at 171.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 171.45 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11307,6 +11716,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 26.67 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9374d973-eb00-4376-b364-0602978ec0c9")
 		)
@@ -11406,6 +11824,15 @@
 		)
 		(property "Mouser" ""
 			(at 129.54 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11523,6 +11950,15 @@
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
 			(at 129.54 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 129.54 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11653,6 +12089,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 83.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b223b614-6f6f-45a7-96c6-a72ef62d2361")
 		)
@@ -11768,6 +12213,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 54.61 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 54.61 105.41 0)
 			(effects
 				(font
@@ -11941,6 +12395,15 @@
 		)
 		(property "Mouser" ""
 			(at 167.64 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 167.64 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)

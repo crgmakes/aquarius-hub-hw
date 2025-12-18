@@ -2577,6 +2577,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 110.49 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07025f30-e88c-4083-9536-a21e97cd3b1a")
 		)
@@ -2763,6 +2772,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 67.31 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55ff6eea-c019-4a8b-a618-42fe64f3a1a8")
 		)
@@ -2927,6 +2945,15 @@
 		)
 		(property "Mouser" ""
 			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 120.65 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3237,6 +3264,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 123.19 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a7f4edb-45fb-41ae-a29f-d1634dd7f894")
 		)
@@ -3345,6 +3381,15 @@
 		)
 		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 96.774 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 62.23 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3467,6 +3512,15 @@
 			)
 		)
 		(property "Tolerance" "5%"
+			(at 76.2 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
 			(at 76.2 66.04 0)
 			(effects
 				(font
@@ -3679,6 +3733,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 57.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "164a50eb-f53b-4aa5-b2aa-d4667a0d1cee")
 		)
@@ -3710,7 +3773,7 @@
 				)
 			)
 		)
-		(property "Value" "SM04B-SRSS-TB"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 41.275 40.64 0)
 			(effects
 				(font
@@ -3721,7 +3784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
 			(at 41.402 59.944 0)
 			(effects
 				(font
@@ -3748,7 +3811,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
 			(at 41.402 61.976 0)
 			(effects
 				(font
@@ -3766,7 +3829,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2904986"
 			(at 41.656 68.072 0)
 			(effects
 				(font
@@ -3775,7 +3838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
 			(at 41.91 64.008 0)
 			(effects
 				(font
@@ -3784,8 +3847,17 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
 			(at 42.418 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 36.83 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4050,6 +4122,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 107.95 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "86fd1647-1ca7-4944-9226-2c7d8d6209aa")
 		)
@@ -4152,6 +4233,15 @@
 		)
 		(property "Mouser" ""
 			(at 115.57 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 115.57 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,6 +4381,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d3f58d5-5e38-4a58-98e3-d42e1b0bbab7")
 		)
@@ -4399,6 +4498,15 @@
 		)
 		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
 			(at 101.854 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 67.31 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4519,6 +4627,15 @@
 		)
 		(property "Digikey" "455-BM08B-SRSS-TBTR-ND"
 			(at 104.394 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 105.41 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4717,6 +4834,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 123.19 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f53414de-0eca-4d2a-8d4f-68f00485d3aa")
 		)
@@ -4815,7 +4941,7 @@
 				)
 			)
 		)
-		(property "Value" "SM04B-SRSS-TB"
+		(property "Value" "BM04B-SRSS-TB"
 			(at 41.275 20.32 0)
 			(effects
 				(font
@@ -4826,7 +4952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
 			(at 41.402 39.624 0)
 			(effects
 				(font
@@ -4853,7 +4979,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SM04B-SRSS-TBT(LF)(SN)"
+		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
 			(at 41.402 41.656 0)
 			(effects
 				(font
@@ -4871,7 +4997,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2763614"
+		(property "LCSC" "C2904986"
 			(at 41.656 47.752 0)
 			(effects
 				(font
@@ -4880,7 +5006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-SM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM04BSRSSTBTLFSN"
 			(at 41.91 43.688 0)
 			(effects
 				(font
@@ -4889,8 +5015,17 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-SM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
 			(at 42.418 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 36.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5015,6 +5150,15 @@
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
 			(at 107.95 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 107.95 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5198,6 +5342,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 113.03 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b1351d2f-2aa9-4553-b065-2743b84afab4")
 		)
@@ -5294,6 +5447,15 @@
 		)
 		(property "Mouser" ""
 			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 115.57 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5404,6 +5566,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" ""
+			(at 118.11 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72ed4f9d-5c2b-496c-b040-f9c3d88fa6fe")
 		)
@@ -5500,6 +5671,15 @@
 		)
 		(property "Mouser" ""
 			(at 118.11 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 118.11 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
