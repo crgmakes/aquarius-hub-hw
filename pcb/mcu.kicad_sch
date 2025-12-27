@@ -3183,7 +3183,7 @@
 		)
 		(uuid f5ad88a2-8098-496c-80bd-2f298ba7ddbe)
 	)
-	(text "Buzzer"
+	(text "McBuz"
 		(exclude_from_sim yes)
 		(at 139.7 121.92 0)
 		(effects
@@ -3258,7 +3258,7 @@
 		)
 		(uuid "9296b9b5-4821-43e6-9a36-99a2375b3007")
 	)
-	(text "On Board LED"
+	(text "Mr. Blinky"
 		(exclude_from_sim yes)
 		(at 208.28 121.92 0)
 		(effects
