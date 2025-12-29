@@ -19593,7 +19593,7 @@
 		)
 		(uuid "8a13e011-e402-4f05-921b-ac16c5df72fe")
 	)
-	(text_box "BASIC\n\n* ESP32-S3\n* 8MB Flash\n* Built In Antenna\n* USB C Data\n* 5v to 3.3V 1A\n* Connector Power In\n* USB Power In\n* Auto Power Selection\n* Reverse Polarity/Flow Protection\n* ESD Protection"
+	(text_box "BASIC\n\n* ESP32-S3\n* 8MB Flash\n* Built In Antenna\n* USB C Data\n* 5v to 3.3V 2A\n* Connector Power In\n* USB Power In\n* Auto Power Selection\n* Reverse Polarity/Flow Protection\n* ESD Protection"
 		(exclude_from_sim yes)
 		(at 16.51 30.48 0)
 		(size 85.09 55.88)
@@ -19693,7 +19693,7 @@
 		)
 		(uuid "d98e592a-086c-4297-b6b0-62cf7c39cf80")
 	)
-	(text_box "Interfaces:\n* 2 - Power\n* 1 - Serial\n* 1 - USB/Programming/Debug\n* 2 - I2C\n* 4 - GPIO for switches\n* 1 - SPI (LCD)\n* 4 - Buttons\n\nOUTPUT:\n* 1 - On Board RGB LED\n* 1 - External LEDs"
+	(text_box "Interfaces:\n* 1 - Power Input (3 pin)\n* 1 - Power Output (4 pin)\n* 1 - Serial\n* 1 - USB/Programming/Debug\n* 2 - I2C\n* 4 - GPIO for switches\n* 1 - SPI (LCD)\n* 4 - Buttons\n\nOUTPUT:\n* 1 - On Board RGB LED\n* 1 - External LEDs"
 		(exclude_from_sim yes)
 		(at 192.278 30.48 0)
 		(size 85.09 55.88)
