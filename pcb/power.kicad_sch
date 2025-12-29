@@ -4325,14 +4325,14 @@
 	)
 	(text "Power In"
 		(exclude_from_sim no)
-		(at 22.352 167.894 0)
+		(at 17.78 170.18 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 				(thickness 0.508)
 				(bold yes)
 			)
-			(justify left)
+			(justify left bottom)
 		)
 		(uuid "5fde70f5-4f42-429c-9a6e-b26bba3985ed")
 	)
@@ -4406,14 +4406,14 @@
 	)
 	(text "V5 Power Select"
 		(exclude_from_sim no)
-		(at 18.796 123.19 0)
+		(at 17.78 125.73 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 				(thickness 0.508)
 				(bold yes)
 			)
-			(justify left)
+			(justify left bottom)
 		)
 		(uuid "b632d0d0-3d96-4fcf-8094-0f293c772f91")
 	)
