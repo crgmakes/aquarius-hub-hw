@@ -5,7 +5,7 @@
 	(uuid "76d905ef-65d6-4a25-9084-753bfbe455be")
 	(paper "A4")
 	(title_block
-		(title "Aquarius Hub")
+		(title "Aquarius Node")
 		(date "<<release-date>>")
 		(rev "<<tag>>")
 		(comment 1 "<<hash>>")
@@ -2770,7 +2770,7 @@
 					(hide yes)
 				)
 			)
-			(property "Sim.Pin" "1=K 2=A"
+			(property "Sim.Pins" "1=K 2=A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6249,7 +6249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF"
+		(property "Datasheet" "~"
 			(at 105.41 148.59 0)
 			(effects
 				(font
@@ -6259,7 +6259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "20mA 315mcd Colorless Orange 120° 50mW 2.3V 0603"
+		(property "Description" "Light emitting diode, small symbol"
 			(at 105.41 148.59 0)
 			(effects
 				(font
@@ -6318,6 +6318,15 @@
 		)
 		(property "Package" ""
 			(at 105.41 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9339,7 +9348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF"
+		(property "Datasheet" "~"
 			(at 118.11 148.59 0)
 			(effects
 				(font
@@ -9349,7 +9358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "20mA 315mcd Colorless Orange 120° 50mW 2.3V 0603"
+		(property "Description" "Light emitting diode, small symbol"
 			(at 118.11 148.59 0)
 			(effects
 				(font
@@ -9408,6 +9417,15 @@
 		)
 		(property "Package" ""
 			(at 118.11 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
