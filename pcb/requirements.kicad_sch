@@ -19299,6 +19299,115 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CRGM Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
+				(at 0 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -9.652 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 -10.668 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Graphic:Logo_Open_Hardware_Small"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -19435,23 +19544,29 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Mechanical:MountingHole"
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016)
+				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
-			(in_bom no)
+			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "H"
-				(at 0 5.08 0)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
-			(property "Value" "MountingHole"
-				(at 0 3.175 0)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -19467,7 +19582,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -19476,7 +19591,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Mounting Hole without connection"
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 				(at 0 0 0)
 				(effects
 					(font
@@ -19485,7 +19600,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "mounting hole"
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(effects
 					(font
@@ -19494,25 +19609,37 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "MountingHole*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
 					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.27)
 					(stroke
-						(width 1.27)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -19735,6 +19862,24 @@
 		)
 		(uuid "e5ea19a5-7f8d-46b4-aa05-449f7de14517")
 	)
+	(junction
+		(at 165.1 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "383ac8e5-fe36-4f9d-a1f2-436213f70f5d")
+	)
+	(junction
+		(at 165.1 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85385c9a-3e8a-4ad6-b8c6-2b2bffad9d11")
+	)
+	(junction
+		(at 165.1 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8915e982-e54c-4183-9a40-152b4cf6ad25")
+	)
 	(polyline
 		(pts
 			(xy 17.78 25.4) (xy 68.58 25.4)
@@ -19745,6 +19890,86 @@
 			(color 204 102 0 1)
 		)
 		(uuid "3ab527e7-e56a-4f40-91de-4dc87a325d72")
+	)
+	(wire
+		(pts
+			(xy 162.56 185.42) (xy 165.1 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c92fc14-09c0-4768-9224-1f2b0097e5b9")
+	)
+	(wire
+		(pts
+			(xy 165.1 185.42) (xy 165.1 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9060af26-16c3-456c-ad6c-44669583589b")
+	)
+	(wire
+		(pts
+			(xy 162.56 175.26) (xy 165.1 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a621c9b6-e820-40ef-a598-b3ed72fc7535")
+	)
+	(wire
+		(pts
+			(xy 165.1 180.34) (xy 165.1 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc2b4bd4-f789-4d25-9d38-0b5415da9bfe")
+	)
+	(wire
+		(pts
+			(xy 162.56 180.34) (xy 165.1 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6533ce0-932d-4a0f-a959-39cc6103076a")
+	)
+	(wire
+		(pts
+			(xy 165.1 175.26) (xy 165.1 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d541e8ac-c94e-4f36-a13b-7063ff745b7e")
+	)
+	(wire
+		(pts
+			(xy 162.56 170.18) (xy 165.1 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6db1728-f902-4ba5-8c98-44198ac08b46")
+	)
+	(wire
+		(pts
+			(xy 165.1 170.18) (xy 165.1 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feeeeeff-fa55-40d5-90db-ab45c89aa268")
 	)
 	(symbol
 		(lib_id "CRGM Logos:CRGM Logo")
@@ -19840,6 +20065,71 @@
 			(project ""
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07b3ff73-3d8f-40d1-815f-7a61cd45861f")
+		(property "Reference" "#PWR0107"
+			(at 165.1 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 190.246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "56b236c6-d1dc-49ff-965f-5761f952233d")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -20044,8 +20334,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 153.67 171.45 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 160.02 170.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -20053,7 +20343,7 @@
 		(dnp no)
 		(uuid "546bc5c3-74e4-47e7-8aae-c0af4ba0064b")
 		(property "Reference" "H1"
-			(at 155.956 171.45 0)
+			(at 156.464 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20062,7 +20352,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 149.352 176.784 0)
+			(at 165.354 174.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20072,7 +20362,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 153.67 171.45 0)
+			(at 172.974 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20081,7 +20371,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 171.45 0)
+			(at 169.672 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20089,8 +20379,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 153.67 171.45 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 170.688 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20099,7 +20389,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 153.67 171.45 0)
+			(at 160.02 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20108,7 +20398,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 153.67 171.45 0)
+			(at 160.02 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20117,7 +20407,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 153.67 171.45 0)
+			(at 160.02 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20126,13 +20416,16 @@
 			)
 		)
 		(property "Package" ""
-			(at 153.67 171.45 0)
+			(at 160.02 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "44315bb1-1aa9-47c0-8f47-744642213ed0")
 		)
 		(instances
 			(project "aquarius-hub-hw"
@@ -20144,8 +20437,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 153.67 176.53 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 160.02 175.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -20153,7 +20446,7 @@
 		(dnp no)
 		(uuid "81e1049f-e226-4fe6-9575-9a149132e703")
 		(property "Reference" "H2"
-			(at 155.956 176.53 0)
+			(at 156.464 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20162,7 +20455,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.654 183.896 0)
+			(at 167.386 176.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20172,7 +20465,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 153.67 176.53 0)
+			(at 172.974 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20181,7 +20474,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 176.53 0)
+			(at 169.672 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20189,8 +20482,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 153.67 176.53 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 170.688 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20199,7 +20492,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 153.67 176.53 0)
+			(at 160.02 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20208,7 +20501,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 153.67 176.53 0)
+			(at 160.02 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20217,7 +20510,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 153.67 176.53 0)
+			(at 160.02 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20226,13 +20519,16 @@
 			)
 		)
 		(property "Package" ""
-			(at 153.67 176.53 0)
+			(at 160.02 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "6ea7ddfc-99cd-4edf-a802-569affc211a2")
 		)
 		(instances
 			(project "aquarius-hub-hw"
@@ -20244,8 +20540,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 153.67 181.61 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 160.02 180.34 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -20253,7 +20549,7 @@
 		(dnp no)
 		(uuid "8d8c7758-55e7-44ea-85e6-c03760a4d023")
 		(property "Reference" "H3"
-			(at 155.956 181.61 0)
+			(at 156.464 180.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20262,7 +20558,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.908 186.944 0)
+			(at 165.354 181.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20272,7 +20568,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 153.67 181.61 0)
+			(at 172.974 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20281,7 +20577,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 181.61 0)
+			(at 169.672 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20289,8 +20585,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 153.67 181.61 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 170.688 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20299,7 +20595,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 153.67 181.61 0)
+			(at 160.02 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20308,7 +20604,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 153.67 181.61 0)
+			(at 160.02 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20317,7 +20613,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 153.67 181.61 0)
+			(at 160.02 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20326,13 +20622,16 @@
 			)
 		)
 		(property "Package" ""
-			(at 153.67 181.61 0)
+			(at 160.02 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "fb62e0d4-ab40-4589-9abb-f4ece9251d92")
 		)
 		(instances
 			(project "aquarius-hub-hw"
@@ -20643,8 +20942,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 153.67 186.69 0)
+		(lib_id "CRGM Mechanical:MountingHole_Pad")
+		(at 160.02 185.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -20652,7 +20951,7 @@
 		(dnp no)
 		(uuid "c1ae002f-e5e4-4f1b-8bc2-68bb312687d5")
 		(property "Reference" "H4"
-			(at 155.956 186.69 0)
+			(at 156.718 185.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20661,7 +20960,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 155.956 194.056 0)
+			(at 167.386 183.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20671,7 +20970,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Mechanical:MountingHole_3.2mm_M3_Pad_Via"
-			(at 153.67 186.69 0)
+			(at 172.974 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20680,7 +20979,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 186.69 0)
+			(at 169.672 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20688,8 +20987,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole without connection"
-			(at 153.67 186.69 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 170.688 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20698,7 +20997,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 153.67 186.69 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20707,7 +21006,7 @@
 			)
 		)
 		(property "Digikey" ""
-			(at 153.67 186.69 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20716,7 +21015,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 153.67 186.69 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20725,13 +21024,16 @@
 			)
 		)
 		(property "Package" ""
-			(at 153.67 186.69 0)
+			(at 160.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "1"
+			(uuid "bc346771-e03e-4159-bdce-b9ff4ec29dc2")
 		)
 		(instances
 			(project "aquarius-hub-hw"
