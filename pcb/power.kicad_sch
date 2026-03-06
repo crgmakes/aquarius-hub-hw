@@ -37,7 +37,7 @@
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
-				(at 1.27 8.89 0)
+				(at 0 -25.146 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -46,7 +46,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 0 -23.876 0)
+				(at 0 -22.352 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -55,7 +55,7 @@
 				)
 			)
 			(property "Description" "JST SH 1.0mm 3 Position"
-				(at 2.032 6.35 0)
+				(at 0 -27.432 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -64,7 +64,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 0 -12.7 0)
+				(at 0.508 -18.288 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -73,7 +73,7 @@
 				)
 			)
 			(property "MPN" "BM04B-SRSS-TB"
-				(at 0 -14.478 0)
+				(at 0.508 -20.066 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -82,7 +82,7 @@
 				)
 			)
 			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 0 -18.796 0)
+				(at 0 -32.004 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -91,7 +91,7 @@
 				)
 			)
 			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 0 -21.336 0)
+				(at 0 -34.544 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -100,7 +100,7 @@
 				)
 			)
 			(property "LCSC" "C2919601"
-				(at 0 -16.51 0)
+				(at 0 -36.576 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -211,6 +211,42 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -5.08 180)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
@@ -241,7 +277,7 @@
 				)
 			)
 			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-				(at 3.048 -13.716 0)
+				(at 3.302 -22.86 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -250,7 +286,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 3.556 -27.432 0)
+				(at 3.81 -36.576 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -259,7 +295,7 @@
 				)
 			)
 			(property "Description" "4 Position, 1mm pitch"
-				(at 3.048 -16.002 0)
+				(at 3.302 -25.146 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -268,7 +304,7 @@
 				)
 			)
 			(property "MN" "JST"
-				(at 3.302 -11.684 0)
+				(at 3.556 -20.828 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -277,7 +313,7 @@
 				)
 			)
 			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-				(at 3.81 -18.542 0)
+				(at 4.064 -27.686 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -286,7 +322,7 @@
 				)
 			)
 			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 3.556 -21.082 0)
+				(at 3.81 -30.226 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -295,7 +331,7 @@
 				)
 			)
 			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 3.556 -23.368 0)
+				(at 3.81 -32.512 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -304,7 +340,7 @@
 				)
 			)
 			(property "LCSC" "C2763614"
-				(at 3.048 -25.4 0)
+				(at 3.302 -34.544 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -426,6 +462,42 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -7.62 180)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
 						(effects
 							(font
 								(size 0 0)
@@ -1899,7 +1971,7 @@
 				)
 			)
 			(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
-				(at 0 6.35 0)
+				(at 0 -24.638 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1927,7 +1999,7 @@
 				)
 			)
 			(property "MN" "Diodes Incorporated"
-				(at 0 0 0)
+				(at 0 -32.766 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1936,7 +2008,7 @@
 				)
 			)
 			(property "MPN" "AZ1084CD-3.3TRG1"
-				(at 0 0 0)
+				(at 0 -28.956 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1945,7 +2017,7 @@
 				)
 			)
 			(property "Mouser" "621-AZ1084CD-3.3TRG1"
-				(at 0 0 0)
+				(at 0 -30.988 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1954,7 +2026,7 @@
 				)
 			)
 			(property "Digikey" "AZ1084CD-3.3TRG1DITR-ND"
-				(at 0 0 0)
+				(at 0 -35.052 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4509,7 +4581,7 @@
 		(uuid "7f61fb17-fc67-46eb-8121-55dc0abbcffd")
 	)
 	(junction
-		(at 66.04 152.4)
+		(at 63.5 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "93af2b59-33ef-43ce-b440-cefd9c1fe14d")
@@ -4545,7 +4617,7 @@
 		(uuid "db2bf2f4-b5da-4001-a695-a00cef8adca8")
 	)
 	(junction
-		(at 71.12 144.78)
+		(at 68.58 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee2bab27-0cc0-42c3-8789-0ea78665fb73")
@@ -4557,7 +4629,7 @@
 		(uuid "f51eff0d-aff0-470e-9819-d49f0ccd996e")
 	)
 	(junction
-		(at 29.21 146.05)
+		(at 25.4 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdddcb2f-afda-4d07-a3d2-f05ac9f4fe63")
@@ -4586,7 +4658,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 144.78) (xy 78.74 144.78)
+			(xy 68.58 144.78) (xy 76.2 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4616,7 +4688,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 158.75) (xy 29.21 160.02)
+			(xy 25.4 156.21) (xy 25.4 157.48)
 		)
 		(stroke
 			(width 0)
@@ -4656,7 +4728,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 144.78) (xy 71.12 142.24)
+			(xy 68.58 144.78) (xy 68.58 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4736,7 +4808,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 160.02) (xy 71.12 158.75)
+			(xy 68.58 160.02) (xy 68.58 158.75)
 		)
 		(stroke
 			(width 0)
@@ -4746,7 +4818,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 149.86) (xy 66.04 152.4)
+			(xy 63.5 149.86) (xy 63.5 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4906,7 +4978,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 152.4) (xy 78.74 152.4)
+			(xy 63.5 152.4) (xy 76.2 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4956,7 +5028,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 143.51) (xy 29.21 146.05)
+			(xy 25.4 140.97) (xy 25.4 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5026,7 +5098,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 152.4) (xy 66.04 153.67)
+			(xy 63.5 152.4) (xy 63.5 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5136,7 +5208,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 144.78) (xy 71.12 153.67)
+			(xy 68.58 144.78) (xy 68.58 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5156,7 +5228,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 146.05) (xy 39.37 146.05)
+			(xy 25.4 143.51) (xy 35.56 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5236,7 +5308,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 146.05) (xy 29.21 153.67)
+			(xy 25.4 143.51) (xy 25.4 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5466,7 +5538,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 158.75) (xy 66.04 160.02)
+			(xy 63.5 158.75) (xy 63.5 160.02)
 		)
 		(stroke
 			(width 0)
@@ -5712,7 +5784,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 39.37 148.59 270)
+		(at 35.56 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5720,7 +5792,7 @@
 		(dnp no)
 		(uuid "044ffa39-40d4-48ca-9b1e-3b2e4efb9ea2")
 		(property "Reference" "#PWR0105"
-			(at 33.02 148.59 0)
+			(at 29.21 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5729,7 +5801,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.576 148.59 90)
+			(at 32.766 146.05 90)
 			(effects
 				(font
 					(size 1 1)
@@ -5738,7 +5810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 148.59 0)
+			(at 35.56 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5747,7 +5819,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 148.59 0)
+			(at 35.56 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +5828,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 148.59 0)
+			(at 35.56 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5784,7 +5856,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 66.04 160.02 0)
+		(at 63.5 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5792,7 +5864,7 @@
 		(dnp no)
 		(uuid "062fe827-b722-49a2-bc81-6d2d20a1c316")
 		(property "Reference" "#PWR029"
-			(at 66.04 166.37 0)
+			(at 63.5 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5801,7 +5873,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 163.322 0)
+			(at 63.5 163.322 0)
 			(effects
 				(font
 					(size 1 1)
@@ -5809,7 +5881,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 160.02 0)
+			(at 63.5 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5818,7 +5890,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 160.02 0)
+			(at 63.5 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5827,7 +5899,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 160.02 0)
+			(at 63.5 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5961,7 +6033,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Passive:PESD3V3S1BL")
-		(at 71.12 156.21 90)
+		(at 68.58 156.21 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5969,7 +6041,7 @@
 		(dnp no)
 		(uuid "11e490ba-101d-45c8-8251-783a9f6ca64a")
 		(property "Reference" "D26"
-			(at 74.168 157.734 0)
+			(at 71.628 157.734 0)
 			(effects
 				(font
 					(size 1 1)
@@ -5979,7 +6051,7 @@
 			)
 		)
 		(property "Value" "PESD3V3S1BL"
-			(at 74.676 161.29 0)
+			(at 72.136 161.29 0)
 			(effects
 				(font
 					(size 1 1)
@@ -5990,7 +6062,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
-			(at 76.2 155.956 0)
+			(at 73.66 155.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5999,7 +6071,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907150506553344"
-			(at 80.772 156.464 0)
+			(at 78.232 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6008,7 +6080,7 @@
 			)
 		)
 		(property "Description" "TVS DIODE Vrwm=3.3v Vcl=6.5v Ippm=10A DFN10062"
-			(at 90.17 154.686 0)
+			(at 87.63 154.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6017,7 +6089,7 @@
 			)
 		)
 		(property "LCSC" "C5563754"
-			(at 107.696 156.464 0)
+			(at 105.156 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6026,7 +6098,7 @@
 			)
 		)
 		(property "Digikey" "1727-PESD3V3S1BLYLTR-ND"
-			(at 105.664 155.448 0)
+			(at 103.124 155.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6035,7 +6107,7 @@
 			)
 		)
 		(property "Mouser" "621-DESD3V3S1BL-7B"
-			(at 103.632 154.686 0)
+			(at 101.092 154.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +6116,7 @@
 			)
 		)
 		(property "MN" "FUXINSEMI"
-			(at 71.12 156.21 0)
+			(at 68.58 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +6125,7 @@
 			)
 		)
 		(property "MPN" "LESD8D3.3CAT5G"
-			(at 71.12 156.21 0)
+			(at 68.58 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6134,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 71.12 156.21 0)
+			(at 68.58 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6087,7 +6159,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Passive:PESD5V5C1BLYL")
-		(at 29.21 156.21 90)
+		(at 25.4 153.67 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6095,7 +6167,7 @@
 		(dnp no)
 		(uuid "16556ce7-a99b-49fb-b2b1-6ea02c5781b3")
 		(property "Reference" "D20"
-			(at 32.258 157.48 0)
+			(at 28.448 154.94 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6105,7 +6177,7 @@
 			)
 		)
 		(property "Value" "PESD5V5C1BL"
-			(at 32.766 161.29 0)
+			(at 28.956 158.75 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -6117,7 +6189,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
-			(at 48.006 154.686 0)
+			(at 44.196 152.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +6198,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
-			(at 45.974 150.368 0)
+			(at 42.164 147.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6135,7 +6207,7 @@
 			)
 		)
 		(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
-			(at 34.29 156.21 0)
+			(at 30.48 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6144,7 +6216,7 @@
 			)
 		)
 		(property "LCSC" "C2827636"
-			(at 43.942 156.21 0)
+			(at 40.132 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6153,7 +6225,7 @@
 			)
 		)
 		(property "Mouser" "771-PESD5V5C1BLYL"
-			(at 40.386 156.21 0)
+			(at 36.576 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6162,7 +6234,7 @@
 			)
 		)
 		(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
-			(at 42.164 156.21 0)
+			(at 38.354 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6171,7 +6243,7 @@
 			)
 		)
 		(property "MN" "Nexperia"
-			(at 36.068 156.21 0)
+			(at 32.258 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6180,7 +6252,7 @@
 			)
 		)
 		(property "MPN" "PESD5V5C1BLYL"
-			(at 38.354 156.21 0)
+			(at 34.544 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6189,7 +6261,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 29.21 156.21 0)
+			(at 25.4 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,15 +6906,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 39.37 143.51 270)
+		(at 88.9 152.4 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "26b5bca5-52ec-4e33-a2c4-f0444a4a7f7b")
-		(property "Reference" "#PWR0106"
-			(at 33.02 143.51 0)
+		(uuid "202e88c3-2ad8-4e0e-b340-2b751871ee1d")
+		(property "Reference" "#PWR0128"
+			(at 95.25 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6851,16 +6923,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 36.576 143.51 90)
+			(at 92.202 152.4 0)
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
 				)
 				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 143.51 0)
+			(at 88.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6869,7 +6941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 143.51 0)
+			(at 88.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6878,7 +6950,73 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 143.51 0)
+			(at 88.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "32494d49-4308-4c31-8498-968b63207fcb")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 35.56 140.97 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26b5bca5-52ec-4e33-a2c4-f0444a4a7f7b")
+		(property "Reference" "#PWR0106"
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 32.766 140.97 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 35.56 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7264,7 +7402,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-3")
-		(at 41.91 143.51 0)
+		(at 38.1 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7272,28 +7410,28 @@
 		(dnp no)
 		(uuid "2e0cf471-7620-44e2-8fa7-c70b77aa6fd0")
 		(property "Reference" "J11"
-			(at 45.72 139.446 0)
+			(at 38.1 138.176 0)
 			(effects
 				(font
-					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(size 1.27 1.27)
+					(thickness 0.1588)
 				)
+				(justify left bottom)
 			)
 		)
-		(property "Value" "BM03B-SRSS-TB"
-			(at 45.72 139.7 0)
+		(property "Value" "~"
+			(at 38.1 151.384 0)
 			(effects
 				(font
 					(size 1.778 1.778)
-					(thickness 0.3556)
-					(bold yes)
+					(thickness 0.2223)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
-			(at 43.18 134.62 0)
+			(at 38.1 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,7 +7440,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 41.91 167.386 0)
+			(at 38.1 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7311,7 +7449,7 @@
 			)
 		)
 		(property "Description" "JST SH 1.0mm 3 Position"
-			(at 43.942 137.16 0)
+			(at 38.1 168.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7319,8 +7457,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2904985"
-			(at 41.91 160.02 0)
+		(property "LCSC" "C2919601"
+			(at 38.1 177.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7329,7 +7467,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 41.91 156.21 0)
+			(at 38.608 159.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7338,7 +7476,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
-			(at 41.91 157.988 0)
+			(at 38.608 161.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7347,7 +7485,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 41.91 162.306 0)
+			(at 38.1 172.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7356,7 +7494,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 41.91 164.846 0)
+			(at 38.1 175.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7365,7 +7503,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 41.91 143.51 0)
+			(at 38.1 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7381,6 +7519,12 @@
 		)
 		(pin "1"
 			(uuid "75f4f305-c446-4881-9eab-eab974de9e16")
+		)
+		(pin "MP"
+			(uuid "bde5f5c6-d81b-476e-b711-f803a2a760ea")
+		)
+		(pin "MP"
+			(uuid "a779e88f-61b7-4f7e-a333-107ace860965")
 		)
 		(instances
 			(project "aquarius-hub-hw"
@@ -8118,7 +8262,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 160.02 0)
+		(at 68.58 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8126,7 +8270,7 @@
 		(dnp no)
 		(uuid "473545ae-f539-47ca-8521-c221fd38eabb")
 		(property "Reference" "#PWR031"
-			(at 71.12 166.37 0)
+			(at 68.58 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8135,7 +8279,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 163.322 0)
+			(at 68.58 163.322 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8143,7 +8287,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 160.02 0)
+			(at 68.58 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8152,7 +8296,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 160.02 0)
+			(at 68.58 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8161,7 +8305,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 160.02 0)
+			(at 68.58 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8183,7 +8327,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 160.02 0)
+		(at 25.4 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8191,7 +8335,7 @@
 		(dnp no)
 		(uuid "47aac824-5dab-42ab-8778-2748ea14978c")
 		(property "Reference" "#PWR044"
-			(at 29.21 166.37 0)
+			(at 25.4 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8200,7 +8344,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 163.322 0)
+			(at 25.4 160.782 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8208,7 +8352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 160.02 0)
+			(at 25.4 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8217,7 +8361,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 160.02 0)
+			(at 25.4 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8226,7 +8370,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 160.02 0)
+			(at 25.4 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8248,7 +8392,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 71.12 142.24 0)
+		(at 68.58 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8256,7 +8400,7 @@
 		(dnp no)
 		(uuid "4ead845f-4216-434e-bc99-63516015bdeb")
 		(property "Reference" "#PWR0123"
-			(at 71.12 146.05 0)
+			(at 68.58 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8265,7 +8409,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 71.12 136.398 90)
+			(at 68.58 136.398 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8273,7 +8417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 142.24 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8282,7 +8426,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 142.24 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8291,7 +8435,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 71.12 142.24 0)
+			(at 68.58 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8313,7 +8457,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 29.21 143.51 0)
+		(at 25.4 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8321,7 +8465,7 @@
 		(dnp no)
 		(uuid "518ccde7-2858-4d87-a3a5-5d1ba46f030b")
 		(property "Reference" "#PWR027"
-			(at 29.21 147.32 0)
+			(at 25.4 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8330,7 +8474,7 @@
 			)
 		)
 		(property "Value" "LINE_5V"
-			(at 29.21 139.7 0)
+			(at 25.4 137.16 0)
 			(effects
 				(font
 					(size 1 1)
@@ -8338,7 +8482,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 143.51 0)
+			(at 25.4 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8347,7 +8491,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 143.51 0)
+			(at 25.4 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8356,7 +8500,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 29.21 143.51 0)
+			(at 25.4 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8436,6 +8580,72 @@
 			(project "Node"
 				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
 					(reference "#PWR087")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "57551d40-1ad3-4ae1-92fc-46e01dea2a32")
+		(property "Reference" "#PWR0127"
+			(at 95.25 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 92.202 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a8f0496-b54f-4d75-ab29-c270591447ea")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -8646,7 +8856,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Connector:JST-SH-4")
-		(at 81.28 152.4 0)
+		(at 78.74 152.4 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8655,7 +8865,7 @@
 		(dnp no)
 		(uuid "5d4d9c1c-d4e5-43f2-842b-216daa30daf9")
 		(property "Reference" "J12"
-			(at 81.28 155.194 0)
+			(at 78.74 155.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8665,7 +8875,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 81.28 141.986 0)
+			(at 78.74 141.986 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -8677,7 +8887,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-			(at 84.328 138.684 0)
+			(at 82.042 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8686,7 +8896,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-			(at 84.836 124.968 0)
+			(at 82.55 115.824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8695,7 +8905,7 @@
 			)
 		)
 		(property "Description" "4 Position, 1mm pitch"
-			(at 84.328 136.398 0)
+			(at 82.042 127.254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8704,7 +8914,7 @@
 			)
 		)
 		(property "MN" "JST"
-			(at 84.582 140.716 0)
+			(at 82.296 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8713,7 +8923,7 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-			(at 85.09 133.858 0)
+			(at 82.804 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8722,7 +8932,7 @@
 			)
 		)
 		(property "Mouser" "306-BM04BSRSSTBTLFSN"
-			(at 84.836 131.318 0)
+			(at 82.55 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8731,7 +8941,7 @@
 			)
 		)
 		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-			(at 84.836 129.032 0)
+			(at 82.55 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8740,7 +8950,7 @@
 			)
 		)
 		(property "LCSC" "C2763614"
-			(at 84.328 127 0)
+			(at 82.042 117.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8759,6 +8969,12 @@
 		)
 		(pin "1"
 			(uuid "a394d302-e15a-42be-9ecc-afdceb2050b4")
+		)
+		(pin "MP"
+			(uuid "3289acde-dcdf-40c2-af36-d8cb5744acc6")
+		)
+		(pin "MP"
+			(uuid "1afee937-8f6f-4d42-9214-cfcfe5c69dd3")
 		)
 		(instances
 			(project ""
@@ -10054,7 +10270,7 @@
 	)
 	(symbol
 		(lib_id "CRGM Passive:PESD5V5C1BLYL")
-		(at 66.04 156.21 90)
+		(at 63.5 156.21 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10062,7 +10278,7 @@
 		(dnp no)
 		(uuid "9f324529-bebc-4f96-b376-b3efdc844e28")
 		(property "Reference" "D3"
-			(at 69.088 157.48 0)
+			(at 66.548 157.48 0)
 			(effects
 				(font
 					(size 1 1)
@@ -10072,7 +10288,7 @@
 			)
 		)
 		(property "Value" "PESD5V5C1BL"
-			(at 69.596 161.29 0)
+			(at 67.056 161.29 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -10084,7 +10300,7 @@
 			)
 		)
 		(property "Footprint" "CRGM Passive:DFN1006-2"
-			(at 84.836 154.686 0)
+			(at 82.296 154.686 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10093,7 +10309,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD5V5C1BL.pdf"
-			(at 82.804 150.368 0)
+			(at 80.264 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +10318,7 @@
 			)
 		)
 		(property "Description" "TVS DIODE Vrwm=5.5v Vcl=5.4v Ippm=6.5A DFN10062"
-			(at 71.12 156.21 0)
+			(at 68.58 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +10327,7 @@
 			)
 		)
 		(property "LCSC" "C2827636"
-			(at 80.772 156.21 0)
+			(at 78.232 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +10336,7 @@
 			)
 		)
 		(property "Mouser" "771-PESD5V5C1BLYL"
-			(at 77.216 156.21 0)
+			(at 74.676 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10129,7 +10345,7 @@
 			)
 		)
 		(property "Digikey" "1727-PESD5V5C1BLYLTR-ND"
-			(at 78.994 156.21 0)
+			(at 76.454 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10138,7 +10354,7 @@
 			)
 		)
 		(property "MN" "Nexperia"
-			(at 72.898 156.21 0)
+			(at 70.358 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10147,7 +10363,7 @@
 			)
 		)
 		(property "MPN" "PESD5V5C1BLYL"
-			(at 75.184 156.21 0)
+			(at 72.644 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10156,7 +10372,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 66.04 156.21 0)
+			(at 63.5 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,6 +10599,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 48.26 140.97 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab4de38e-cdd0-4db9-ab3e-abc690ecc680")
+		(property "Reference" "#PWR0133"
+			(at 54.61 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 51.562 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "17b598f6-7792-498b-8b49-3e83eab67ff9")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Power:AZ1084-3.3")
 		(at 86.36 99.06 0)
 		(unit 1)
@@ -10393,23 +10675,24 @@
 		(fields_autoplaced yes)
 		(uuid "abddfb18-8f89-4af2-a864-dbfcc506dad5")
 		(property "Reference" "U7"
-			(at 86.36 92.71 0)
+			(at 86.36 93.0105 0)
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
 				)
 			)
 		)
 		(property "Value" "AZ1084-3.3"
-			(at 86.36 95.25 0)
+			(at 80.3827 95.4348 0)
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "CRGM Power:TO-252-2"
-			(at 86.36 92.71 0)
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+			(at 86.36 123.698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10418,7 +10701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AZ1084C.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AZ1084.pdf"
 			(at 90.424 120.142 0)
 			(effects
 				(font
@@ -10427,7 +10710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5A 12V Fixed LDO"
+		(property "Description" "5A 12V Fixed LDO Linear Regulator, 3.3V, TO-220/TO-252/TO-263"
 			(at 90.932 117.856 0)
 			(effects
 				(font
@@ -10437,7 +10720,7 @@
 			)
 		)
 		(property "MN" "Diodes Incorporated"
-			(at 86.36 99.06 0)
+			(at 86.36 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10446,7 +10729,7 @@
 			)
 		)
 		(property "MPN" "AZ1084CD-3.3TRG1"
-			(at 86.36 99.06 0)
+			(at 86.36 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10455,7 +10738,7 @@
 			)
 		)
 		(property "Mouser" "621-AZ1084CD-3.3TRG1"
-			(at 86.36 99.06 0)
+			(at 86.36 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10464,7 +10747,7 @@
 			)
 		)
 		(property "Digikey" "AZ1084CD-3.3TRG1DITR-ND"
-			(at 86.36 99.06 0)
+			(at 86.36 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11067,7 +11350,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 149.86 270)
+		(at 76.2 149.86 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11075,7 +11358,7 @@
 		(dnp no)
 		(uuid "bffb2f01-82ee-4bb6-abc9-2dd4877d65a5")
 		(property "Reference" "#PWR032"
-			(at 72.39 149.86 0)
+			(at 69.85 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11084,7 +11367,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 75.946 149.86 90)
+			(at 73.406 149.86 90)
 			(effects
 				(font
 					(size 1 1)
@@ -11093,7 +11376,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 149.86 0)
+			(at 76.2 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11102,7 +11385,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 149.86 0)
+			(at 76.2 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11111,7 +11394,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 149.86 0)
+			(at 76.2 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11133,7 +11416,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 66.04 149.86 0)
+		(at 63.5 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11141,7 +11424,7 @@
 		(dnp no)
 		(uuid "c476c4c1-a1b0-4c88-865f-ab8c4f08c0ad")
 		(property "Reference" "#PWR045"
-			(at 66.04 153.67 0)
+			(at 63.5 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11150,7 +11433,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 66.04 147.066 90)
+			(at 63.5 147.066 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11159,7 +11442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 149.86 0)
+			(at 63.5 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11168,7 +11451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 149.86 0)
+			(at 63.5 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11177,7 +11460,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 66.04 149.86 0)
+			(at 63.5 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11266,7 +11549,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 147.32 270)
+		(at 76.2 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11274,7 +11557,7 @@
 		(dnp no)
 		(uuid "c8a4838e-3b0c-4b98-9079-7d5cae755428")
 		(property "Reference" "#PWR030"
-			(at 72.39 147.32 0)
+			(at 69.85 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,7 +11566,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 75.946 147.32 90)
+			(at 73.406 147.32 90)
 			(effects
 				(font
 					(size 1 1)
@@ -11292,7 +11575,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 147.32 0)
+			(at 76.2 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11301,7 +11584,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 147.32 0)
+			(at 76.2 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11310,7 +11593,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 147.32 0)
+			(at 76.2 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11728,6 +12011,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 48.26 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d6f90636-09d0-41e7-8b5d-a8fceb510533")
+		(property "Reference" "#PWR0134"
+			(at 54.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 51.562 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37b9eb33-d3a0-40aa-8c46-2d0297aa21c4")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/769d4e06-da53-4a14-8173-369f034a88df"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRGM Passive:C_Polarized_Small")
 		(at 111.76 104.14 0)
 		(unit 1)
@@ -11863,19 +12212,21 @@
 		(dnp no)
 		(uuid "db31a2ab-848c-4505-9a7d-f3c676dbe651")
 		(property "Reference" "U2"
-			(at 40.64 93.98 0)
+			(at 34.544 91.948 0)
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
 				)
+				(justify left top)
 			)
 		)
 		(property "Value" "LM66200DRLR"
-			(at 40.64 95.504 0)
+			(at 34.544 94.488 0)
 			(effects
 				(font
-					(size 1 1)
+					(size 1.27 1.27)
 				)
+				(justify left top)
 			)
 		)
 		(property "Footprint" "CRGM Power:SOTFL50P160X60-8N"
@@ -11898,7 +12249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "2.5-A Dual Ideal Diode With Automatic Switchover"
+		(property "Description" "1.6-V to 5.5-V, 40-m, 2.5-A, low-IQ, dual ideal diode"
 			(at 42.418 111.76 0)
 			(effects
 				(font

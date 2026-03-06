@@ -2457,7 +2457,7 @@
 				)
 			)
 			(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
-				(at 1.27 -7.62 0)
+				(at -22.606 -24.13 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2467,7 +2467,7 @@
 				)
 			)
 			(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf"
-				(at 2.54 -9.525 0)
+				(at -26.416 -26.162 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2477,7 +2477,16 @@
 				)
 			)
 			(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
-				(at 0 0 0)
+				(at 0 -22.606 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C5349954"
+				(at 0 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2629,7 +2638,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 7.62 270)
 					(length 2.54)
 					(name "VDD"
@@ -2647,7 +2656,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin passive line
 					(at 0 -7.62 90)
 					(length 2.54)
 					(name "VSS"
@@ -3177,7 +3186,7 @@
 	)
 	(rectangle
 		(start 139.7 16.51)
-		(end 228.6 71.12)
+		(end 231.14 71.12)
 		(stroke
 			(width 0.254)
 			(type dash)
@@ -3459,20 +3468,12 @@
 		(uuid "52844c7f-bc6b-492f-b3fc-1beb68d12366")
 	)
 	(no_connect
-		(at 223.52 26.67)
-		(uuid "7f62c8ca-55d9-44b4-b181-5e59f08c7c83")
-	)
-	(no_connect
 		(at 88.9 73.66)
 		(uuid "8817dbb4-6c8f-41cf-82f8-c2415cf782ba")
 	)
 	(no_connect
 		(at 171.45 87.63)
 		(uuid "b3a82074-b4a0-4020-a99d-ac89d8b942f0")
-	)
-	(no_connect
-		(at 223.52 59.69)
-		(uuid "d8f1e393-98f4-4272-8fbb-fd53fb067dd8")
 	)
 	(wire
 		(pts
@@ -10146,27 +10147,27 @@
 		(dnp no)
 		(uuid "42e09257-dce8-4ca5-8600-ea9949c6b669")
 		(property "Reference" "J1"
-			(at 215.9 22.606 0)
+			(at 210.6666 23.3934 0)
 			(effects
 				(font
-					(size 1.778 1.5113)
-					(thickness 0.3023)
-					(bold yes)
+					(size 1 1)
+					(thickness 0.125)
 				)
+				(justify left bottom)
 			)
 		)
-		(property "Value" "XF2M-1415-1A"
-			(at 215.9 22.86 0)
+		(property "Value" "~"
+			(at 210.7892 64.5414 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
-					(thickness 0.3023)
-					(bold yes)
+					(thickness 0.1889)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:XF2M-1415-1A"
+		(property "Footprint" "CRGM Connector:XF2C_1415-1A"
 			(at 215.9 64.262 0)
 			(effects
 				(font
@@ -10176,7 +10177,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401301156_Omron-Electronics-XF2M-1415-1A_C397114.pdf"
-			(at 215.9 41.91 0)
+			(at 215.9 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10185,7 +10186,7 @@
 			)
 		)
 		(property "Description" "14P Dual-sided 0.5mm SMD Right Angle FFC, FPC"
-			(at 215.9 41.91 0)
+			(at 215.9 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10203,7 +10204,7 @@
 			)
 		)
 		(property "MPN" "XF2M-1415-1A"
-			(at 215.9 41.91 0)
+			(at 215.9 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10230,7 +10231,7 @@
 			)
 		)
 		(property "LCSC" "C397114"
-			(at 215.9 41.91 0)
+			(at 215.9 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10761,6 +10762,71 @@
 			(project "mcu"
 				(path "/5e921365-5c30-408b-a40c-c02a14d2fed3"
 					(reference "SW?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 26.67 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "695642fe-cc14-467a-879b-48868247b897")
+		(property "Reference" "#PWR0115"
+			(at 229.87 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.076 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f92760f4-65e6-4806-97fe-3133d1171e34")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -11674,7 +11740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Passive:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
+		(property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm"
 			(at 233.68 100.33 0)
 			(effects
 				(font
@@ -11739,7 +11805,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2976072"
+		(property "LCSC" "C5349954"
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -13942,13 +14008,78 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 114.3 0)
+		(at 223.52 59.69 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ea2d4b4c-f74e-4ce3-a7ba-1987632f56c8")
+		(property "Reference" "#PWR0124"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.076 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6fb1c92-9915-4136-b58b-288243f23242")
+		)
+		(instances
+			(project "aquarius-hub-hw"
+				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 198.12 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea2d4b4c-f74e-4ce3-a7ba-1987632f56c9")
 		(property "Reference" "#PWR067"
 			(at 198.12 120.65 0)
 			(effects
@@ -13994,7 +14125,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c6fb1c92-9915-4136-b58b-288243f23242")
+			(uuid "c6fb1c92-9915-4136-b58b-288243f23243")
 		)
 		(instances
 			(project "aquarius-hub-hw"
