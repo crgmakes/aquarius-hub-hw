@@ -281,15 +281,6 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "ESP32?S3?WROOM?1*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
 			(symbol "ESP32-S3-WROOM-1-N8R2_0_0"
 				(rectangle
 					(start -12.7 25.4)
@@ -14314,7 +14305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESP32-S3-WROOM-1-N8R2"
+		(property "Value" "ESP32-S3-WROOM-1-N16R2"
 			(at 88.392 31.75 0)
 			(effects
 				(font
