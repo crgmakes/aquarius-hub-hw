@@ -13407,7 +13407,7 @@
 				)
 			)
 		)
-		(property "Value" "FUET-5025"
+		(property "Value" "FUET-5020"
 			(at 181.61 82.55 0)
 			(effects
 				(font
@@ -13435,7 +13435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5 mm, 3 Vo-p, 75 dB, Magnetic Audio Transducer Buzzer"
+		(property "Description" "-20℃~+70℃ 110mA 2.2mm 2V~4V 3V 4kHz 5mm 5mm 75dB Electromagnetic Passive (Externally Driven) SMD,5x5mm Buzzers ROHS"
 			(at 183.896 95.758 0)
 			(effects
 				(font
@@ -13444,7 +13444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2.5"
+		(property "Height" "2.2"
 			(at 193.04 482.55 0)
 			(effects
 				(font
@@ -13474,7 +13474,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FUET-5025"
+		(property "MPN" "FUET-5020"
 			(at 193.04 882.55 0)
 			(effects
 				(font
@@ -13484,7 +13484,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C391030"
+		(property "LCSC" "C391029"
 			(at 185.928 98.044 0)
 			(effects
 				(font

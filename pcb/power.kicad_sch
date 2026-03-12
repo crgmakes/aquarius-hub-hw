@@ -10691,7 +10691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "CRGM Power:TO-252-2"
 			(at 86.36 123.698 0)
 			(effects
 				(font
