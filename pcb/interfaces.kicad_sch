@@ -221,7 +221,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "0"
 						(effects
 							(font
 								(size 0 0)
@@ -239,7 +239,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "4"
 						(effects
 							(font
 								(size 0 0)
@@ -560,7 +560,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "0"
 						(effects
 							(font
 								(size 0 0)
@@ -578,7 +578,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "9"
 						(effects
 							(font
 								(size 0 0)
@@ -756,7 +756,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "5"
 						(effects
 							(font
 								(size 0 0)
@@ -774,7 +774,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "0"
 						(effects
 							(font
 								(size 0 0)
@@ -1414,513 +1414,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JST-SH-3_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.1588)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -10.414 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.2223)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "CRGM Connector:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
-				(at 0 -25.146 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 0 -22.352 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "JST SH 1.0mm 3 Position"
-				(at 0 -27.432 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 0.508 -18.288 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM04B-SRSS-TB"
-				(at 0.508 -20.066 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 0 -32.004 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 0 -34.544 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2919601"
-				(at 0 -36.576 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JST-SH-3_1_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -7.62) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -7.62) (xy 0 -7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -5.08 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "QWIIC_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.1588)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -12.954 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "CRGM Connector:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
-				(at 4.318 -27.686 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "I2C Qwiic Connector 1mm pitch JST"
-				(at 4.064 -23.622 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 2.54 -22.098 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM04B-SRSS-TBT(LF)(SN)"
-				(at 4.318 -29.718 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM04BSRSSTBTLFSN"
-				(at 4.826 -31.75 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
-				(at 5.334 -33.782 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2919601"
-				(at 4.572 -35.814 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "qwiic, i2c connector, sparkfun"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "QWIIC_1_0_1"
-				(rectangle
-					(start 0 0)
-					(end 7.62 -12.7)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "QWIIC_1_1_0"
-				(text "SCL"
-					(at 7.366 -2.54 0)
-					(effects
-						(font
-							(size 1.25 1.25)
-						)
-						(justify right)
-					)
-				)
-				(text "SDA"
-					(at 7.366 -5.08 0)
-					(effects
-						(font
-							(size 1.25 1.25)
-						)
-						(justify right)
-					)
-				)
-				(text "VCC"
-					(at 7.366 -7.62 0)
-					(effects
-						(font
-							(size 1.25 1.25)
-						)
-						(justify right)
-					)
-				)
-				(text "GND"
-					(at 7.366 -10.16 0)
-					(effects
-						(font
-							(size 1.25 1.25)
-						)
-						(justify right)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -2.54 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -7.62 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 12.7 -10.16 180)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5079,10 +4572,10 @@
 		(pin "2"
 			(uuid "7eaa7f1c-c01f-4a5f-9c90-087c689eec5e")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "db678b22-82fd-44f7-8229-e0a4c1de8cf2")
 		)
-		(pin "MP"
+		(pin "5"
 			(uuid "df1e08c8-4006-4fa8-88cb-d50990bbf913")
 		)
 		(instances
@@ -5413,10 +4906,10 @@
 		(pin "1"
 			(uuid "4b8bf7ca-2513-441d-861c-f38d2e5aa7d7")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "d39c0cef-f834-4d7c-baac-ec8bc112cf50")
 		)
-		(pin "MP"
+		(pin "4"
 			(uuid "6b1e30e4-185c-404e-ba2b-45d07f2aa5d6")
 		)
 		(instances
@@ -6000,10 +5493,10 @@
 		(pin "8"
 			(uuid "d9fff4d5-72b0-4280-ae0b-a88005763d76")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "edc47261-3f14-411a-9e2f-920aaa2a14a1")
 		)
-		(pin "MP"
+		(pin "9"
 			(uuid "94c32e0c-4607-4e4b-a800-1e6f0b616862")
 		)
 		(instances
@@ -6262,7 +5755,6 @@
 		)
 	)
 	(symbol
-		(lib_name "QWIIC_1")
 		(lib_id "CRGM Connector:QWIIC")
 		(at 36.83 30.48 0)
 		(unit 1)
@@ -6386,10 +5878,10 @@
 		(pin "2"
 			(uuid "8ade1f9d-c48b-4246-b3b8-be75d0f9f927")
 		)
-		(pin "MP"
+		(pin "5"
 			(uuid "8df52a6a-0ec0-4c39-a078-e65a7723f0b6")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "95832747-e287-4d98-97f8-326a168e3382")
 		)
 		(instances
@@ -6468,7 +5960,6 @@
 		)
 	)
 	(symbol
-		(lib_name "JST-SH-3_1")
 		(lib_id "CRGM Connector:JST-SH-3")
 		(at 172.72 62.23 0)
 		(mirror y)
@@ -6589,10 +6080,10 @@
 		(pin "1"
 			(uuid "07b4cbdc-25f7-463d-80d9-6b1b19e9b280")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "726298ec-e017-4ac4-b2c7-93352b11aaa4")
 		)
-		(pin "MP"
+		(pin "4"
 			(uuid "a9447868-38ab-428d-8985-0fda470cf8b6")
 		)
 		(instances

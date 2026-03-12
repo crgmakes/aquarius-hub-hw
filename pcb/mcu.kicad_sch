@@ -1147,7 +1147,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CRGM Connector:XF2C_1415-1A"
+			(property "Footprint" "CRGM Connector:XF2M-1415-1A"
 				(at 0 -22.352 0)
 				(effects
 					(font
@@ -2486,15 +2486,6 @@
 				)
 			)
 			(property "ki_keywords" "RGB LED NeoPixel Nano addressable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED*WS2812*-2020_PLCC4*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10158,7 +10149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRGM Connector:XF2C_1415-1A"
+		(property "Footprint" "CRGM Connector:XF2M-1415-1A"
 			(at 240.03 64.262 0)
 			(effects
 				(font

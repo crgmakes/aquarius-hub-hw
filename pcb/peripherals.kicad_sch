@@ -276,7 +276,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "0"
 						(effects
 							(font
 								(size 0 0)
@@ -294,7 +294,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "7"
 						(effects
 							(font
 								(size 0 0)
@@ -615,7 +615,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "0"
 						(effects
 							(font
 								(size 0 0)
@@ -633,7 +633,7 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "9"
 						(effects
 							(font
 								(size 0 0)
@@ -1954,594 +1954,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JST-SH-6_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.2223)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -15.494 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-				(at 1.524 9.652 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 0.762 -27.178 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "6 position, 1mm pitch"
-				(at 2.032 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 0 -18.542 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
-				(at 0 -20.066 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM06BSRSSTBTLFSN"
-				(at -0.254 -21.844 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-				(at 0 -23.622 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2845374"
-				(at 0.508 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JST-SH-6_1_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -15.24) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -15.24)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -15.24) (xy 0 -15.24)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -12.7 0)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -12.7 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JST-SH-6_2"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(thickness 0.2223)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -15.494 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-						(thickness 0.3556)
-						(bold yes)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "CRGM Connector:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
-				(at 1.524 9.652 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
-				(at 0.762 -27.178 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "6 position, 1mm pitch"
-				(at 2.032 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MN" "JST"
-				(at 0 -18.542 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MPN" "BM06B-SRSS-TBT(LF)(SN)"
-				(at 0 -20.066 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Mouser" "306-BM06BSRSSTBTLFSN"
-				(at -0.254 -21.844 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digikey" "455-BM06B-SRSS-TBTR-ND"
-				(at 0 -23.622 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C2845374"
-				(at 0.508 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "JST-SH-6_2_1_0"
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 7.62 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -15.24) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -15.24)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -15.24) (xy 0 -15.24)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -2.54 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -7.62 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -10.16 0)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -12.7 0)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -12.7 180)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 0 0)
 							)
 						)
 					)
@@ -4926,7 +4338,6 @@
 		)
 	)
 	(symbol
-		(lib_name "JST-SH-6_1")
 		(lib_id "CRGM Connector:JST-SH-6")
 		(at 234.95 72.39 0)
 		(mirror x)
@@ -5057,10 +4468,10 @@
 		(pin "2"
 			(uuid "dd499a94-f1b8-4b26-aaa7-3c0f33e07f61")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "31121306-bc63-4502-8fde-d925eaae14b1")
 		)
-		(pin "MP"
+		(pin "7"
 			(uuid "dd833e96-f66b-49ab-9459-20c4d1932490")
 		)
 		(instances
@@ -6187,10 +5598,10 @@
 		(pin "8"
 			(uuid "fcdd2ff5-d84b-4f9e-8241-554479e603c7")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "a58c35ed-8eb6-407b-bd8e-186045db9f15")
 		)
-		(pin "MP"
+		(pin "9"
 			(uuid "bc0dbbdd-5866-4dfd-a9de-cf5fccf1af27")
 		)
 		(instances
@@ -6951,7 +6362,6 @@
 		)
 	)
 	(symbol
-		(lib_name "JST-SH-6_2")
 		(lib_id "CRGM Connector:JST-SH-6")
 		(at 234.95 135.89 0)
 		(mirror x)
@@ -7082,10 +6492,10 @@
 		(pin "2"
 			(uuid "9e1e4f1c-8d7c-4f14-b94c-f50014a5614a")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "7dc3cd65-f7da-4987-9414-81806d0cfb36")
 		)
-		(pin "MP"
+		(pin "7"
 			(uuid "ec5c839d-afdf-4356-9920-4fd1f83e304e")
 		)
 		(instances
@@ -10949,10 +10359,10 @@
 		(pin "2"
 			(uuid "b0dd52a9-c57e-4c0f-84f6-7ae94c94a173")
 		)
-		(pin "MP"
+		(pin "0"
 			(uuid "4175c337-6917-4be3-8a8e-9fbe200601f0")
 		)
-		(pin "MP"
+		(pin "7"
 			(uuid "73b59c6c-f7e0-4eb8-9d1c-8c9da50f3023")
 		)
 		(instances
