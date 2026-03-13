@@ -7457,7 +7457,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2919601"
+		(property "LCSC" "C2904985"
 			(at 38.1 177.546 0)
 			(effects
 				(font
@@ -7475,7 +7475,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 38.608 161.036 0)
 			(effects
 				(font
@@ -7484,7 +7484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "455-BM04B-SRSS-TBTR-ND"
+		(property "Digikey" "455-BM03B-SRSS-TBTR-ND"
 			(at 38.1 172.974 0)
 			(effects
 				(font
@@ -7493,7 +7493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "306-BM04BSRSSTBTLFSN"
+		(property "Mouser" "306-BM03BSRSSTBTLFSN"
 			(at 38.1 175.514 0)
 			(effects
 				(font

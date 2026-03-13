@@ -4852,7 +4852,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
+		(property "MPN" "BM03B-SRSS-TB"
 			(at 172.212 48.006 0)
 			(effects
 				(font
