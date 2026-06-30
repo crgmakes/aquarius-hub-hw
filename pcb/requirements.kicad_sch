@@ -20062,7 +20062,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO1")
 					(unit 1)
@@ -20238,7 +20238,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO3")
 					(unit 1)
@@ -20343,7 +20343,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO5")
 					(unit 1)
@@ -20776,7 +20776,7 @@
 			)
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO4")
 					(unit 1)
@@ -20882,7 +20882,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2e166321-b713-45e0-87cf-342f1811c390"
 					(reference "LOGO2")
 					(unit 1)

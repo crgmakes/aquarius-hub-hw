@@ -8811,7 +8811,7 @@
 			(uuid "95a2c191-9a24-49da-a5a7-8193ee63d967")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP22")
 					(unit 1)
@@ -9000,7 +9000,7 @@
 			(uuid "c8d492e3-0db1-49ca-b3a4-7d375f8f7985")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP18")
 					(unit 1)
@@ -9072,7 +9072,7 @@
 			(uuid "66e49a1b-1b8f-45d9-ac6f-def9a4f543f6")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR010")
 					(unit 1)
@@ -9210,7 +9210,7 @@
 			(uuid "34af2bf1-94fb-43fe-85f7-33a78cfd6d72")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "C4")
 					(unit 1)
@@ -9517,7 +9517,7 @@
 			(uuid "749578c6-51b8-4fe6-a2ae-8c9aa38a0f35")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP3")
 					(unit 1)
@@ -9635,7 +9635,7 @@
 			(uuid "80308d1b-b798-4a30-9a57-8c8d53c01e21")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP17")
 					(unit 1)
@@ -9891,7 +9891,7 @@
 			(uuid "23ac586d-4508-45c6-a5da-63191a09155c")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP20")
 					(unit 1)
@@ -10094,7 +10094,7 @@
 			(uuid "a34373d5-1c60-4b0b-85da-67119259a685")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR06")
 					(unit 1)
@@ -10268,7 +10268,7 @@
 			(uuid "9a81a6d9-a6f5-4dab-9710-b00fac42208c")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "J1")
 					(unit 1)
@@ -10724,7 +10724,7 @@
 			(uuid "46069663-2957-4e0c-97fa-363fe77a2387")
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "SW1")
 					(unit 1)
@@ -10907,7 +10907,7 @@
 			(uuid "939e003f-04db-4849-9b51-000c2d5a92b4")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP16")
 					(unit 1)
@@ -10979,7 +10979,7 @@
 			(uuid "4ffc487c-42c3-454b-9529-563744d4075d")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR015")
 					(unit 1)
@@ -11051,7 +11051,7 @@
 			(uuid "38f6c4eb-5406-4fd3-934d-86830f3480a6")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR018")
 					(unit 1)
@@ -11123,7 +11123,7 @@
 			(uuid "64a3805a-c951-4bd8-8e3c-7dab231ecab9")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR07")
 					(unit 1)
@@ -11261,7 +11261,7 @@
 			(uuid "c0b5a984-5f1b-4b50-bd1a-717cd94044b1")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "R3")
 					(unit 1)
@@ -11553,7 +11553,7 @@
 			(uuid "42e0e1e4-89b2-4908-817f-54aea7a57ca3")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "C2")
 					(unit 1)
@@ -11671,7 +11671,7 @@
 			(uuid "1c7d0330-41f7-459c-9635-96b0b520eda2")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP15")
 					(unit 1)
@@ -11806,7 +11806,7 @@
 			(uuid "6afc88ba-364a-40b1-b5c3-07b6b40ccb87")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "D1")
 					(unit 1)
@@ -11888,7 +11888,7 @@
 			(uuid "17b9388a-8aee-49cb-b4fa-cfd7c0b817b0")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP7")
 					(unit 1)
@@ -11960,7 +11960,7 @@
 			(uuid "c557cc9d-f68b-48a2-b5e0-750243f2d612")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR05")
 					(unit 1)
@@ -12116,7 +12116,7 @@
 			(uuid "7230bae8-32c5-4e71-bd80-ee47eaf62bff")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "C3")
 					(unit 1)
@@ -12188,7 +12188,7 @@
 			(uuid "a04790d6-39a7-47b5-8eaf-9ed83a3e97ed")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR016")
 					(unit 1)
@@ -12516,7 +12516,7 @@
 			(uuid "d9954509-87c1-495a-9050-b2b18edcf41b")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "C5")
 					(unit 1)
@@ -12634,7 +12634,7 @@
 			(uuid "d774505b-b4f3-4da7-a6f8-6baac0fe51a9")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP24")
 					(unit 1)
@@ -12845,7 +12845,7 @@
 			(uuid "3892f67e-34ae-4566-b550-78cea7bdea05")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR012")
 					(unit 1)
@@ -12963,7 +12963,7 @@
 			(uuid "1f7a89fe-eb42-48d4-94d0-6d2de59d5f1b")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP13")
 					(unit 1)
@@ -13035,7 +13035,7 @@
 			(uuid "395d69f4-8391-4e4b-81d9-c9db213f1396")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR03")
 					(unit 1)
@@ -13107,7 +13107,7 @@
 			(uuid "0c5e0d9c-8428-4d51-830e-3c73eb54aa82")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR04")
 					(unit 1)
@@ -13225,7 +13225,7 @@
 			(uuid "4d7055f4-de85-4c6e-a63e-6ec130468951")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP23")
 					(unit 1)
@@ -13363,7 +13363,7 @@
 			(uuid "0903bc5d-902e-4999-ad61-0b71607d9a09")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "C1")
 					(unit 1)
@@ -13627,7 +13627,7 @@
 			(uuid "3a62a6ab-cc55-4768-831b-600bc18d90d8")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP14")
 					(unit 1)
@@ -13745,7 +13745,7 @@
 			(uuid "b3c11c23-7dde-4928-a311-7df54386f675")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP19")
 					(unit 1)
@@ -13818,7 +13818,7 @@
 			(uuid "3ac1f16d-eb26-461a-9cce-0c3cfb2ac780")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR011")
 					(unit 1)
@@ -13890,7 +13890,7 @@
 			(uuid "e437ae57-4c7c-470f-8271-7911ff8eb67b")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR013")
 					(unit 1)
@@ -13962,7 +13962,7 @@
 			(uuid "802b4696-34be-4693-8da8-a506260c61c6")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR08")
 					(unit 1)
@@ -14170,7 +14170,7 @@
 			(uuid "439ed121-7e31-4474-aa59-83b24895d0d1")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR017")
 					(unit 1)
@@ -14415,7 +14415,7 @@
 			(uuid "38b5be5d-67d6-4cf7-9efc-5f8c929e863c")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "U1")
 					(unit 1)
@@ -14625,7 +14625,7 @@
 			(uuid "fad9fa1a-d4dd-4ef7-8c58-4d659c320822")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR09")
 					(unit 1)
@@ -14743,7 +14743,7 @@
 			(uuid "c917172b-a16a-4dfb-a09f-aca14562e4d9")
 		)
 		(instances
-			(project "Node"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "TP21")
 					(unit 1)
@@ -14815,7 +14815,7 @@
 			(uuid "ccc387a3-66aa-41ef-a00c-1cda1479c72e")
 		)
 		(instances
-			(project "Aquarius v1.5"
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "#PWR014")
 					(unit 1)
@@ -14964,7 +14964,7 @@
 			(uuid "4d0d8a9f-35cc-474a-bea7-aa3df86dbb51")
 		)
 		(instances
-			(project ""
+			(project "aquarius-hub-hw"
 				(path "/39407804-2746-45a9-a901-1039a9921518/2500e019-c938-4e9e-9faa-9174484e036e"
 					(reference "SW2")
 					(unit 1)
